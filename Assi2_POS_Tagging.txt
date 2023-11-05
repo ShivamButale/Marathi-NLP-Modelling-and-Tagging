@@ -1,0 +1,1000 @@
+<s> जून_N_NNP महीन्यातील_N_NN ती_PR_PRP एक_QT_QTC संध्याकाळ_N_NN होती_V_VAUX</s>
+<s> दोन_QT_QTC चार_QT_QTC आठवड्यांपुर्वी_N_NN येऊन_V_VM गेलेली_V_VM पावसाची_N_NN एखादी_QT_QTC बारीकशी_JJ सर_N_NN सोडली_V_VM तर_CC_CCS पावसाने_N_NN टांगच_N_NN दिली_V_VM होती_V_VAUX</s>
+<s> मुंबईच्या_N_NNP त्या_DM_DMD दमट_JJ वातावरणात_N_NN उष्णता_N_NN अधीकच_RP_INTF जाणवत_V_VM होती_V_VAUX</s>
+<s> चर्चगेट_N_NNP स्टेशनमधुन_RD_RDF बाहेर_N_NST आल्या-आल्या_V_VM मुंबईचा_N_NNP तो_PR_PRP टिपीकल_RD_RDF फिल_RD_RDF दिपकच्या_N_NNP अंगावर_N_NN आला_V_VM</s>
+<s> रस्ता_N_NN भरुन_JJ वाहणारी_JJ वाहनांची_ गर्दी_N_NN, स्टेशनच्या_RD_RDF आतबाहेर_N_NST करणारे_V_VM माणसांचे_N_NN लोंढे_N_NN, फेरीवाले_N_NN, पदपथावरील_N_NN छोटेमोठे_JJ स्टॉल्स_RD_RDF, भिकारी_N_NN</s>
+<s> सगळं_QT_QTF अगदी_RP_INTF जस्सच्या_PR_PRP तस्स_PR_PRP होतं_V_VAUX</s>
+<s> त्यात_PR_PRP काहीच_QT_QTF फरक_N_NN पडला_V_VM नव्हता_V_VM</s>
+<s> तीन_QT_QTC वर्षांपासुन_N_NN काश्मीरच्या_N_NN खोर्‍यात_N_NN तैनात_V_VM होता_V_VAUX</s>
+<s> गेल्याच_JJ वर्षी_N_NN तो_PR_PRP सुट्टीवरुन_N_NN परतला_V_VM होता_V_VAUX</s>
+<s> पण_CC_CCD आता_RB… आता_RB त्याला_PR_PRP मुंबई_N_NNPला सुट्टी_N_NN काढुन_V_VM लगेच_RB परतणे_V_VM अत्यंत_JJ गरजेचे_N_NN होते_V_VAUX नाहीतर_CC जेनीने_N_NNP आणि_CC_CCD तिच्या_PR_PRP पोटात_N_NN वाढणार्‍या_JJ पोराने_N_NN त्याला_PR_PRP घराबाहेरच_N_NST काढले_V_VMअसते_V_VM</s>
+<s> ७-८_QT_QTC महीने_NN जेनीने_N_NNP दिपकशिवाय_N_NNP कसेबसे_RB काढले_V_VM पण_CC_CCD आता_RB तिला_PR_PRP दिपकची_N_NNP</s>
+<s> तारीख_N_NN जवळ_RB जवळ_RB येत_V_VM चालली_V_VM होती_V_VAUX आणि_CC_CCD म्हणुनच_CC_CCS_UT दिपक_N_NNP शेवटी_RB तीन_QT_QTC महीन्यांची_N_NN सुट्टी_N_NN टाकुन_V_VM आला_V_VM होता_V_VAUX</s>
+<s>स्टेशनवरुन_RD_RDF खरं_N_NN तर_RP_RPD घरी_N_NN जाणं_V_VM त्याला_PR_PRP जास्ती_JJ सोयीस्कर_JJ होते_V_VAUX परंतु_CC त्याने_PR_PRP आणि_CC_CCD त्याची_PR_PRP पत्नी_N_NN जेनीने_N_NNP भेटण्याचे_JJ ठिकाण_N_NN ठरवले_V_VM होते_V_VAUX ते_PR_PRP त्यांच्या_PR_PRP कॉलेजच्या_RD_RDF बाहेर_N_NST असलेले छोटे_JJ टपरीवजा_JJ हॉटेल_N_NN</s>
+<s> ते_PR_PRP हॉटेल_N_NN जेथे_PR_PRL त्यांची_PRP सर्वप्रथम_JJ ओळख_N_NN झाली_V_VM होती_V_VAUX</s>
+<s> ते_PR_PRP हॉटेल_N_NN जेथे_PR_PRL त्यांच्यामधील_PRP प्रेम_N_NN फुलले_V_VM होते_V_VAUX</s>
+<s> ते_PR_PRP हॉटेल_N_NN ज्याने_PR_PRL त्या_DM_DMD दोघांमधील_PR_PRP रुसवे-फुगवे_N_NN, लटके_N_NN राग_N_NN पाहीले_V_VM होते_V_VAUX</s>
+<s>दिपकने_N_NNP एकवार_QT_QTC सभोवताली_N_NST नजर_N_NN टाकली_V_VM</s>
+<s> मिलीटरी_RD_RDF वेषातील_N_NN रुबाबदार_JJ दिपक_N_NNP कडे_N_NN येणारे-जाणारे_JJ लोक_N_NN आदबीने_RB पहात_V_VM होते_V_VAUX</s>
+<s> दिपकला_N_NNP त्याच्या_PR_PRP कामाचा_N_NN, त्याच्या_PR_PRP वर्दीचा_N_NN अभीमान_N_NN होता_V_VAUX</s>
+<s> त्याच्या_PR_PRP व्यक्तीमत्वाला_N_NN त्याचा_PR_PRP वेष_N_NN अधीकच_RP_INTF शोभुन_RB दिसायचा_V_VM</s>
+<s> लोकांकडुन_N_NN मिळणार्‍या_V_VM ह्या_DM_DMD कौतुकाच्या_JJ नजरांची_N_NN दिपकला_N_NNP सवय_N_NN होती_V_VAUX</s>
+<s> क्षणभर_RB तो_PR_PRP स्वतःशीच_PR_PRF हसला_V_VMआणि_CC मग_CC_CCS त्याने_PR_PRP टॅक्सी_RD_RDF थांबवली_V_VM</s>
+<s> वळकटीत_N_NN भरलेले_JJ सामान_N_NN दिपकने_N_NNP टॅक्सीच्या_RD_RDF डीकीत_N_NN फेकले_V_VM आणि_CC_CCD तो_PR_PRP मागच्या_JJ सिटवर_RD_RDF जाऊन_V_VM बसला_V_VM</s>
+<s>टॅक्सीने_RD_RDF वेग_N_NN पकडला_V_VM आणि_CC_CCD दिपकचे_N_NNP मन_N_NN भुतकाळात_N_NN धावु_V_VM लागले_V_VM</s>
+<s> एकाच_JJ कॉलेज_RD_RDF मधुन_N_NST दिपक_N_NNP आणि_CC_CCD जेनी_N_NNP ग्रॅज्यएट_RD_RDF झाले_V_VM</s>
+<s> कॉलेजच्या_RD_RDF दुसर्‍याच_QT_QTO वर्षात_N_NN दोघांचे_RB जमले_V_VM</s>
+<s> कॉलेजचे_RD_RDF ते_PR_PRP भारलेले_JJ दिवस_N_NN दोघांनी_PRP एकमेकांच्या_PRP प्रेमात_N_NN आकंठ_JJ बुडुनच_RB घालवले_V_VM</s>
+<s> कॉलेज_RD_RDF संपले_V_VM आणि_CC निधड्या_JJ छातीच्या_N_NN दिपकने_N_NNP एन_RD_RDF</s>
+<s> हुशार_JJ, तडफदार_JJ आणि_CC_CCD बिंधास्त_JJ दिपकने_N_NNP एन_RD_RDF</s>
+<s>ए_RD_RDF ची_RD_RDF सर्व_QT_QTF वर्ष_N_NN गाजवली_V_VM आणि_CC_CCD मिलीट्रीमध्ये_RD_RDF जॉईन_RD_RDF होताच_V_VM लगेचच_RB त्याचे_PR_PRP पोस्टींग_RD_RDF सिमावर्ती_JJ भागात_N_NN झाले_V_VM</s>
+<s>दिपक_N_NNP आणि_CC_CCD जेनीचा_N_NNP विवाह_N_NN थाटात_RB पार_V_VM पडला_V_VM आणि_CC_CCD लगेचच_RB दिपक_N_NNP सैन्यात_N_NN रुजु_V_VM झाला_V_VM</s>
+<s> पहाता_V_VM पहाता_V_VM त्या_DM_DMD घटनेला_N_NN दोन_QT_QTC वर्ष_N_NN उलटुन_V_VM गेली_V_VMआणि_CC मग_CC_CCS मात्र_RB दोघांना_PRP वेध_N_NN लागले_V_VM पुत्रप्राप्तीचे_N_NN</s>
+<s> ती_PR_PRP गोड_JJ बातमी_N_NN कळाली_V_VM तेंव्हा_PR_PRL दोघांना_PRP कोण_PR_PRQ आनंद_N_NN झाला_V_VM होता_V_VM</s>
+<s> “आमच्या_PRP सैन्यात_N_NN स्मार्ट_RD_RDF आणि_CC_CCD सुंदर_JJ लेडी_RD_RDF डॉक्टर्सची_RD_RDF कमतरता_N_NN आहे_V_VAUX</s>
+<s>”तु_PR_PRP असतोस_V_VM सदा_N_NN सर्वकाळ_N_NN सीमेवर_N_NN</s>
+<s> मला_PR_PRP तर_CC_CCS तुझ्यासारखाच_PR_PRP एखादा_QT_QTC मुलगा_N_NN हवा_V_VM जो_PR_PRL मला_PR_PRP तुझी_PRP आठवण_N_NN येऊ_V_VM देणार_V_VM नाही_V_VM…”</s>
+<s>दिपकला_N_NNP आज_RB टॅक्सीत_RD_RDF बसल्या_V_VM बसल्या_V_VM त्या_DM_DMD गोष्टी_N_NN आठवुन_V_VM हसु_N_NN येत_V_VM होते_V_VAUX</s>
+<s> त्याने_PR_PRP त्या_DM_DMD खटार्‍या_JJ प्रिमीयर_N_NNP पद्मीनीचे_N_NNP हॅन्डल_RD_RDF फिरवुन_V_VM खिडकी_N_NN उघडली_V_VM</s>
+<s> खिडकीतुन_N_NN येणार्‍या_V_VM समुद्रावरच्या_N_NN खार्‍या_JJ वार्‍याने_N_NN दिपकचे_N_NNP मन_N_NN उचंबळुन_JJ आले_V_VM</s>
+<s> दुरवर_N_NST वरळी_N_NNP सी-लिंकवरील_N_NN दिवे_N_NN लु्कलुकत_V_VM होते_V_VAUX</s>
+<s> सुर्यास्ताच्या_N_NN वेळी_N_NN आकाशात_N_NN पसरलेल्या_V_VM लालीची_N_NN जागा_N_NN आता_RB निळसर_JJ करड्या_JJ रंगाने_N_NN घेतली_V_VM होती_V_VAUX</s>
+<s>दिपकने_N_NNP घड्याळात_N_NN नजर_N_NN टाकली_V_VM आणि_CC_CCD तो_PR_PRP ड्रायव्हरला_N_NN म्हणाला_V_VM</s>
+<s> बिवी_RD_RDF इंतजार_RD_RDF कर_RD_RDF रही_RD_RDF होगी_RD_RDF</s>
+<s>टॅक्सीवाल्याने_RD_RDF आरश्यातुन_N_NN मागे_N_NST बसलेल्या_V_VM दिपकला_N_NNP एकवार_RB न्हाहाळले_V_VM, त्याच्या_PR_PRP चेहर्‍यावर_N_NN एक_QT_QTC मंद_JJ हास्य_N_NN उमटले_V_VMआणि_CC त्याने_PR_PRP गाडी_N_NN थर्डमध्ये_V_VM टाकुन_V_VM ओव्हरटेकींगला_RD_RDF सुरुवात_N_NN केली_V_VM</s>
+<s>दिपक_N_NNP कॅफेजवळ_N_NST पोहोचला_V_VM तेंव्हा_PR_PRL सांजवेळ_N_NN टळुन_V_VM गेली_V_VM होती_V_VAUX आणि_CC_CCD अंधाराने_N_NN आपले_PR_PRPS जाळे_N_NN विणायला_V_VM सुरुवात_N_NN केली_V_VM होती_V_VAUX</s>
+<s> कॅफेच्या_RD_RDF निऑन_RD_RDF दिव्यांच्याखाली_N_NN पायरीवर_N_NN जेनी_N_NNP दिपकची_N_NNP वाट_N_NN पहात_V_VM बसली_V_VM होती_V_VAUX</s>
+<s>पांढर्‍या_N_NN रंगाचा_N_NN, गुलाबी_JJ फुलांची_N_NN नक्षी_N_NN असलेला_V_VM मिडी_RD_RDF जेनीने_N_NNP घातला_V_VM होता_V_VM</s>
+<s> फिक्कट_JJ हिरव्या_JJ रंगाच्या_N_NN रीबिनेने_N_NNP तिचे_PR_PRPS लांबसडक_JJ केस_N_NN बांधलेले_V_VM होते_V_VAUX</s>
+<s> जादूच्या_N_NN पोतडीप्रमाणे_N_NN भासणारी_V_VM केशरी_N_NN रंगाची_N_NN मोठ्ठी_JJ पर्स_RD_RDF पायाशी_N_NST लोळत_V_VM होती_V_VAUX</s>
+<s>“चायला_RP_INJ ह्या_DM_DMD बायका_N_NN मिड_RD_RDF थर्टीमध्ये_RD_RDF किंवा_CC_CCD प्रेग्नंट_RD_RDF असताना_V_VM इतक्या_RP_INTF सुंदर_JJ कश्या_WRB दिसतात_V_VM हे_DM एक_QT_QTC न_RB उलगडलेले_V_VM कोड_N_NN आहे_V_VAUX</s>
+<s>दिपकला_N_NNP पहाताच_V_VM जेनी_N_NNP उठुन_V_VM उभी_V_VM राहीली_V_VM</s>
+<s> दोघेही_PRP सावकाश_JJ पावलं_N_NN टाकत_V_VM एकमेकांकडे_PR_PRC जाऊ_V_VM लागले_V_VM</s>
+<s> त्यात_PR_PRP कुठेही_PR_PRQ प्रेमाचा_N_NN दिखाउपणा_N_NN नव्हता_V_VM, कुठेही_PR_PRQ मर्यादा_N_NN ओलांडुन_V_VM वाहणारे_JJ कृत्य_N_NN नव्हते_V_VM, कुठेही_PR_PRQ भावनांचा_N_NN अतिरेक_N_NN नव्हता_V_VM</s>
+<s>दिपकने_N_NNP एकवार_RB जेनीच्या_N_NNP मोठ्या_JJ पोटाकडे_N_NN कौतुकमिश्रीत_JJ नजरेने_N_NN पाहीले_V_VM आणि_CC_CCD मिश्कील_JJ स्वरात_N_NN म्हणाला_V_VM…”मी_PR_PRP सांगतोय_V_VM तुला_PR_PRP जेनी_N_NNP, मुलगीच_N_NNP असणार_V_VM…”</s>
+<s>जेनीने_N_NNP एक_QT_QTC स्मितहास्य_N_NN केले_V_VM आणि_CC_CCD ती_PR_PRP दिपकला_N_NNP बिलगली_V_VM.</s>
+<s>दिपकने_N_NNP एकदा_RB कॅफे_RD_RDF कडे_N_NST बघितले_V_VM आणि_CC_CCD तो_PR_PRP म्हणाला_V_VM</s>
+<s> “इतकी_RP_INTF वर्ष_N_NN झाली_V_VM पण_CC_CCD सगळं_QT_QTF कस_PR_PRQ जसच्या_PR_PRP तस_PR_PRP आहे_V_VAUX नाही_V_VM?”</s>
+<s>“हम्म_RP_INJ खर_N_NN आहे_V_VAUX, पण_CC_CCD इथे_DM_DMD येणारी_V_VM लोक_N_NN बदलली_V_VM</s>
+<s>दिपकने_N_NNP कारच्या_N_NN डिकीतून_N_NN आपले_PR_PRPS सामान_N_NN काढले_V_VMआणि_CC तो_PR_PRP जेनीचा_N_NNP हात_N_NN धरून_V_VM कॅफे_RD_RDF च्या पायर्‍या_N_NN चढू_V_VM लागला_V_VM</s>
+<s> ते_PR_PRP बघ_V_VM अंकल_RD_RDF आंटी_RD_RDF आपल्या_PR_PRP कॅफे_RD_RDF मध्ये_N_NST</s>
+<s> तेवढ्यात_RB मागून_RB एक_QT_QTC आवाज_N_NN आला_V_VM</s>
+<s> प्रौढ_N_NN साक्षरता_N_NN वर्ग_N_NN वगैरे_IR चालू_V_VM केले_V_VM का_WP काय_PR_PRQ?’, दुसरा_QT_QTC आवाज_N_NN म्हणाला_V_VM</s>
+<s> थोड्या_JJ अंतरावर_N_NN पोरांचे_N_NN एक_QT_QTC टोळकं_N_NN दंगामस्ती_N_NN करत_V_VM उभ_V_VM होत_V_VM</s>
+<s>“ए.._RP_INJ गप्प_JJ बसा…_V_VM सोल्जर_RD_RDF चिडला_V_VM बर का_PR_PRQ…” तिसरा_QT_QTC आवाज_N_NN म्हणाला_V_VM..</s>
+<s>दीपक_N_NNP रागाने_RB मागे_N_NST फिरला_V_VM, परंतु_CC जेनीने_N_NNP त्याला_PR_PRP थांबवले_V_VM..</s>
+<s> कश्याला_WP त्यांच्या_PR_PRP नादी_N_NN लागतोस?_V_VM कॉलेज_RD_RDF मधली_N_NST पोर_N_NN ती_PR_PRP, असला_PRP पोरकटपणा_N_NN ते_PR_PRP नाही_V_VM करणार_V_VM तर_CC_CCS कोण_PR_PRQ करणार_V_VM?”, जेनी_N_NNP</s>
+<s> त्यांच्या_PR_PRP दृष्टीने_N_NN आपण_PR_PRF अंकल_RD_RDF ऑन्टीच_RD_RDF तर_CC_CCS आहोत_V_VM ना_RP_INJ</s>
+<s>दिपकने_N_NNP एक_QT_QTC रागाने_RB आवंढा_N_NN गिळला_V_VMआणि_CC तो_PR_PRP जेनीचा_N_NNP हात_N_NN धरून_V_VM कॅफे_RD_RDF मध्ये_N_NST गेला_V_VM</s>
+<s>बाहेरून_N_NST हसण्या-खिदळण्याचे,_V_VM कमेंट्सचे_RD_RDF आवाज_N_NN येत_V_VM होते_V_VAUX, परंतु_CC दिपकने_N_NNP मोठ्या_JJ कष्टाने_N_NN तिकडे_PRP दुर्लक्ष_N_NN केले_V_VM</s>
+<s>दिपकने_N_NNP कॅफे_RD_RDF मधली_N_NST एक_QT_QTC कोपर्‍यातली_JJ जागा_N_NN पकडली_V_VM</s>
+<s> दीपकला_N_NNP बघताच_V_VM कॅफे_RD_RDF मधला_N_NST जुना_JJ वेटर_N_NN दीपक_N_NNP समोर_N_NST येऊन_V_VM उभा_V_VM राहिला_V_VMआणि_CC त्याने_PR_PRP खाडकन_RB एक_QT_QTC सलाम_N_NN ठोकला_V_VM</s>
+<s>“अरे_RP_INJ महादेव_N_NNP!!_N_NNP”, त्याला_PR_PRP पहाताच_V_VM दिपक_N_NNP म्हणाला_V_VM</s>
+<s> “तु_PR_PRP अजुन_RB आहेस_V_VM होय…_N_NN”“मग_CC_CCS? मी_PR_PRP कुठं_PR_PRQ जातोय_V_VM? तुमच्या_PR_PRP सारखं_IN थोडंच_RB इथं_DM_DMD तिन_QT_QTC वर्षांपुरता_N_NN आलोय_V_VM…” आणि_CC_CCD मग_CC_CCS जेनीकडे_N_NNP वळुन_V_VM</s>
+<s> “काय_PR_PRQ आणु?_V_VM नेहमीचीच_JJ अंडा_N_NN भुर्जी,_N_NN बन_N_NN मस्का,_N_NN स्पेशल_RD_RDF चहा_N_NN?”</s>
+<s>“मग_CC_CCS काय_PR_PRQ महादेव_N_NNP काका_N_NN! दुसरीकडं_RB कुठंही_WP काहीही_WP खाल्ल_V_VM तरी_CC_CCD इथल्या_DM_DMD ह्या_DM_DMD पदार्थांची_N_NN चव_N_NN येणार_V_VM नाही_V_VM त्याला_PR_PRP…नेहमीचीच_RB ऑर्डर_RD_RDF…”, जेनी_N_NNP</s>
+<s>महादेव_N_NNP हसुन_V_VM ऑर्डर_RD_RDF आणायला_V_VM गेला_V_VM…</s>
+<s>“सो??_RD_RDF”, जेनी_N_NNP…“सो!_RD_RDF.. शेवटी_RB आलो_V_VM मी_N_NN…”, दिपक_N_NNP..“आय_RD_RDF मिस्ड_RD_RDF यु_RD_RDF सोsssss_RD_RDF मच…_RD_RDF”, जेनी_N_NNP..</s>
+<s>दिपकने_N_NNP हसुन_V_VM जेनीचा_N_NNP हात_N_NN हातात_N_NN घेतला_V_VM..</s>
+<s>”, जेनी_N_NNP एकदम_N_NN पोटावर_N_NN हात_N_NN ठेवत_V_VM म्हणाली_V_VM</s>
+<s>“काय_PR_PRQ झालं_V_VM?? यु_RD_RDF ऑलराईट_RD_RDF?”, दचकत_V_VM दिपक_N_NNP म्हणाला_V_VM</s>
+<s> वुई_RD_RDF मिस्ड_RD_RDF यु_RD_RDF सोsssssssss_RD_RDF मच_RD_RDF</s>
+<s>”, पोटाकडे_N_NN बोट_N_NN दाखवत_V_VM जेनी_N_NNP हसत_V_VM म्हणाली_V_VM…“अ‍ॅन्ड_RD_RDF मी_RD_RDF टु…_RD_RDF</s>
+<s>”, जेनीच्या_N_NNP पोटावरुन_N_NN हात_N_NN फिरवत_V_VM दिपक_N_NNP म्हणाला_V_VM…</s>
+<s>एकदम_N_NN काही तरी_PR_PRP आठवले_V_VM तसं_PR_PRP जेनीने_N_NNP पर्समधुन_N_NN एक_QT_QTC कागद_N_NN काढुन_V_VM दिपक_N_NNP कडे_N_NN दिला_V_VM</s>
+<s> काल_RB शेवटची_JJ सोनोग्राफी_RD_RDF होती_V_VAUX ना_RP_INJ</s>
+<s> तेंव्हा_PR_PRL तेथे_DM_DMD प्रिंट_RD_RDF काढुन_V_VM दिला_V_VM…”, जेनी_N_NNP हसत_V_VM हसत_V_VM म्हणाली_V_VM</s>
+<s>दिपकने_N_NNP तो_PR_PRP कागद_N_NN उत्सुक्तेने_V_VM काढुन_V_VM घेतला_V_VM आणि_CC_CCD तो_PR_PRP पाहु_V_VM लागला_V_VM… तेवढ्यात_RB महादेवने_N_NN ऑर्डर_RD_RDF आणुन_V_VM ठेवली_V_VM होती_V_VAUX</s>
+<s>“अगं_RP_INJ कसला_PR_PRP फोटो_RD_RDF आहे_V_VAUX हा_DM? काहीच_QT_QTF कळत_V_VM नाहीये_V_VM</s>
+<s>”, दिपक_N_NNP“अरे_RP_INJ हे_DM बघ_V_VM ना_RP_INJ</s>
+<s>”, पुढे_N_NST सरकत_V_VM जेनी_N_NNP म्हणाली_V_VM, “हे_DM बघ_V_VM असं_PR_PRP</s>
+<s> हे_DM बाळाचं_N_NN डोकं_N_NN आहे_V_VAUX वरच्या_N_NST बाजुने…_N_NST हा_RP_INJ</s>
+<s> इकडे_DM_DMD दिसतो_V_VM आहे_V_VAUX तो_PR_PRP बाळाचा_N_NN हात_N_NN</s>
+<s>” जेनी_N_NNP सांगत_V_VM होती_V_VAUX आणि_CC_CCD दिपक_N_NNP आपलं_PRP माना_N_NN डोलावत_V_VMहोता_V_VM</s>
+<s> आणि_CC_CCD हे_DM नाक_N_NN बघ_V_VM अगदी_V_VM तुझ्यासारखं_PR_PRP आहे_V_VAUX लांब_JJ…</s>
+<s>”, जेनी_N_NNP दिपकचे_N_NNP नाक_N_NN ओढत_V_VM म्हणाली_V_VM</s>
+<s>दिपक_N_NNP आणि_CC_CCD जेनी_N_NNP गप्पांमध्ये_N_NN अगदी_RP_INTF रंगुन_RB गेले_V_VM होते_V_VAUX</s>
+<s> बाहेर_N_NST विजा_N_NN चमकल्या_V_VM तसे_PR_PRP दोघं_PRP गप्पांमधुन_N_NN बाहेर_N_NST आले_V_VM</s>
+<s> सैनिक_N_NN ना_RP_INJ तु_PR_PRP? पावसाला_N_NN कसला_WP घाबरतोस तु_PR_PRP? कित्ती_V_VM मस्त_JJ हवा_V_VM पडली_V_VM आहे_V_VM</s>
+<s> आपल्याला_PR_PRP जपलं_V_VM पाहीजे_V_VM आता_RB म्हणुन_CC_CCS_UT बाकी_PRP काही_WP नाही_V_VM</s>
+<s>” दिपक_N_NNP काऊंटरला_RD_RDF बिलाची_RD_RDF खुण_N_NN करत_V_VM म्हणाला_V_VM…</s>
+<s>जेनीने_N_NNP चहा_N_NN संपवला_V_VM आणि_CC_CCD बिल_RD_RDF पे_RD_RDF करुन_V_VM दोघं_PR_PRP बाहेर_N_NST पडले_V_VM.</s>
+<s>एव्हाना_RB जोराचा_JJ वारा_N_NN सुटला_V_VM होता_V_VM.. कुठल्याही_PR_PRP क्षणी_N_NN जोरदार_N_NN पाऊस_N_NN कोसळणार_V_VM होता_V_VAUX..</s>
+<s>दिपक_N_NNP आणि_CC_CCD जेनी_N_NNP कॅफेमधुन_RD_RDF बाहेर_N_NST आले_V_VM….</s>
+<s> अंकल_RD_RDF आन्टी_RD_RDF आले_V_VM बघ_V_VM…” परत_RB मगाचचाच_JJ आवाज_N_NN आला_V_VM</s>
+<s> मिठी_RD_RDF बाते_RD_RDF बोलकर…_RD_RDF”, दुसरा_QT_QTC आवाज_N_NN</s>
+<s>“तेरी_RD_RDF मा_RD_RDF की_CC_CCD…_RD_RDF”, स्वतःशीच_PR_PRF पुटपुटत_V_VM दिपक_N_NNP मागे_N_NST वळला_V_VM, परंतु_CC जेनीने_N_NNP त्याला_PR_PRP पुन्हा_RB थांबवले_V_VM…</s>
+<s> ते_PR_PRP बघ_V_VM कोपर्‍यावर_N_NST टॅक्सी_RD_RDF आहे_V_VAUX</s>
+<s>दिपक_N_NNP नाईलाजानेच_JJ मागे_N_NST वळुन_V_VM टॅक्सी_RD_RDFच्या दिशेने_N_NN जाऊ_V_VM लागला_V_VM..</s>
+<s> बायकोच्या_N_NN पदराखालचं_N_NN मांजर_N_NN दिसतेय_V_VM हे_DM सोल्जर_RD_RDF</s>
+<s>”, परत_RB एक_QT_QTC आवाज_N_NN“काय_PR_PRQ माहीत_N_NN खराच_JJ सैनिक_N_NN आहे_V_VAUX का_RP बहुरुपीया_N_NN आहे_V_VAUX</s>
+<s> दिवसभर_N_NN घरोघरी_N_NN फिरुन_V_VM पैसे_N_NN गोळा_N_NN करुन_V_VM आला_V_VM असेल_V_VM इथं_DM_DMD…” दुसरा_QT_QTC आवाज_N_NN</s>
+<s>सगळे_PR_PRP जण_N_NN एकमेकांना_PR_PRC टाळ्या_N_NN देत_V_VM जोरजोरात_RB हसत_V_VM होते_V_VAUX..</s>
+<s> प्रत्येक_QT_QTF आवाजाबरोबर_N_NN तापट_JJ स्वभावाच्या_N_NN दिपकची_N_NNP मेंदुची_N_NN शिर_N_NN ताणली_V_VM जात_V_VMहोती_V_VAUX</s>
+<s> त्याच्या_PR_PRP संतापाचा_N_NN पारा_N_NN चढत_V_VM चालला_V_VM होता_V_VM</s>
+<s> केवळ_RB जेनीखातर_N_NNP तो_PR_PRP शांतपणे_N_NN चालला_V_VM होता_V_VM</s>
+<s>“मी_PR_PRP सांगतो_V_VM हा_DM बहुरुपीच_N_NN असणार_V_VM…”“कश्यावरुन??”_PR_PRQ“अरे_RP_INJ त्याच्याबरोबरच्या_PR_PRP त्या_DM_DMD आयटमचे_RD_RDF पोट_N_NN बघ_V_VM ना_RP_INJ</s>
+<s> हा_DM सैनिक_N_NN असता_V_VM तर_CC_CCS ही_PR_PRP गेम_RD_RDF झालीच_V_VM नसती_V_VM</s>
+<s> तो_PR_PRP तिकडे_DM_DMD सेवेत_N_NN असताना_V_VM तिला_PR_PRP प्रेग्नंट_RD_RDF कसं_CC_CCS_UT करणार_V_VM? अं?_RP_INJ”“का_PR_PRQ? त्यात_PR_PRP काय_PR_PRQ अवघड_JJ आहे_V_VAUX? तो_PR_PRP तिथं_DM_DMD असताना_V_VM त्या_DM_DMD आयटमचा_RD_RDF दुसरा_QT_QTC कोण_PR_PRQ तरी_CC_CCD असणार_V_VM इथं_DM_DMD</s>
+<s> तोच_PRP डल्ला_N_NN मारुन_V_VM गेला_V_VM असणार_VM…”</s>
+<s>दिपक_N_NNP स्वतःबद्दल_PR_PRF बोललेले_V_VM एकवेळ_N_NN सहन_N_NN करु_V_VM शकत_V_VM होता_V_VAUX</s>
+<s>! आणि_CC_CCD त्यांच्या_PR_PRP होणार्‍या_JJ बाळाबद्दल_N_NN</s>
+<s>”, जेनीचा_N_NNP हात_N_NN सोडुन_V_VM दिपक_N_NNP माघारी_RB फिरला_V_VM</s>
+<s> जेनीला_N_NNP त्याला_PR_PRP थांबवायला_V_VM वेळ_N_NN सुध्दा_CC_CCD मिळाला_V_VM नाही_V_VM…</s>
+<s>दिपक_N_NNP ताड_JJ ताड_JJ पावलं_N_NN टाकत_V_VM त्यांच्यापाशी_PR_PRP गेला_V_VM..</s>
+<s>टोळक्यातली_JJ पोरं_N_NN टोरं_N_NN बेसावध_JJ होती_V_VAUX</s>
+<s> त्यांच्या_PR_PRP दृष्टीने_N_NN फार_RP_INTF तर_CC_CCS फार_RP_INTF तो_PR_PRP वादा-वादी_N_NN करणार_V_VM होता_V_VM आणि_CC_CCD त्याने_PR_PRP मारामारीचा_N_NN प्रयत्न_N_NN केलाच_V_VM असता_V_VM तरी_CC_CCD तो_PR_PRP एकटा_JJ विरुध्द_N_NN ते_PR_PRP सहा_QT_QTC सात_QT_QTC जण_N_NN होते_V_VAUX</s>
+<s> पण_CC_CCD दिपकने_N_NNP त्यांचा_PR_PRP अंदाज_N_NN चुकीचा_JJ ठरवला_V_VM, दिपक_N_NNP सरळ_N_NN त्या_DM_DMD टोळक्यात_N_NN घुसला_V_VM, एकाची_N_NN कॉलर_N_NN धरुन_V_VM त्याला_PR_PRP पुढे_N_NST ओढला_V_VM आणि_CC_CCD त्याच्या_PR_PRP हनुवटीवर_N_NN एक_QT_QTC जोरदार_N_NN ठोसा_N_NN लगावुन_V_VM दिला_V_VM</s>
+<s>अनपेक्षीत_N_NN अश्या_PR_PRP त्या_DM_DMD प्रहाराने_N_NN तो_PR_PRP तरुण_N_NN धडपडत_V_VM खाली_N_NST कोसळला_V_VM.</s>
+<s>भांबावलेल्या_JJ बाकीच्यांनी_PRP एकदमच_RB दिपकवर_N_NNP धाव_N_NN घेतली_V_VM</s>
+<s> त्याने_PR_PRP खाली_N_NST वाकुन_V_VM सर्वांचे_PR_PRP ठोसे_N_NN चुकवलेच_V_VM पण_CC_CCD त्याचबरोबर_PR_PRP एक_QT_QTC दो्घांच्या_QT_QTC पोटात_N_NN अश्या_PR_PRP काही_QT_QTF फाईट्स_N_NN लगावल्या_V_VM की_CC_CCD त्यांच्या_PR_PRP डोळ्यासमोर_N_NN अंधेरीच_N_NN आली_V_VM</s>
+<s>समोरुन_RB दिपक_N_NNPशी दोघ_QT_QTC जण_N_NN झुंजत_V_VM असताना_V_VM एक_QT_QTC जण_N_NN गोल_N_NN फिरुन_V_VM दिपकच्या_N_NNP मागुन_RB त्याला_PR_PRP पकडायला_V_VM आला_V_VM आणि_CC_CCD तिच_PR_PRP त्याची_PR_PRP मोठ्ठी_JJ चुक_N_NN ठरली_V_VM, पुर्णपणे_N_NN सावध_JJ असलेल्या_V_VM दिपकने_N_NNP सण्णदिशी_RB एक_QT_QTC लाथ_N_NN त्याच्या_PR_PRP तोंडावर_N_NN मारली_V_VM</s>
+<s> मिलीटरी_RD_RDF जाड_JJ, लेदर_RD_RDF सोलच्या_RD_RDF त्या_DM_DMD शुजचा_RD_RDF प्रवाह_N_NN त्या_DM_DMD तरुणाच्या_N_NN जबड्यावर_N_NN बसला_V_VM</s>
+<s> तो_PR_PRP प्रवाहर_N_NN इतका_RP_INTF जोरदार_N_NN होता_V_VM की_CC_CCD त्या_DM_DMD तरुणाचा_N_NN जबडाच_N_NN फाटला_V_VM आणि_CC_CCD त्यातुन_PR_PRP रक्त_N_NN वाहु_V_VM लागले_V_VM</s>
+<s>मुसळधार_JJ पावसाला_N_NN सुरुवात_N_NN झाली_V_VMहोती_V_VAUX, पण_CC_CCD दिपक_N_NNP थांबण्याच्या_V_VM मुडमध्ये_RD_RDF नव्हता_V_VM</s>
+<s> त्याच्या_PR_PRP डोक्यातला_N_NN संताप_N_NN अजुनही_RB भडकत_V_VM होता_V_VM</s>
+<s> त्याने_PR_PRP खाली_N_NST कोसळलेल्याला_JJ पुन्हा_RB उठवले_V_VM आणि_CC_CCD एक_QT_QTC थोबाडावर_N_NN आणि_CC_CCD दोन_QT_QTC-चार_QT_QTC पोटात_N_NN ठोसे_N_NN लगावले_V_VM</s>
+<s> तो_PR_PRP तरुण_N_NN कोणताही_RB प्रतिकार_N_NN न_RP_NEG करता_V_VM मार_N_NN खात_V_VM राहीला_V_VM</s>
+<s> एव्हढ्यात_RB दिपकच्या_N_NNP सैनिकी_JJ नजरेने_N_NN उजव्या_RB बाजुच्या_RB कोपर्‍यात_N_NST काहीतरी_JJ चमकताना_RB पाहीले_V_VM</s>
+<s> इतर_RB कोणत्याही_PR_PRP इसमाच्या_N_NN दृष्टीने_N_NN ती_PR_PRP गोष्ट_N_NN टिपली_V_VMनसती_V_VM, पण_CC_CCD दिपक_N_NNP सावध_JJ होता_V_VAUX</s>
+<s> उजव्या_RB कोपर्‍यातुन_RB त्याच्यावर_PR_PRP चालुन_V_VM येणार्‍या_V_VM तरुणाच्या_N_NN हातातील_N_NN चाकु_N_NN विजांच्या_N_NN प्रकाशात_N_NN त्याला_PR_PRP दिसला_V_VM होता_V_VM</s>
+<s> दिपकने_N_NNP तो_PR_PRP वार_N_NN सहज_RB चुकवला_V_VM</s>
+<s> वेगाने_RB केलेला_V_VM वार_N_NN चुकल्याने_V_VM तो_PR_PRP तरुण_N_NN हेलपांडत_RB खाली_N_NST झुकला_V_VM त्याचवेळी_RB दिपकने_N_NNP आपल्या_PR_PRP गुडघ्यांचा_N_NN वार_N_NN त्याच्या_PR_PRP तोंडावर_N_NN केला_V_VM</s>
+<s>त्या_DM_DMD तरुणाचा_N_NN नाकाचा_N_NN घोळणा_N_NN फुटला_V_VMआणि_CC त्यातुन_RB रक्त_N_NN वाहु_V_VM लागले_V_VM.</s>
+<s>एव्हाना_RB सुरुवातीला_N_NN कोसळलेले_V_VM ते_PR_PRP दोन_QT_QTC तरुण_N_NN झाल्या_V_VM प्रकारातुन_N_NN सावरले_V_VM होते_V_VAUX</s>
+<s> एकुण_N_NN प्रकरण_N_NN आपल्या_PR_PRP हाताबाहेरचे_N_NN आहे_V_VAUX हे_DM लक्षात_N_NN येताच_V_VM ते_PR_PRP सावकाश_RB आपल्या_PR_PRP गाडीत_N_NN परतले_V_VM</s>
+<s> त्यांनी_PR_PRP गाडी_N_NN सुरु_V_VM केली_V_VM आणि_CC_CCD तेथुन_DM_DMD सटकु_V_VM लागले_V_VM</s>
+<s> त्यांना_PRP सहजा_RB सहजी_RB असा_WP थोडच_RB जाऊ_V_VM देणार_V_VM होता_V_VAUX</s>
+<s> गाडीचा_N_NN आवाज_N_NN येताच_V_VM तो_PR_PRP त्यांच्या_PR_PRP मागे_N_NST धावु_V_VM लागला_V_VM</s>
+<s> दिपक_N_NNP गाडीच्या_N_NN मागे_N_NST धावत_V_VM येतो_V_VM आहे_V_VAUX हे_DM आरश्यात_N_NN दिसताच_V_VM दोघेही_PR_PRP घाबरुन_RB मागे_N_NST मागे_N_NST पाहु_V_VM लागले_V_VM आणि_CC_CCD त्याच_PR_PRP वेळी…_N_NN त्याच_PR_PRP वेळी_N_NN समोर_N_NN असलेली_JJ जेनी_N_NNP</s>
+<s> वेगाने_RB तिच्या_PR_PRP दिशेने_V_VM येणारी_V_VM जिप_RD_RDF दिसत_V_VM असुनही_V_VM पटकन_RB बाजुला_N_NST होऊ_V_VM शकली_V_VM नाही_V_VM</s>
+<s> जिपच्या_N_NN बंपरची_RD_RDF एक_QT_QTC जोरदार_N_NN धडक_N_NN तिच्या_PR_PRP पोटाला_N_NN बसली_V_VM</s>
+<s>जेनी_N_NNP हवेत_N_NN उंच_JJ फेकली_V_VM गेली_V_VM आणि_CC_CCD क्षणार्धात_N_NN खाली_N_NST कोसळली._V_VM</s>
+<s>“जेनी_N_NNPsssssssssss”, दिपक_N_NNP ओरडला.._V_VM पण_CC_CCD जे_DM_DMR व्हायला_V_VM नको_V_VM होते_V_VAUX तेच_PR_PRP घडले_V_VM होते_V_VAUX.</s>
+<s>जिप_N_NN न_RP_NEG थांबता_V_VM निघुन_V_VM गेली_V_VM.</s>
+<s>जेनीच्या_N_NNP भोवती_N_NST लोकांच_N_NN कोंडाळ_N_NN जमु_V_VM लागलं_V_VM होतं_V_VAUX</s>
+<s> दिपक_N_NNP संतापाने_N_NN बेभान_V_VM झाला_V_VM होता_V_VM</s>
+<s> हातात_N_NN सुरा_N_NN घेतलेला_V_VM तो_PR_PRP तरुण_N_NN अजुनही_RB नाकातुन_N_NN वाहणारे_JJ रक्त_N_NN थांबवण्याचा_V_VM प्रयत्न_N_NN करत_V_VM होता_V_VAUX</s>
+<s>दिपक_N_NNP त्वेषाने_RB त्याच्याकडे_PR_PRP धावत_V_VM गेला_V_VM</s>
+<s> दिपकला_N_NNP येताना_V_VM पाहुन_V_VM तो_PR_PRP तरुण_N_NN पुन्हा_RB सरसावला_V_VM</s>
+<s> परंतु_CC_CCD दिपक_N_NNP वेगाने_RB त्याच्याजवळ_N_NST पोहोचला_V_VM</s>
+<s> उगारलेल्या_V_VM सुर्‍याचा_N_NN हात_N_NN त्याने_PR_PRP हवेतल्या_N_NN हवेत_N_NN पकडला_V_VM आणि_CC_CCD पिरगाळला_V_VM</s>
+<s> कड्ड_RB कड्ड’_RB हाड_N_NN मोडण्याचा_V_VM आवाज_N_NN येत_V_VM तो_PR_PRP हात_N_NN खाली_N_NST आला_V_VM</s>
+<s> दिपकने_N_NNP त्याच्या_PR_PRP हातातील_V_VM सुरा_N_NN काढुन_V_VM घेतला_V_VM आणि_CC_CCD त्या_DM_DMD तरुणाच्या_N_NN पोटात_N_NN खुपसला…_V_VM</s>
+<s> सपासप_RB तो_PR_PRP सुरा_N_NN त्या_DM_DMD तरुणाच्या_N_NN पोटातुन_N_NN आतबाहेर_N_NST येत_V_VM राहीला_V_VM…</s>
+<s>दुरुन_RB पोलिसांच्या_N_NN सायरनचा_RD_RDF आवाज_N_NN येत_V_VM होता_V_VM जेंव्हा_PR_PRL रक्तबंबाळ_N_NN अवस्थेतील_N_NN निर्जीव_JJ पडलेल्या_V_VM जेनी_N_NNPला दिपक_N_NNP मांडीवर_N_NN घेऊन_V_VM जागं_JJ करण्याचा_V_VM प्रयत्न_N_NN करत_V_VM होता_V_VAUX</s>
+<s>न्यायमुर्तींनी_N_NN टेबलावर_N_NN आपला_PR_PRP लाकडी_JJ हाथोडा_N_NN आपटला_V_VM आणि_CC पुन्हा_RB एकवार_RB न्यायालयात_N_NN शांतता_N_NN पसरली_V_VM.</s>
+<s>न्यायालयात_N_NN केस_N_NN उभी_V_VM राहिल्यापासून_V_VM असलेल्या_V_VM गर्दीने_N_NN आज_RB उच्चांक_N_NN गाठला_V_VM होता_V_VM</s>
+<s> खर_N_NN तर_CC_CCS निकाल_N_NN काय_PR_PRQ लागणार_V_VM आहे_V_VAUX हे_DM स्पष्टच_JJ होते_V_VAUX, पण_CC_CCD तरीही_RP_RPD निकाल_N_NN ऐकायला_V_VM लोकांनी_N_NN गर्दी_N_NN केली_V_VMहोती_V_VAUX</s>
+<s> यु_RD_RDF मे_RD_RDF कंन्टीन्यु…_RD_RDF”… आणि_CC_CCD केसच्या_N_NN शेवटच्या_N_NN दिवसाचे_N_NN न्यायालयीन_JJ कामकाज_N_NN सुरु_V_VM झाले_V_VM</s>
+<s>आरोपीच्या_N_NN पिंजर्‍यात_N_NN उभ्या_V_VM असलेल्या_V_VM दिपकचे_N_NNP मन_N_NN मात्र_RB अजुनही_RB भूतकाळातच_N_NN घुटमळत_V_VM होते_V_VAUX.</s>
+<s> वेक_RD_RDF अप_RD_RDF जेनी_N_NNP… कमऑन_RD_RDF जेनी_N_NNP</s>
+<s>डोन्ट_RD_RDF गिव्ह_RD_RDF अप_RD_RDF ऑन_RD_RDF मी_RD_RDF</s>
+<s>”, निस्तेज_JJ पडलेल्या_V_VM जेनीला_N_NNP हलवत_V_VM दिपक_N_NNP जिवाच्या_N_NN आकांताने_N_NN ओरडत_V_VM होता_V_VM</s>
+<s>पोलिसांच्या_N_NN दोन_QT_QTC जिप_RD_RDF सायरन_RD_RDF वाजवत_RB घटनास्थळी_N_NN येऊन_V_BD थबकल्या_V_VM</s>
+<s> मुंग्याच्या_N_NN वारुळातुन_N_NN जश्या_DM_DMR मुंग्या_N_NN बाहेर_N_NST पडतात_V_VM तसे_PR_PRP पटापट_RB पोलिस_N_NN इन्स्पेक्टर_RD_RDF आणि_CC_CCD हवालदार_N_NN उतरले_V_VM</s>
+<s> दोघं_PRP जण_N_NN धावत_V_VM जाऊन_V_VM त्या_DM_DMD तरुणापाशी_N_NN गेले_V_VM</s>
+<s> तो_PR_PRP तरुण_N_NN अगदी_RP_INTF मंदपणे_RB हालचाल_N_NN करत_V_VM होता_V_VAUX</s>
+<s> पैकी_N_NN एका_QT_QTC हवालदाराने_N_NN एक_QT_QTC मोठ्ठे_JJ कापड_N_NN काढले_V_VM आणि_CC त्या_DM_DMD तरुणाच्या_N_NN जखमेला_N_NN बांधले_V_VM जेणेकरुन_PR_PRL रक्तप्रवाह_N_NN थांबेल_V_VM</s>
+<s> इन्स्पेक्टर_RD_RDF तार_JJ स्वरात_N_NN वॉकी-टॉ्कीवर_RD_RDF कुणाशीतरी_PRP बोलत_V_VM होते_V_VAUX</s>
+<s> काही_QT_QTF वेळातच_N_NN वेगाने_RB एक_QT_QTC अ‍ॅम्ब्युलन्स_RD_RDF आली_V_VM</s>
+<s> त्यातुन_PR_PRP दोन_QT_QTC वॉर्डबॉय_RD_RDF धावतच_V_VM त्या_DM_DMD तरुणापाश_N_NN आले_V_VM</s>
+<s> त्याला_PR_PRP स्ट्रेचरवर_RD_RDF घालुन_V_VM त्याला_PR_PRP अ‍ॅम्ब्युलन्समध्ये_RD_RDF न्हेले_V_VM</s>
+<s> लगेच_RB त्यांनी_PR_PRP त्या_DM_DMD तरुणाला_N_NN ऑक्सीजन_RD_RDF मास्क_RD_RDF लावला_V_VM आणि_CC_CCD प्रथमोपचार_N_NN चालु_V_VM केले_V_VM</s>
+<s> एकाने_RB जेनीचा_N_NNP हात_N_NN हातात_N_NN घेउन_V_VM तिची_PR_PRP नाडी_N_NN तपासली_V_VM, मग_CC_CCS नाकपुड्यांखाली_N_NN हात_N_NN धरला_V_VMआणि_CC मग_CC_CCS सावकाशपणे_N_NN तो_PR_PRP उठुन_V_VM उभा_V_VM राहीला_V_VM</s>
+<s>पोलिस_N_NN इन्स्पेक्टरने_RD_RDF भुवया_N_NN उंचावुन_V_VM “काय_PR_PRQ?” अशी_PR_PRP खुण_N_NN केली_V_VM, तेंव्हा_PR_PRL त्याने_PR_PRP माने_N_NN नकारार्थी_V_VM हलवली_V_VM</s>
+<s>इन्स्पेक्टरने_RD_RDF अ‍ॅम्ब्युलन्सकडे_RD_RDF पाहुन_V_VM हातानेच_N_NN जाण्याची_V_VM खुण_N_NN केली_V_VM</s>
+<s> क्षणार्धात_N_NN अ‍ॅम्ब्युलन्स_RD_RDF ज्या वेगाने_RB आली_V_VMहोती_V_VAUX त्याच्या_PR_PRP दुप्पट_JJ वेगाने_RB घोंगावत_RB तेथुन_DM_DMD निघुन_V_VM गेली_V_VM</s>
+<s>पोलिसांनी_N_NN दिपकला_N_NNP धरुन_V_VM जिपमध्ये_RD_RDF बसवले_V_VM आणि_CC_CCD दुसर्‍याला_PR_PRP अ‍ॅम्ब्युलन्स_RD_RDF बोलावुन_V_VM जेनीची_N_NNP ‘बॉडी’_RD_RDF घेउन_V_VM जायला_V_VM सांगीतले_V_VM</s>
+<s> कारण_CC_CCS जेनी_N_NNP जागेवरच_N_NN गतप्राण_N_NN झाली_V_VM होती_V_VAUX…</s>
+<s>दिपक_N_NNP हताशपणे_RB पोलिसांसमोर_N_NN बसला_V_VM होता_V_VM.</s>
+<s>इस्न्पेक्टर_RD_RDF हवालदाराला_N_NN म्हणाला_V_VM..”३०२_QT_QTC लागतो_V_VM साल्याला.._N_NN गेलं_V_VM ते_PR_PRP पोरगं_N_NN हॉस्पीटलमध्ये_RD_RDF पोहोचायच्या_V_VM आधीच.._RB”</s>
+<s> माझ्या_PRP हातुन_N_NN प्रतिकार_N_NN करताना_V_VM खुन_N_NN झालेला_V_VM आहे_V_VM… माझ्या_PRP बचावासाठी_N_NN प्रयत्न_N_NN करताना_V_VM त्याचा_PR_PRP मृत्यु_N_NN झालाय_V_VM</s>
+<s> आय_RD_RDF एम_RD_RDF नॉट_RD_RDF अ_RD_RDF मर्डरर_RD_RDF</s>
+<s> तुमच्यासारखाच_PRP एक_QT_QTC देशाचा_N_NN सेवक_N_NN आहे_V_VAUX मी_PR_PRP…”, दिपक_N_NNP बोलत_V_VM होता_V_VAUX</s>
+<s> आम्ही_PRP घटनास्थळी_N_NN असलेल्या_V_VMलोकांचे_N_NN जवाब_N_NN नोंदवले_V_VMआहे_V_VMत</s>
+<s> तुम्ही_PRP सर्वप्रथम_RB त्यांच्या_PR_PRP अंगावर_N_NN धावुन_V_VM गेला_V_VMत</s>
+<s> हल्ला_N_NN प्रथम_RB तुम्ही_PRP केलात…_V_VM”, इन्स्पेक्टर…_RD_RDF</s>
+<s> आमच्या_PRP बाळाबद्दल_N_NN नको_RP_NEG नको_RP_NEG ते_PR_PRP बोलत_V_VM होते_V_VAUX…</s>
+<s>“म्हणुन_CC_CCS_UT काय_PR_PRQ खुन_N_NN करायचा??_V_VM”, इन्स्पेक्टर…_RD_RDF”इथे_DM_DMD जो_PR_PRL तो_PR_PRP पोलिसांबद्दल_N_NN वाट्टेल_V_VM ते_PR_PRP बोलत_V_VM असतो_V_VM</s>
+<s> म्हणून_CC_CCD काय_PR_PRQ आम्ही_PRP प्रत्येकाला_PRP मारत_V_VM सुटतो_V_VM का_PR_PRQ काय_PR_PRQ?”</s>
+<s>“मी_PR_PRP तो_PR_PRP खुन_N_NN जाणुन_RB बुजुन_RB केलेला_V_VMनाहीये_V_VM इन्स्पेक्टर_RD_RDF</s>
+<s> तो_PR_PRP केवळ_RB एक_QT_QTC अपघात_N_NN होता_V_VAUX</s>
+<s> मान्य_N_NN आहे_V_VAUX मी_PR_PRP त्यांच्या_PR_PRP अंगावर_N_NN धावुन_RB गेलो_V_VM होतो_V_VM</s>
+<s> पण_CC_CCD सुरा_N_NN त्याने_PR_PRP काढला_V_VM होता_V_VM</s>
+<s>“अपघात_N_NN? अपघातात_N_NN एखादा_QT_QTC वार_N_NN समजू _V_VM शकतो_V_VM</s>
+<s> मयताच्या_N_NN शरीरावर_N_NN भोसकल्याच्या_V_VM ५-६_QT_QTC खुणा_N_NN आहेत_V_VM</s>
+<s>”“………”“तुम्ही_PRP तुमचे_PRP म्हणणे_V_VM न्यायालयात_N_NN सांगा_V_VM दिपक_N_NNP</s>
+<s>जेनीच्या_N_NNP आठवणीने_N_NN, बाळाच्या_N_NN आठवणीने_N_NN दिपकचा_N_NNP कंठ_N_NN दाटुन_RB आला_V_VM होता_V_VM</s>
+<s> काही_QT_QTF क्षण तो_PR_PRP कोठडीच्या_N_NN त्या_DM_DMD दमट_JJ कोपर्‍यात_N_NST पडुन_V_VM राहीला_V_VM</s>
+<s> आठवणींच्या_N_NN सरींवर_N_NN सरी_N_NN कोसळुन_V_VM जात_V_VM होत्या_V_VM</s>
+<s> दिपक_N_NNP कोमेजुन_V_VM एका_QT_QTC कोपर्‍यात_N_NST बसुन_V_VM राहीला_V_VM</s>
+<s> आज_RB पहील्यांदा_QT_QTO तो_PR_PRP स्वतःला_PR_PRF इतका_RP_INTF एकटा_RB समजत_V_VM होता_V_VAUX</s>
+<s> कोणी_DM_DMQ कोणी_DM_DMQ सुध्दा_RB नव्हते_V_VM त्याच्याबरोबर_PR_PRP</s>
+<s> हाऊ_RD_RDF कॅन_RD_RDF आय_RD_RDF फरगेट_RD_RDF हिम_RD_RDF</s>
+<s>”, दिपकला_N_NNP स्वतःच्याच_PR_PRP मुर्खपणाची_N_NNP लाज_N_NN वाटली_V_VM</s>
+<s> तो_PR_PRP ताडकुन_RB उठुन_V_VM उभा_V_VM राहीला_V_VM</s>
+<s>“इन्स्पेक्टर.._RD_RDF कॅन_RD_RDF आय_RD_RDF मेक_RD_RDF अ_RD_RDF कॉल_RD_RDF..”, दिपकने_N_NNP विचारले_V_VM..</s>
+<s>इन्स्पेक्टरने_N_NN एकवार_RB दिपककडे_N_NNP पाहीले_V_VM आणि_CC_CCD मग_CC_CCS हवालदारला_N_NN दरवाजा_N_NN उघडण्याची_N_NN खुण_N_NN केली_V_VM…</s>
+<s>फोन_RD_RDF_RD_RDF केंव्हाच_RB बंद_N_NN झाला_V_VM होता_V_VM..</s>
+<s>दिपकने_N_NNP हताशपणे_RB रिसीव्हर_RD_RDF खाली_N_NST ठेवला._V_VM</s>
+<s> जेनी_N_NNP…”“सरकारी_N_NN इस्पीतळाच्या_N_NN मॉर्ग्यु_RD_RDF मध्ये_N_NST ठेवले_V_VM आहे_V_VAUX…”“मला_PR_PRP दफनविधी_N_NN करावा_V_VM लागेल_V_VM इन्स्पेक्टर_RD_RDF साहेब…_N_NN”</s>
+<s> त्यासाठी_PRP तुम्हाला_PRP आधी_RB जामीन_N_NN मिळवावा_V_VM लागेल_V_VM, त्याकरता_PR_PRP तुमच्या_PR_PRP विरोधात_N_NN न्यायालयात_N_NN केस_RD_RDF उभी_V_VM रहावी_V_VM लागेल_V_VM आणि_CC_CCD त्याकरता_PR_PRP ढिगभर_JJ कागदं_N_NN आम्हाला_PRP जमा_N_NN करावी_V_VM लागतील_V_VM</s>
+<s> पंचनामा,_N_NN साक्षीदारांचे_N_NN जवाब,_N_NN डॉक्टरांचे_RD_RDF रिपोर्ट्स_RD_RDF एक_QT_QTC ना_RP_INJ दोन_QT_QTC</s>
+<s> अर्थात_N_NN साहेबांचे_N_NN पोर_N_NN असल्याने_V_VM ही_PR_PRP काम_N_NN पटापट_RB होतीलच_V_VM</s>
+<s> पण_CC_CCD नाही_V_VM म्हणलं_V_VM तरी_CC_CCD दोन_QT_QTC दिवस_N_NN तरी_CC_CCD तुम्हाला_PRP थांबावं_V_VM लागेल_V_VM…”</s>
+<s> दोन_QT_QTC दिवस_N_NN माझी_PRP जेनी_N_NNP त्या_DM_DMD बर्फाच्या_N_NN लादीत_N_NN पडुन_V_VM रहाणार_V_VM</s>
+<s>” दिपकला_N_NNP पुढे_N_NST बोलायला_V_VM शब्दच_N_NN सुचेनात…_V_VM</s>
+<s>दिपकने_N_NNP कोर्टात_N_NN जमलेल्या_JJ लोकांवरून_N_NN एक_QT_QTC नजर_N_NN फिरवली_V_VM</s>
+<s> सर्वच_RB चेहरे_N_NN अनोळखी,_JJ परके_JJ होते_V_VAUX</s>
+<s> ज्यांना_WP आपल_PRP म्हणावं_V_VM ते_PR_PRP त्याला_PR_PRP केंव्हाच_WP सोडून_V_VM गेले_V_VM होते_V_VAUX</s>
+<s>न्यायमुर्तींनी_N_NN आपला_PR_PRP निकालनामा_N_NN फिल्मी_RD_RDF स्टाईलमध्ये_RD_RDF वाचायला_V_VM सुरुवात_N_NN केली_V_VMहोती_V_VAUX..</s>
+<s>बिफोर_RD_RDF द_RD_RDF स्टेट_RD_RDF पोलीस_RD_RDF टेक_RD_RDF कस्टडी_RD_RDF ऑफ_RD_RDF मि_RD_RDF</s>
+<s> दिपक_N_NNP कुमार, आर्मी_RD_RDF_RD_RDF विल_RD_RDF डु_RD_RDF द_RD_RDF प्रोसिडीन्ग्स_RD_RDF ऑफ_RD_RDF कोर्ट_RD_RDF मार्शल_RD_RDF</s>
+<s> निकाल_N_NN ऐकल्यानंतर_V_VM कोर्टात_N_NN एकच_QT_QTC कुजबुज_N_NN पसरली_V_VM..प्रत्येकजण_PRP आपापसात_RB बोलू_V_VM लागला_V_VM..</s>
+<s>“मला_PR_PRP वाटते_V_VM बायस्ड_RD_RDF निकाल_N_NN आहे_V_VAUX हा_DM…दिपकची_N_NNP बाजू_N_NN ऐकून_V_VM घायला_V_VM हवी_V_VM होती_V_VAUX</s>
+<s>”“बायस्ड_RD_RDF पेक्षा, दबावाखाली_N_NN येऊन_V_VM दिलेला_JJ निकाल_N_NN आहे_V_VAUX</s>
+<s> ह्याला_PRP असा_CC_CCS_UT सहज_JJ थोडे_RB न_RP_NEG सोडणार_V_VM</s>
+<s>बहुतेक_JJ लोकांची_N_NN दिपकला_N_NNP सहानभूती_N_NN होती_V_VAUX</s>
+<s> पण_CC_CCD त्याने_PR_PRP फरक_N_NN काय_PR_PRQ पडणार_V_VM होता_V_VAUX? निकाल_N_NN झाला_V_VM होता_V_VM</s>
+<s> आपले_PR_PRPS उर्वरित_JJ आयुष्य_N_NN तुरुंगात_N_NN खितपत_RB घालवणार_V_VM होता_V_VAUX…</s>
+<s>कोर्ट-मार्शलचा_RD_RDF अनुभव_N_NN दिपकच्या_N_NNP दृष्टीने_N_NN अत्यंत_RP_INTF वेदानाद्यी_JJ होता_V_VAUX</s>
+<s> लेफ्टनन_RD_RDF पदाची_N_NN शपथ_N_NN घेताना_V_VM त्याला_PR_PRP कधीही_RB वाटले_V_VM नव्हते_V_VM कि_CC_CCD अश्याप्रकारे_RB कोर्ट-मार्शलला_RD_RDF सामोरे_N_NN जावे_V_VM लागेल_V_VM</s>
+<s> अभिमानाने_N_NN खांद्यावर_N_NN बाळगलेले_V_VM वर्दिवरील_N_NN स्टार_RD_RDF गळून_V_VM पडताना_V_VM पाहून_V_VM त्याला_PR_PRP मेल्याहून_V_VM मेल्यासारखे_RB झाले_V_VMहोते_V_AUX</s>
+<s>दिपक कपूर_N_NN आता_RB फक्त_RB दिपक कपूर_N_NNP राहिला_V_VMहोता_V_VM… किंबहुना_IR फक्त_RB कैदी_N_NN नं_QT_QTC</s>
+<s>पोलीस_N_NN कोठडीतून_N_NN दीपक_N_NNPची कारागृहात_N_NN रवानगी_N_NN करण्यात_V_VM आली_V_VM</s>
+<s> कारागृहाच्या_N_NN त्या_DM_DMD कातळ_JJ भिंतींमध्ये_N_NN जायच्या_V_VM आधी_RB दीपक_N_NNP लहान_JJ मुलासारखा_N_NN पोलीस_N_NN व्हैनच्या_RD_RDF जाळी_N_NN लावलेल्या_V_VM खिडकीतून_N_NN वाकून_V_VM वाकून_V_VM बाहेर_N_NST बघत_V_VM होता_V_VAUX</s>
+<s> न_RP_NEG जाणो_V_VM हे_DM बाहेरचे_N_NST जग_N_NN परत_RB केंव्हा_WP पहायला_V_VM मिळेल???_V_VM</s>
+<s> अनपेक्षितपणे_RB दीपकला_N_NNP ज्या_WP लॉक-अप_RD_RDF मध्ये_N_NST ठेवले_V_VM होते_V_VAUX ते_PRP इतरांच्या_PR_PRP तुलनेत_N_NN बरेच_RB बरे_JJ होते_V_VAUX</s>
+<s> झोपायला_V_VM छोटासा_JJ का_RP होईना_V_VM बेड_RD_RDF होता_V_VAUX, कोपर्‍यात_N_NST पिण्याच्या_JJ पाण्याचा_N_NN माठ_N_NN होता_V_VAUX, पांघरून_N_NN होती_V_VAUX</s>
+<s> पण_CC_CCD त्याचे_PR_PRP उत्तर_N_NN दीपकला_N_NNP दोन_QT_QTC दिवसातच_N_NN मिळाले_V_VM</s>
+<s> कारण_CC_CCS कारागृहात__NN आल्यावर_V_VM त्याची_PR_PRP मुलाखत_N_NN घ्यायला_V_VM मिडिया_RD_RDF प्रतिनिधींची_N_NN झुंबड_JJ उडाली_V_VM होती_V_VAUX</s>
+<s> अनेक_QT_QTC जण_N_NN दिपकची_N_NNP बाजू_N_NN पुन्हा_RB ऐकून_V_VM घ्यायला_V_VM जमले_V_VM होते_V_VAUX</s>
+<s>एक_QT_QTC ना_RP_INJ दोन_QT_QTC.. असंख्य_QT_QTC प्रश्न….._N_NN</s>
+<s>जाताना_V_VM प्रत्येक_QT_QTC जण_N_NN ह्याविरुद्ध_N_NN आवाज_N_NN उठवू,_V_VM तुला_PR_PRP न्याय_N_NN मिळवून_V_VM देऊ_V_VM वगैरे_JJ वल्गना_N_NN करत_V_VM गेला_V_VMपरंतु_CC सर्व_RB काही_QT_QTF आठवड्याभरात_N_NN शांत_JJ झाले_V_VM</s>
+<s> पुन्हा_RB काही_QT_QTF दीपकला_N_NNP भेटायला_V_VM कोणी_PRP फिरकले_V_VM नाही_V_VM आणि_CC_CCD दिपक_N_NNP काय_PR_PRQ समजायचे_V_VM ते_PR_PRP समजून_N_NNP गेला_V_VM</s>
+<s>अपेक्षेपेक्षा_N_NN दिपक_N_NNP लवकर_RB तुरुंगातील_N_NN वातावरणात_N_NN रुळला_V_VM</s>
+<s> शेवटी_RB काही_QT_QTF झालं_V_VM तरी_CC_CCD तो_PR_PRP हाडाचा_JJ सैनिक_N_NN होता_V_VAUX</s>
+<s> तुरुंगातील_N_NN वातावरणापेक्षा_N_NN कितीतरी_RB खडतर_JJ वातावरणात_N_NN रहायचे_V_VM ट्रेनिंग_RD_RDF त्याला_PR_PRP मिळाले_V_VM होते_V_VAUX</s>
+<s> जेनीच्या_N_NNP आठवणी_N_NN त्याने_PR_PRP मनाच्या_N_NN कोपर्‍यात_N_NST दडपुन_RB टाकल्या_V_VM होत्या_V_VM</s>
+<s> जेनी_N_NNP आता_RB परत_RB कधीच_PR_PRQ आपल्याला_PR_PRP भेटनार_V_VM नाहीये_V_VM हे_DM कटु_JJ सत्य_N_NN त्याने_PR_PRP स्विकारले_V_VM होते_V_VAUX</s>
+<s>दिपकच्या_N_NNP बाजुला_N_NST विवीध_JJ प्रकारचे_N_NN कैदी_N_NN होते_V_VAUX</s>
+<s> कोणी_DM_DMQ खिसेकापु,_N_NN कोणी_DM_DMQ जबरी_JJ दरोड्यात_N_NN अडकलेला_V_VM</s>
+<s> कोण_PR_PRQ दुचाकी/साखळी_N_NN चोर,_N_NN कोण_PR_PRQ बलात्कारी,_N_NN कोण_PR_PRQ हिंसाचारी_N_NN तर_CC_CCS कोणी_DM_DMQ खुनी…_N_NN</s>
+<s>दिपक_N_NNP कोण_PR_PRQ होता_V_VAUX? ह्यापैकी_PRP कोणीच_WP नाही_V_VM</s>
+<s> त्याने_PR_PRP पैश्यासाठी,_N_NN स्वार्थासाठी_N_NN किंवा_CC_CCD इतर_JJ कुठल्याही_DM_DMQ कारणासाठी_N_NN खुन_N_NN केला_V_VM नव्हता_V_VM</s>
+<s> जे_DM_DMR काही_QT_QTF घडलं_V_VM तो_PR_PRP केवळ_RB एक_QT_QTC अपघात_N_NN होता_V_VM आणि_CC_CCD तो_PR_PRP इतर_JJ कुणाच्याही_PR_PRQ बाबतीत_N_NN घडु_V_VM शकला_V_VM असता_V_VM</s>
+<s> दिपकच्या_N_NNP हातुन_N_NN घडला_V_VM तो_PR_PRP गुन्हा_N_NN</s>
+<s> नक्कीच_JJ होता_V_VAUX, पण_CC_CCD त्यासाठी_PRP देण्यात_V_VM आलेली_V_VM जन्मठेपेची_N_NN शिक्षा_N_NN मात्र_RB नक्कीच_RB जाचक_N_NN होती_V_VAUX</s>
+<s>तुरुंगातील_N_NN दिवसाची_N_NN सुरुवात_N_NN सकाळी_N_NN ५_QT_QTC</s>
+<s> सर्व_QT_QTF कैद्यांना_N_NN आंघोळी_N_NN करुन_V_VM ७_QT_QTC वाजेपर्यंत_N_NN मुख्य_JJ पटांगणात_N_NN असणार्‍या_JJ छोट्या_JJ देवळासमोर_N_NN जमणे_V_VM बंधनकारक_JJ असे_V_VM</s>
+<s> त्यानंतर_RB व्यायामासाठी_N_NN वेळ_N_NN दिला_V_VMजाई_V_VM</s>
+<s> तो_PR_PRP उरकला_V_VM की_CC_CCD १०_QT_QTC वाजता_N_NN खर्‍या_JJ अर्थाने_N_NN दिवसाला_N_NN सुरुवात_N_NN होई_V_VM</s>
+<s> प्रत्येक_QT_QTF कैद्याला_N_NN त्याच्या_PR_PRP अंगी_N_NN अवगत_JJ असलेल्या_V_VM गुणांनुसार_N_NN काम_N_NN देण्यात_V_VM आले_V_VM होते_V_VAUX</s>
+<s> अगदी_RP_INTF क्षुल्लक_JJ वस्तु_N_NN बनवण्यापासुन_N_NN ते_PR_PRP सुतारकाम_N_NN, लोहकाम_N_NN, किरकोळ_JJ इमारतीची_N_NN डागडुजी_N_NN वगैरे_JJ शारीरीक_JJ कष्टाची_N_NN काम_N_NN असत_V_VM</s>
+<s>दुपारी_N_NN १-२_QT_QTC जेवणाची_N_NN वेळ_N_NN उरकली_V_VMकी_CC ४_QT_QTC वाजेपर्यंतचा_N_NN वेळ_N_NN हा_DM झोप,_N_NN अवांतर_JJ वाचन,_N_NN गप्पा_N_NN वगैरेंसाठी_N_NN राखुन_JJ ठेवलेला_V_VM असे_V_VM</s>
+<s> ४-६_QT_QTC पुन्हा_RB एकवार_RB नेमुन_V_VM दिलेली_V_VM काम_N_NN</s>
+<s>३०_QT_QTC भेटायला_V_VM आलेल्या_V_VM व्यक्तींसाठी_V_VM वेळ_N_NN, ७_QT_QTC</s>
+<s>३०_QT_QTC वाजता_N_NN प्रा्र्थना,_N_NN ९_QT_QTC वाजता_N_NN जेवण_N_NN आणि_CC_CCD १०_QT_QTC वाजता_N_NN सर्व_RB सामसुम_N_NN असा_CC_CCS_UT ठरलेला_V_VM कार्यक्रम_N_NN असायचा_V_VM</s>
+<s>दिपक_N_NNP फारसा_RB कुणाशी_WP बोलत_V_VM नसे_V_VM</s>
+<s> ‘आपण_PRP बरे_JJ आपले_PR_PRPS काम_N_NN बरे_JJ’ हे_DM एक_QT_QTC सुत्र_N_NN मनाशी_N_NN पक्क_JJ करुनच_V_VM तो_PR_PRP वागत_V_VM होता_V_VAUX</s>
+<s> एक_QT_QTC महीना_N_NN असाच_PRP पार_N_NN पडला_V_VM</s>
+<s>‘तो_PR_PRP’ दिवस_N_NNही इतर_JJ दिवसांसारखाच_N_NN होता_V_VAUX</s>
+<s> संध्याकाळी_N_NN मात्र_CC_CCD अचानकपणे_N_NN दिपकच्या_N_NNP बराकीतील_N_NN बाकीच्या_N_NN दोन_QT_QTC कैद्यांना_N_NN दुसर्‍या_PRP बराकीत_N_NN स्थलांतरीत_N_NN करण्यात_V_VM आले_V_VM</s>
+<s> दिपक_N_NNP त्या_DM_DMD लॉक-अप_RD_RDF मध्ये_N_NST एकटाच_N_NN होता_V_VAUX</s>
+<s> असं_PR_PRP नाही_V_VM की_CC_CCD त्याच्या_PR_PRP बरोबरच्या_JJ इतरांशी_PRP त्याची_PR_PRP मैत्री_N_NN जडली_V_VM होती_V_VAUX</s>
+<s> पण_CC_CCD निदान_RB त्याला_PR_PRP कुणाची_WP तरी_CC_CCD सोबत_N_NN होती_V_VAUX</s>
+<s> आज_RB मात्र_CC_CCD तो_PR_PRP एकटा_JJ होता_V_VAUX… दहा_QT_QTC वाजुन_V_VM गेले_V_VMतसे_PRP सर्वत्र_RB सामसुम_JJ पसरली_V_VM</s>
+<s> बहुतांश_RB दिवे_N_NN नेहमीप्रमाणे_N_NN बंद_N_NN करण्यात_V_VM आले_V_VM होते_V_VAUX</s>
+<s>दिपकला_N_NNP आज_RB काही_QT_QTF केल्या_V_VMझोप_N_NN येत_V_VM नव्हती_V_VM</s>
+<s> एकटेपणा_JJ त्याला_PR_PRP खायला_V_VM उठला_V_VM होता_V_VAUX</s>
+<s> जेलच्या_N_NN त्या_DM_DMD काळ्याकुट्ट_JJ भिंती_N_NN भकासपणात_N_NN अधीकच_RP_INTF भर_N_NN घालत_V_VM होत्या_V_VM</s>
+<s> दिपक_N_NNP कुस_N_NN बदलुन_V_VM बदलुन_V_VM झोपण्याचा_N_NN प्रयत्न_N_NN करत_V_VM होता_V_VAUX</s>
+<s>३०_QT_QTC च्या_WP सुमारास_N_NN त्याचा_PR_PRP डोळा_N_NN लागला_V_VM</s>
+<s>सर्व_QT_QTF काही_QT_QTF सुरळीत_N_NN चालु_N_NN आहे_V_VAUX असे_PRP वाटत_N_NN असतानाच_V_VM त्या_DM_DMD रात्री_N_NN…………………….</s>
+<s>दिपकला_N_NNP झोप_N_NN लागली_V_VM असली_V_VM तरी_CC_CCD त्याच्या_PR_PRP संवेदना_N_NN जागृत_JJ होत्या_V_VM</s>
+<s> सैनिकी_JJ प्रशिक्षणाचा_N_NN परीणाम_N_NN म्हणा_V_VM किंवा_CC_CCD त्याचा_PR_PRP सिक्स्थ_RD_RDF सेन्स_RD_RDF म्हणा_V_VM परंतु_CC दिपकला_N_NNP अचानक_RB जाग_N_NN आली_V_VM</s>
+<s> आपल्याला_PR_PRP अशी_PRP अचानक_RB जाग_N_NN का_RP आली_V_VM असावी_V_VM ह्याचा_PR_PRP विचार_N_NN करत_V_VM तो_PR_PRP जागेवरच_N_NN पडुन_V_VM आजुबाजुला_N_NST घडणार्‍या_JJ घटनांचा_N_NN वेध_N_NN घेउ_V_VM लागला_V_VM</s>
+<s> काही_QT_QTF क्षण_N_NN शांततेत_N_NN गेल्यावर_V_VM त्याला_PR_PRP लॉकअपच्या_RD_RDF बाहेर_N_NST हलकीशी_RB हालचाल_N_NN जाणवली_V_VM</s>
+<s> किमान_RB ३-४_QT_QTC व्यक्ती_N_NN हलक्या_JJ आवाजात_N_NN एकमेकांशी_PR_PRC कुजबुजत_V_VM होत्या_V_VM</s>
+<s>दिपक_N_NNP कानोसा_N_NN घेत_V_VM पडुन_V_VM राहीला_V_VM.</s>
+<s>थोडा_JJ वेळ_N_NN शांततेत_N_NN गेल्यावर_V_VM त्याच्या_PR_PRP लॉकअपचे_RD_RDF दार_N_NN हळुच_JJ उघडले_V_VM गेल_V_VM आणि_CC_CCD बाहेर_N_NST थांबलेल्या_JJ त्या_DM_DMD व्यक्ती_N_NN आतमध्ये_N_NST आल्या_V_VM</s>
+<s> दिपक_N_NNP अजुनही_RB स्तब्ध_JJ पडुन_V_VM होता_V_VAUX</s>
+<s> हळु_JJ हळु_JJ त्या_DM_DMD व्यक्ती_N_NN दिपकच्या_N_NNP भोवती_N_NST जमा_N_NN झाल्या_V_VM</s>
+<s>त्यांच्यातील_PRP एक_QT_QTC व्यक्ती_N_NN दिपकच्या_N_NNP अगदी_RP_INTF जवळ_JJ आली_V_VM होती_V_VAUX</s>
+<s> त्या_DM_DMD व्यक्तीचा_N_NN जोरजोराचा_JJ श्वाछोत्वास_JJ दिपकला_N_NNP ऐकु_V_VM येत_V_VM होता_V_VAUX</s>
+<s> त्या_DM_DMD व्यक्तीची_N_NN हालचाल_N_NN दिपकला_N_NNP जाणवत_V_VM होती_V_VAUX</s>
+<s> जणु_N_NN काही_QT_QTF दिपकला_N_NNP मारण्यासाठी_V_VM त्याने_PR_PRP एखादी_QT_QTC जड_JJ वस्तु_N_NN उगारली_V_VM होती_V_VAUX</s>
+<s>दिपकने_N_NNP अजुन_RB काही_QT_QTF क्षण_N_NN वाट_N_NN पाहीली_V_VMआणि_CC मग_CC_CCS तो_PR_PRP अचानक_JJ पाठीवर_N_NN भार_N_NN देउन_V_VM गोल_JJ फिरला_V_VM आणि_CC_CCD एक_QT_QTC लाथ_N_NN अंदाजाने_N_NN त्या_DM_DMD व्यक्तीच्या_N_NN दिशेने_N_NN फिरवली_V_VM</s>
+<s>बेसावध_JJ असलेल्या_V_VM त्या_DM_DMD व्यक्तीच्या_N_NN तोंडावर_N_NN दिपकची_N_NNP ती_PR_PRP लाथ_N_NN बसली_V_VM आणि_CC_CCD ती_PR_PRP व्यक्ती_N_NN हेलपांडत_RB मागे_N_NST पडली_V_VM</s>
+<s> त्या_DM_DMD व्यक्तीच्या_N_NN हातातील_N_NN वस्तु_N_NN खाली_N_NST पडली_V_VM आणि_CC_CCD खण्ण्ण_JJ</s>
+<s> आवाजावरुन_N_NN ती_PR_PRP वस्तु_N_NN लोखंडी_JJ रॉड_RD_RDF असावी_V_VM हे_DM दिपकने_N_NNP ताडले_V_VM</s>
+<s> दिपकने_N_NNP क्षणाचाही_N_NN विलंब_N_NN न_RP_NEG करता_V_VM बाकीच्या_N_NN व्यक्तींवर_N_NN हल्ला_N_NN चढवला_V_VM</s>
+<s> दिपक_N_NNP चपळ_JJ होता_V_VAUX, ताकदवान_JJ होता_V_VAUX, पण_CC_CCD ते_PR_PRP तिघेही_QT_QTC कमी_QT_QTF नव्हते_V_VM</s>
+<s> त्यातील_PRP एकाची_QT_QTC लाथ_N_NN वेगाने_RB दिपकच्या_N_NNP पोटात_N_NN बसली_V_VMआणि_CC दिपक_N_NNP क्षणभर_N_NN का_RP होईना_V_VM पोटावर_N_NN हात_N_NN धरुन_V_VM खाली_N_NST कोसळला_V_VM</s>
+<s>त्या_DM_DMD तिघांनीही_QT_QTC वेळ_N_NN न_RP_NEG घालवता_V_VM दिपकला_N_NNP पकडले_V_VM</s>
+<s> एकाने_QT_QTC त्याचे_PR_PRP हात_N_NN घट्ट_JJ धरले,_V_VMदुसर्‍याने_PRPD एक_QT_QTC जाड_JJ सेलोटेप_RD_RDF दिपकच्या_N_NNP तोंडाभोवती_N_NN बांधला_V_VM तर_CC_CCS तिसर्‍याने_QT_QTC पोत्यासारखे_N_NN एक_QT_QTC जाड_JJ कापड_N_NN दिपकच्या_N_NNP तोंडावर_N_NN टाकुन_V_VM घट्ट_JJ आवळले_V_VM</s>
+<s>दिपकचा_N_NNP श्वास_N_NN कोंडला_V_VMगेला_V_VM, त्याची_PR_PRP शक्ती_N_NN कमी_QT_QTF पडु_V_VM लागली_V_VM</s>
+<s> तो_PR_PRP त्याच्या_PR_PRP परीने_RB शक्य_N_NN तेवढा_PRP प्रतिकार_N_NN करण्याचा_JJ प्रयत्न_N_NN करत_V_VM होता_V_VMतोच_PRP मगाचचा_RB तो_PR_PRP लोखंडी_JJ रॉड_RD_RDF_RD_RDF कुठुनतरी_RB वेगाने_RB दिपकच्या_N_NNP मानेवर_N_NN बसला_V_VM तसा_PR_PRP दिपक_N_NNP थाड्कन_RB खाली_N_NST कोसळला_V_VM</s>
+<s> दुसर्‍या_PRP एकाने_PRP दयामाया_N_NN न_RP_NEG दाखवता_V_VM दोन_QT_QTC चार_QT_QTC ला्था_N_NN वेगाने_RB दिपकच्या_N_NNP पोटात_N_NN लगावल्या_V_VM</s>
+<s>दिपकच्या_N_NNP डोळ्यापुढे_N_NN अंधारी_JJ येऊ_V_VM लागली_V_VM</s>
+<s> शेवटचे_RB त्याला_PR_PRP आठवले_V_VM तेंव्हा_PR_PRL त्याला_PR_PRP गाडीच्या_N_NN मागच्या_RB डिक्कीत_N_NN फेकण्यात_V_VM आले_V_VM होते_V_VAUX आणि_CC_CCD ती_PR_PRP गाडी_N_NN खडबडीत_JJ रस्त्याने_RB वेगाने_RB धावत_V_VM होती_V_VAUX</s>
+<s> त्यानंतर_RB मात्र_RP दिपकला_N_NNP ग्लानी_N_NN आली_V_VM आणि_CC_CCD तो_PR_PRP बेशुध्द_N_NN झाला_V_VM</s>
+<s>दिपकला_N_NNP जाग_N_NN आली_V_VMतेंव्हा_RB त्याचे_PR_PRP सर्वांग_N_NN ठणकत_V_VM होते_V_VAUX, मुख्यतः_N_NN मानेचा_N_NN भाग_N_NN जेथे_PR_PRL लोखंडी_JJ रॉड_RD_RDFचा_RD_RDF जोरदार_N_NN फटका_N_NN बसला_V_VMहोता_V_VM</s>
+<s> त्याने_PR_PRP डोळे_N_NN उघडले_V_VMतेंव्हा_RB आजुबाजुला_N_NST मिट्ट_JJ काळोख_N_NN होता_V_VAUX</s>
+<s> डोळे_N_NN चोळुन_V_VM चोळुन_V_VM पाहीले_V_VM तरीही_RP_RPD आजुबाजुचे_RB काहीच_QT_QTF दिसत_V_VM नव्हते_V_VM</s>
+<s> तो_PR_PRP आता_RB गाडीच्या_N_NN डिक्कीत_N_NN नक्कीच_RB नव्हता_V_VM</s>
+<s> सार्वजनीक_JJ मुतारी_N_NN गृहात__NN असतो_V_VM तसला_PRP घाणेरडा_JJ वास_N_NN सर्वत्र_RB पसरला_V_VM होता_V_VM</s>
+<s> जमीन_N_NN गार_JJ आणि_CC_CCD ओलसर_JJ होती_V_VAUX</s>
+<s> डासांचे_N_NN साम्राज्य_N_NN सर्वत्र_RB पसरले_V_VMहोते_V_AUX</s>
+<s> डास_N_NN चावुन_V_VM चावुन_V_VM मोठ्ठा_JJल्ले फोड_N_NN आले_V_VM होते_V_VAUX</s>
+<s> नक्की_RB कोणती_PRP जागा_N_NN असावी_V_VM ह्याचा_PR_PRP कोणताही_PRP अंदाज_N_NN दिपकला_N_NNP येत_V_VM नव्हता_V_VM</s>
+<s>ठणकणारे_JJ डोके_N_NN घट्ट_JJ धरुन_V_VM तो_PR_PRP भिंतीला_N_NN टेकुन_V_VM बसला_V_VM.</s>
+<s>नक्की_RB किती_PRP वेळ_N_NN गेला_V_VMअसेल_V_VM कुणास_PRP ठाऊक_V_VM पण_CC_CCD दिपकला_N_NNP शेवटी_RB आजुबाजुला_N_NST हालचाल_N_NN जाणवली_V_VM</s>
+<s> दिपक_N_NNP आवाजाचा_N_NN अंदाज_N_NN घेऊ_V_VM लागला_V_VM तोच_PR_PRP त्या_DM_DMD जागेतला_N_NN एक_QT_QTC प्रखर_N_NN दिवा_N_NN लागला_V_VM</s>
+<s> बर्‍याच_RB काळाने_N_NN उजेड_N_NN बघत_V_VM असल्याने_V_VM दिपकचे_N_NNP डोळे_N_NN त्या_DM_DMD प्रकाशाने_N_NN दिपले_V_VM गेले_V_VM</s>
+<s> दिपकने_N_NNP घट्ट_JJ डोळे_N_NN मिटुन_V_VM घेतले_V_VM</s>
+<s> तो_PR_PRP एका_QT_QTC छोट्याश्या_JJ १०x१०_QT_QTC च्या खोलीत_N_NN बंद_N_NN होता_V_VAUX</s>
+<s> हिरवट_JJ रंगाची_N_NN ती_PR_PRP एक_QT_QTC खोली_N_NN होती_V_VAUX</s>
+<s> भिंतीचा_N_NN रंग_N_NN उडला_V_VMहोता_V_VMतर_CC काही_QT_QTF ठिकाणी_N_NN रंगाचे_N_NN मोठ्ठाल्ले_JJ पोपडे_N_NN निघाले_V_VM होते_V_VAUX</s>
+<s> जमीनीवर_N_NN नावापुरत्या_JJ फरश्या_N_NN होत्या_V_VMज्या_WP बहुतांश_JJ ठिकाणी_N_NN तुटलेल्या_JJ होत्या_V_VM</s>
+<s> समोर_N_NST मात्र_CC_CCD एक_QT_QTC लोखंडी_JJ भक्कम_JJ दार_N_NN होते_V_VAUX</s>
+<s>दिपक_N_NNP खोलीतुन_N_NN नजर_N_NN फिरवत_V_VM होता_V_VMतेंव्हा_RB ते_PR_PRP दार_N_NN उघडले_V_VMगेले_V_VMआणि_CC आतमध्ये_N_NST पोलिसी_JJ वेशातला_JJ एक_QT_QTC ६_QT_QTC फुटी_JJ उंच,_JJ मजबुत_JJ बांध्याचा,_JJ सावळा,_JJ टकला_JJ माणुस_JJ आत_N_NST आला_V_VM</s>
+<s> सावकाश_RB पावलं_N_NN टाकत_RB तो_PR_PRP दिपक_N_NNPपाशी येउन_V_VM थांबला_V_VM</s>
+<s>दिपक_N_NNP जागेवरुन_RB उठला_V_VM आणि_CC_CCD म्हणाला_V_VM, “मला_PR_PRP इथे_DM_DMD अश्याप्रकारे_PRP आणण्याचे_V_VM कारण_CC_CCS….”</s>
+<s>त्याचे_PR_PRP वाक्य_N_NN पुर्ण_JJ होण्याच्या_V_VM आधीच_RB त्या_DM_DMD पोलिसाने_N_NN दिपकच्या_N_NNP एक_QT_QTC थाड्कन_RB मुस्काटात_N_NN लावुन_V_VM दिली_V_VM</s>
+<s> ती_PR_PRP थप्पड_RD_RDF इतकी_RP_INTF जोरदार_JJ होती_V_VAUX की_CC_CCD दिपक_N_NNP मागच्या_RB भिंतीवर_N_NN जाउन_V_VM आपटला_V_VM</s>
+<s> आधीच_RB ठणकणारे_JJ त्याचे_PR_PRP डोके_N_NN त्या_DM_DMD भिंतीवर_N_NN आपटले_V_VM गेले_V_VM</s>
+<s>“इथे_DM_DMD प्रश्न_N_NN फक्त_RB मी_PR_PRP विचारतो…_V_VM” वेगाने_RB श्वास_N_NN घेत_V_VM तो_PR_PRP म्हणाला_V_VM…</s>
+<s>“साल्या_N_NN, सायबाच्या_N_NN पोराला_N_NN मारतोस_V_VM काय_PR_PRQ? तुझी_PR_PRP गेम_RD_RDF झाली_V_VM आता_RB</s>
+<s> असा_CC_CCS_UT सडशील_V_VM ह्या_DM_DMD तुरुंगात_N_NN की_CC_CCD</s>
+<s> फाशीची_N_NN शिक्षा_N_NN का_PR_PRQ मिळाली_V_VM नाही_V_VM म्हणुन_CC_CCS_UT तुला_PR_PRP पश्चात्ताप_N_NN होईल_V_VM</s>
+<s> सायबाने_N_NN फक्त_RB एक_QT_QTC फोन_RD_RDF केला_V_VM आणि_CC_CCD तुझी_PR_PRP उच्चलबांगडी_N_NN झाली_V_VM ह्या_PR_PRP काळगृहात__NN</s>
+<s>“तुला_PR_PRP संपवायला_V_VM ५_QT_QTC मिनीट_N_NN पण_CC_CCD लागली_V_VM नसती, पण_CC_CCD त्यामुळे_PR_PRP ते_PR_PRP मेलेलं_JJ पोरं_N_NN थोडं_RB न_RB परत_RB येणार_V_VM आहे_V_VAUX! तुला_PR_PRP असा_CC_CCS_UT तडपवुन_RB तडपवुन_RB मारला_V_VM पाहीजे_V_VM</s>
+<s> एक_QT_QTC एक_QT_QTC क्षण_N_NN तु_PR_PRP निराशेत_RB घालवला_V_VM पायजेल_V_VM</s>
+<s> तुझा_PRP भुतकाळ_N_NN तुला_PR_PRP खायला_RB उठेल_V_VM</s>
+<s> ह्या_DM_DMD भिंती_N_NN तुझं_PRP जगणं_N_NN नकोसं_JJ करतील_V_VM</s>
+<s> तुझी_PRP विचार_N_NN करण्याची_JJ शक्ती_N_NN मंदावत_V_VM जाईल_V_VM</s>
+<s> दिवस-रात्रीच_N_NN गणीतच_N_NN तुझ्या_PRP हिशोबी_N_NN बिघडुन_RB जाईल_V_VM</s>
+<s> इथली_RB चिलटं,_N_NN डास_N_NN, माश्या_N_NN तुला_PR_PRP झोपुनही_N_NN देणार_V_VM नाहीत_V_VM</s>
+<s>दिवसांतुन_N_NN एकदाच_RB तुला_PR_PRP जेवायला_V_VM मिळेल_V_VM</s>
+<s> कोपर्‍यात_N_NST ठेवलेलं_JJ हे_DM पाणी_N_NN तुरुंगाबाहेरच्या_N_NN नाल्यातुन_N_NN आणलं_V_VM जात_V_VM जिथं_WP डुक्कर_N_NN रोज_RB सकाळ_N_NN संध्याकाळ_N_NN डुंबत_V_VM असतात_V_VM</s>
+<s> तिन_QT_QTC तासासाठी_N_NN तुला_PR_PRP बाहेर_N_NST येता_V_VM येईल…_V_VM</s>
+<s>” एवढं_RB बोलुन_V_VM तो_PR_PRP गलेलठ्ठ_JJ पोलिस_N_NN जाण्यासाठी_V_VM वळला_V_VM</s>
+<s>काही_QT_QTF पावलं_N_NN पुढे_N_NST गेल्यावर_V_VM त्याला_PR_PRP काहीतरी_RB आ्ठवले_V_VM तसा_PRP तो_PR_PRP माघारी_RB वळला_V_VM.</s>
+<s> तुझं_PRP स्वागत_N_NN करायचं_V_VM तर_CC_CCS राहुनच_V_VM गेले_V_VM</s>
+<s> असं_RB म्हणुन_CC_CCS_UT त्याने_PR_PRP कमरेचा_JJ पट्टा_N_NN काढला_V_VMआणि_CC बक्कलाची_JJ बाजु_N_NN पुढे_N_NST करुन_V_VMतो_PRP दिपकला_N_NNP बदडत_V_VM राहीला_V_VM…</s>
+<s>जाग_N_NN आली_V_VMतेंव्हा_RB मगाचचा_RB तो_PR_PRP पोलिस_N_NN निघुन_V_VM गेला_V_VMहोता_V_VM</s>
+<s> खोली_N_NNतला दिवा_N_NN अजुनही_RB चालु_V_VM होता_V_VAUX</s>
+<s> समोर_N_NST एका_QT_QTC वाकड्या_JJ तिकड्या_JJ झालेल्या_V_VMताटात_N_NN थोडास_N_NN भात_N_NN आणि_CC_CCD पाण्याचा_N_NN जास्त_JJ अंश_N_NN असलेला_V_VM डाळसदृश्य_JJ पदार्थ_N_NN होता_V_VAUX</s>
+<s> दिपक_N_NNP कहणत_RB पुढे_N_NST सरकला_V_VM तसा_PR_PRP त्या_DM_DMD ताटातुन_N_NN एक_QT_QTC उंदराचे_N_NN छोटे_JJ पिल्लु_N_NN पटकन_RB बाहेर_N_NST आले_V_VMपळत_RB पळत_RB खोली_N_NNच्या कोपर्‍यातील_RB एका_QT_QTC बिळात_N_NN घुसले_V_VM</s>
+<s>दिपकने_N_NNP ते_PR_PRP ताट_N_NN दुर_N_NN सरकवले_V_VMआणि_CC तो_PR_PRP पुन्हा_RB भिंतीला_N_NN टेकुन_V_VM बसला_V_VM</s>
+<s> पट्याच्या_N_NN त्या_DM_DMD बक्कलाने_N_NN दिपकच्या_N_NNP मानेवर,_N_NN पाठीवर,_N_NN हातावर_N_NN जखमा_N_NN झाल्या_V_VM होत्या_V_VM आणि_CC_CCD त्यावर_PR_PRP माश्या_N_NN,_N_NN चिलटं_N_NN बसुन_V_VM त्या_DM_DMD अजुनच_RB झोंबत_V_VM होत्या_V_VM</s>
+<s>दिपक_N_NNP एका_QT_QTC कोपर्‍यात_N_NST गुडघ्यात_N_NN डोकं_N_NN खुपसुन_V_VM बसुन_V_VM राहीला_V_VM.</s>
+<s>वेळेचे_N_NN काही_QT_QTF गणितच_N_NN राहिले_V_VM नव्हते_V_VM</s>
+<s> आत्ता_RB दिवस_N_NN आहे_V_VAUX का_RP रात्र_N_NN?_N_NN सोमवार_N_NN आहे_V_VAUX का_RP शनिवार?_N_NN काहीच_QT_QTF काळात_V_VM नव्हते_V_VM</s>
+<s> कधी_RB डोक्यात_N_NN विचारांची_N_NN गर्दी_N_NN होत_V_VM होती_V_VAUX तर_CC_CCS कधी_RB अगदीच_RB रिकामेपणा_N_NN जाणवत_V_VMहोता_V_VM</s>
+<s> बसून_V_VM बसून_V_VM हात_N_NN पाय_N_NN आखडले_V_VM होते_V_VAUX, अंग_N_NN सणकून_RB दुखत_V_VM होत_V_VM</s>
+<s>कित्तेक_JJ तास_N_NN उलटले_V_VM परंतु_CC जणू_N_NN काही_QT_QTF सर्व_RB काही_QT_QTF स्तब्ध_JJ झाले_V_VM आहे_V_VM असेच_PR_PRP वाटत_V_VM होते_V_VAUX</s>
+<s> नाही_V_VM म्हणायला_V_VM कोनाड्यातील_RB बिळात_N_NN घुसलेला_JJ तो_PR_PRP उंदीर_N_NN एव्हाना_RB निर्ढावला_V_VM</s>
+<s> दीपक_N_NNP निरुपद्रवी_JJ आहे_V_VAUX ह्याची_PRP त्याला_PR_PRP खात्री_N_NN पटली_V_VMहोती_V_VAUX आणि_CC_CCD म्हणूनच_CC_CCS_UT तो_PR_PRP बिळातून_N_NN बाहेर_N_NST येऊन_V_VM इकडे_DM_DMD तिकडे_DM_DMD फिरत_V_VM होता_V_VAUX</s>
+<s>दीपक_N_NNP बराच_RB वेळ_N_NN त्या_DM_DMD उंदराची_N_NN हालचाल_N_NN टिपत_V_VM राहिला_V_VM</s>
+<s> बराच_RB वेळ_N_NN म्हणजे_CC_CCD किती_PR_PRQ हे_DM कोणीच_PRP सांगू_V_VM शकत_V_VM नव्हते_V_VM</s>
+<s> कदाचित_RB एखादा_QT_QTC तास?_N_NN कदाचित_RB ४-५_QT_QTC तास?_N_NN कदाचित_RB अक्खी_JJ रात्र_N_NN किंवा_CC_CCD दिवस_N_NN?</s>
+<s>जेंव्हा_PR_PRL जेवणाचे_N_NN ताट_N_NN आले_V_VM तेंव्हा_PR_PRL दिपकने_N_NNP अंदाज_N_NN बांधला_V_VM एक_QT_QTC तर_CC_CCS आत्ता_RB दुपार_N_NN आहे_V_VAUX किंवा_CC_CCD रात्रीची_N_NN जेवणाची_N_NN वेळ_N_NN</s>
+<s> आणि_CC_CCD त्याप्रमाणे_RB तो_PR_PRP दिवसांचे_N_NN गणित_N_NN जुळवू_V_VM लागला_V_VM</s>
+<s>दुसर्‍या_QT_QTC दिवशी_N_NN साधारण_N_NN त्याच_PR_PRP वेळेस_N_NN जेवणाचे_N_NN ताट_N_NN घेऊन_V_VM पांढरा_N_NN कैद्याचा_N_NN शर्ट_N_NN आणि_CC_CCD पिवळी_JJ पॅन्ट_N_NN घातलेला_JJ वॉर्डन_N_NN आला_V_VM</s>
+<s> त्याने_PR_PRP दिपकचे_N_NNP पहीले_RB भरलेले_JJ ताट_N_NN पाहीले_V_VM आणि_CC_CCD तो_PR_PRP बाहेर_N_NST निघुन_V_VM गेला_V_VM</s>
+<s> थोड्या_JJ वेळाने_RB तो_PR_PRP गलेलठ्ठ_JJ पोलिस_N_NN आत_N_NST आला_V_VM</s>
+<s> गिळायला_RB मिळतय_V_VM फुकट_JJ तर_CC_CCS गिळता_V_VM येत_V_VM नाही_V_VM का_PR_PRQ?”“…</s>
+<s>आवाज_N_NN फुटायचा_V_VM बंद_N_NN झाला_V_VMका_WP?”</s>
+<s>“तुझ्या_PRP आय ने_N_NN तुला_PR_PRP असंच_RB जेवायला_N_NN घातलं_V_VM होतं_V_VM का_RP?”, क्षिण_JJ स्वरात_N_NN दिपक_N_NNP म्हणाला_V_VM</s>
+<s>त्या_DM_DMD पोलिसाचा_N_NN चेहरा_N_NN रागाने_RB लालबुंद_JJ झाला_V_VM</s>
+<s> वॉर्डनच्या_N_NN हातातील_N_NN रॉड_RD_RDF त्याने_PR_PRP काढुन_V_VM घेतला_V_VMआणि_CC तो_PR_PRP दिपकवर_N_NNP धावुन_RB गेला_V_VM</s>
+<s> दिपक_N_NNP इंचभरही_RB हालण्याच्या_V_VM अवस्थेत_N_NN नव्हता_V_VM</s>
+<s> त्या_DM_DMD पोलिसाचा_N_NN मार_N_NN आधीच_RB बधीर_JJ झालेल्या_JJ शरीरावर_N_NN तो_PR_PRP झेलत_V_VM राहीला_V_VM</s>
+<s>निपचीत,_JJ प्रतिकार_N_NN न_RP_NEG करणार्‍या,_V_VM लोळा-गोळा_JJ झालेल्या_JJ दिपक_N_NNPमधला इंटरेस्ट_RD_RDF निघुन_V_VM गेला_V_VM तसा_PR_PRP तो_PR_PRP पोलिस_N_NN आधीकारी_N_NN मारायचा_V_VM थांबला_V_VM आणि_CC_CCD आपला_PR_PRP वाढलेल्या_JJ श्वासावर_N_NN नियंत्रण_N_NN मिळवत_V_VM तो_PR_PRP तेथुन_DM_DMD निघुन_V_VM गेला_V_VM</s>
+<s> अंदाजे_N_NN तीन_QT_QTC दिवसानंतर_N_NN दीपकच्या_N_NNP कोठडीचे_N_NN दार_N_NN उघडले_V_VM गेले_V_VM</s>
+<s> बाहेर_N_NST उभ्या_JJ असलेल्या_V_VM हवालदाराने_N_NN आतमध्ये_N_NST वाकून_RB दीपकला_N_NNP बाहेर_N_NST यायची_V_VM खुण_N_NN केली_V_VM</s>
+<s> दीपक_N_NNP जागेवरून_N_NN उठला_V_VMतेंव्हा_RB त्याच्या_PR_PRP डोळ्यासमोर_N_NN अचानक_RB अंधेरीच_N_NN आली_V_VM</s>
+<s> तीन_QT_QTC दिवसांत_N_NN त्याच्या_PR_PRP अंगात_N_NN अतिशय_JJ अशक्तपणा_N_NN आला_V_VMहोता_V_VM</s>
+<s> दीपक_N_NNP भिंतींचा_N_NN आधार_N_NN घेत_V_VM बाहेर_N_NST आला_V_VM आणि_CC_CCD बाहेरच्या_N_NST प्रखर_JJ उन्हाने_N_NN त्याचे_PR_PRP डोळे_N_NN दिपले_V_VM गेले_V_VM</s>
+<s> दिपकने_N_NNP घट्ट_JJ डोळे_N_NN मिटून_V_VM घेतले_V_VM</s>
+<s>त्या_DM_DMD हवालदाराने_N_NN एव्हाना_RB दीपकच्या_N_NNP हातात_N_NN साखळी_N_NN वजा_JJ हातकडी__NN घातली_V_VM होती_V_VAUX, त्याला_PR_PRP धरून_V_VM ओढत_V_VM दीपकला_N_NNP तो_PR_PRP काही_QT_QTF अंतर_N_NN घेऊन_V_VM गेला_V_VM, आणि_CC_CCD तेथील_DM_DMD एका_QT_QTC भिंतीला_N_NN टेकवून_V_VM दीपकला_N_NNP उभे_V_VM केले_V_VM</s>
+<s>दीपक_N_NNP भिंतीकडे_N_NN तोंड_N_NN करून_V_VM काही_QT_QTF क्षण_N_NN उभा_V_VM राहिला_V_VM आणि_CC_CCD मग_CC_CCS अचानक_RB गार_JJ पाण्याचा_N_NN एक_QT_QTC जोरदार_N_NN प्रवाह_N_NN त्याच्या_PR_PRP अंगावर_N_NN येऊन_V_VM थडकला_V_VM</s>
+<s> बराच_RB वेळ_N_NN तो_PR_PRP हवालदार_N_NN एखादी_QT_QTC गाडी_N_NN धुवावी_V_VM तसा_PR_PRP दीपकला_N_NNP लांबूनच_RB धूत_V_VM होता_V_VAUX</s>
+<s> नंतर_RB त्याने_PR_PRP एक_QT_QTC बर्याच_JJ लोकांनी_N_NN वापरून_V_VM बुळबुळीत_JJ झालेला_V_VMएक_QT_QTC साबण_N_NN दिपाक्कडे_N_NN फेकला_V_VM आणि_CC_CCD कोपर्यात_RB ठेवलेल्या_V_VM कपड्यांकडे_N_NN आणि_CC_CCD फाटक्या_JJ टॉवेल कडे_N_NN बोट_N_NN दाखवून_V_VM तो_PR_PRP लांब_JJ जाऊन_V_VM थांबला_V_VM</s>
+<s>आंघोळ_N_NN झाल्यावर_V_VM दीपकला_N_NNP थोडेफार_QT_QTF फ्रेश_JJ वाटू_V_VM लागले_V_VM</s>
+<s> बाहेरच्या_N_NST पटांगणात_N_NN दुपारच्या_N_NN जेवणाची_N_NN तयारी_N_NN चालू_V_VM होती_V_VAUX</s>
+<s> दीपक_N_NNP प्रमाणेच_N_NN अजून_N_NNP काही_QT_QTF कैदी_N_NN तेथे_DM_DMD वावरत_V_VM होते_V_VAUX</s>
+<s> शाळेत_N_NN आलेल्या_V_VM नवीन_JJ मुलाला_N_NN जसे_WP सर्व_QT_QTF पाहतात_V_VM तसे_PR_PRP अनोळखी_JJ दिसणाऱ्या_JJ दीपककडे_N_NNP सगळेजण_PRP वळून_V_VM वळून_V_VM बघत_V_VM होते_V_VAUX</s>
+<s>थोडीफार_RB रिकामी_JJ जागा_N_NN पाहून_V_VM दीपक_N_NNP तेथील_DM_DMD एका_QT_QTC खांबाला_N_NN टेकून_V_VM बसला_V_VM.</s>
+<s> त्याच्या_PR_PRP कोठडीप्रमाणेच_N_NN आजूबाजूला_RB पोलादी_JJ दरवाज्याच्या_N_NN अनेक_JJ खोल्या_N_NN होत्या_V_VM</s>
+<s> त्या_DM_DMD बंद_JJ दरवाज्याच्या_N_NN आत_N_NST अजून_N_NNP कित्तेक_JJ कैदी_N_NN असण्याची_V_VM शक्यता_V_VM होती_V_VAUX</s>
+<s> त्यांचा_PR_PRP बाहेर_N_NST येण्याचा_V_VM तिसरा_QT_QTC दिवस_N_NN होऊन_V_VM गेला_V_VM होता_V_VAUX</s>
+<s>दूरवर_RB उंच_JJ भिंतीचे_N_NN कुंपण_CC घातले_V_VM होते_V_VAUX आणि_CC_CCD प्रत्येक_QT_QTF कोपर्यात_RB त्याहून_RB उंच_JJ टेहळणी_N_NN मनोरे_N_NN उभारले_V_VM होते_V_VAUX, ज्यावर_WP एक_QT_QTC एक_QT_QTC पोलीस_N_NN अधिकारी_N_NN बंदूक_N_NN घेऊन_V_VM उभा_V_VM होता_V_VAUX</s>
+<s> कुठल्याही_PR_PRP वाहनांचा_N_NN किंवा_CC_CCD रहदारीचा_N_NN आवाज_N_NN येत_V_VM नव्हता_V_VM, ह्यावरून_PR_PRP हा_DM तुरुंग_N_NN नक्कीच_RB कुठ्ल्यातेरी_PR_PRP निर्जन_JJ भागी_N_NN असावा_V_VM हे_DM दिपकने_N_NNP ताडले_V_VM</s>
+<s>दिपकने_N_NNP बाकीच्या_RB कैद्यांवरून_N_NN नजर_N_NN फिरवली_V_VM</s>
+<s> सर्वजण_PRP आपल्याच_PRP विश्वात_N_NN मग्न_V_VM होते_V_VAUX</s>
+<s> कुणीच_WP कुणाशी_WP काही_QT_QTF बोलत_V_VM नव्हते_V_VM</s>
+<s> किंवा_CC_CCD कदाचित_RB कुणाशी_WP बोलण्याची_V_VM परवानगी_N_NN नव्हती_V_VM</s>
+<s>पटांगणाच्या_N_NN मधोमध_RB तो_PR_PRP जाड-जुड_JJ गलेलठ्ठ_JJ पोलीस_N_NN सर्वांवर_RB नजर_N_NN ठेवत_V_VM फिरत_V_VM होता_V_VAUX</s>
+<s> त्याला_PR_PRP बघताच_V_VM दिपकच्या_N_NNP डोक्यात_N_NN संतापाची_N_NN एक_QT_QTC तडक_N_NN उठली_V_VM, कपाळावरच्या_N_NN आणि_CC_CCD मानेच्या_N_NN शिरा_N_NN ताणल्या_V_VMगेल्या_V_VM</s>
+<s> दिपक_N_NNP ताडकन_RB उठुन_RB उभा_V_VM राहीला_V_VM</s>
+<s> तुझी_PRP वेळ_N_NN पण_CC_CCD येईल_V_VM, पण_CC_CCD आत्ता_RB नाही_V_VM</s>
+<s>" कोणीतरी_WP खुसफुसल्या_JJ स्वरात_N_NN बोलले_V_VM</s>
+<s>तो_PR_PRP आवाज_N_NN इतका_RP_INTF हळु_JJ होता_V_VM की_CC_CCD खरंच_RB कोणी_DM_DMQ बोललं_V_VM की_CC_CCD आपल्याला_PR_PRP भास_N_NN झाला_V_VMअसं_WP क्षणभर_N_NN दिपकला_N_NNP वाटुन_V_VM गेले_V_VM</s>
+<s> त्याच्यापासुन_PRP काही_QT_QTF अंतरावर_N_NN एक_QT_QTC कैदी_N_NN बसला_V_VMहोता_V_VM</s>
+<s> दिपकची_N_NNP आणि_CC_CCD त्याची_PR_PRP नजरानजर_V_VM झाली_V_VM</s>
+<s> त्याने_PR_PRP अगदी_RP_INTF इंचभर_RB मान_N_NN हलवुन_V_VM नाही_V_VM अशी_PR_PRP खुण_N_NN केली_V_VM आणि_CC_CCD तो_PR_PRP परत_RB दुसरीकडे_RB पाहु_V_VM लागला_V_VM</s>
+<s>थोड्यावेळाने_RB एक_QT_QTC बझर_RD_RDF वाजला_V_VMआणि_CC सर्व_QT_QTF कैदी_N_NN उठुन_V_VM आपल्या_PR_PRP आपल्या_PR_PRP कोठडीत_N_NN जाऊ_V_VM लागले_V_VM</s>
+<s> दिपकही_N_NNP उठुन_V_VM उभा_V_VM राहीला_V_VM, जाताना_V_VM त्याने_PR_PRP त्या_DM_DMD मगाचच्या_JJ त्या_DM_DMD कैद्याकडे_N_NN पाहीले_V_VM</s>
+<s> पण_CC_CCD तो_PR_PRP कैदी_N_NN न_RP_NEG बघताच_V_VM निघुन_V_VM गेला_V_VM</s>
+<s> दिपकने_N_NNP त्याची_PR_PRP कोठडी_N_NN बघुन_V_VM ठेवली_V_VM</s>
+<s> दिपकच्या_N_NNP कोठडीपासुन_N_NN डावीकडे_N_NN ३_QT_QTC कोठड्यासोडुन_N_NN त्याची_PR_PRP कोठडी_N_NN होती_V_VAUX</s>
+<s>दिपक_N_NNP पुन्हा_RB आपल्या_PR_PRP अंधारलेल्या_JJ जगात_JJ परतला_V_VMतसा_WP बाहेरचा_RB दरवाजा_N_NN बंद_N_NN झाला_V_VM</s>
+<s>ह्या_DM_DMD तासा-दोन_QT_QTC तासांच्या_N_NN ‘आऊटींगने’_WB दिपकला_N_NNP एक_QT_QTC उभारी_N_NN दिली_V_VM होती_V_VAUX</s>
+<s> तो_PR_PRP पहिल्यापेक्षा_RB बरंच_RB फ्रेश_RD_RDF फिल_RD_RDF करत_V_VM होता_V_VAUX</s>
+<s> आणि_CC_CCD निदान_RB म्हणण्यापुरता_V_VM का_PR_PRQ होईना_V_VM त्याचे_PR_PRP हित_N_NN चिंतणारा_JJ त्याला_PR_PRP कोणीतरी_WP भेटला_V_VM होता_V_VM</s>
+<s> त्या_DM_DMD एका_QT_QTC वाक्याने_N_NN दिपकच्या_N_NNP मनात_N_NN आत्मविश्वास_N_NN भरला_V_VMहोता_V_VM</s>
+<s>ह्या_DM_DMD वेळ_N_NNचे ते_PR_PRP तिन_QT_QTC दिवस_N_NN पट्कन_RB गेले_V_VM</s>
+<s> ह्या_DM_DMD वेळेस_N_NN फक्त_RB एकदाच_RB त्या_DM_DMD गुबगुबीत_JJ पोलिसांकडुन_N_NN लाथा-बुक्यांचा_N_NN प्रसाद_N_NN दिपकने_N_NNP झेलला_V_VM होता_V_VM</s>
+<s> बाहेर_N_NST आल्या_V_VM आल्या_V_VM दिपकची_N_NNP नजर_N_NN ‘त्या_DM_DMD’ कैद्याला_N_NNP शोधत_V_VM होती_V_VAUX</s>
+<s> काही_QT_QTF अंतरावर_N_NN तो_PR_PRP दिपककडेच_N_NNP बघत_V_VM उभा_V_VM होता_V_VAUX</s>
+<s> दिपक_N_NNP सहजच_RB फिरत_V_VM फिरत_V_VM त्याच्या_PR_PRP जवळ_N_N_ काही_QT_QTF अंतर_N_N_ ठेवुन_V_VM बसला_V_VM</s>
+<s>थोड्या_JJ वेळाने_N_NN तो_PR_PRP कैदीही_N_NN खाली_N_NST बसला_V_VM</s>
+<s> दिपक_N_NNP त्याच्याशी_PRP बोलायची_N_NN संधी_N_NN शोधत_N_NN होता_V_VM तेवढ्यात_RB त्याचे_PR_PRP लक्ष_N_NN त्या_DM_DMD कैद्याच्या_N_NN हाताकडे_N_NN गेले_V_VM</s>
+<s> सहज_N_NN हालचाल_N_NN करावी_V_VM तश्या_PRP अविर्भावात_N_NN तो_PR_PRP कैदी_N_NN जमीनीवरील_N_NN मातीत_N_NN काहीतरी_ लिहीत_V_ होता_V_VAUX</s>
+<s>"no_RD_RDF say_RD_RDF", फाटक्या_JJ तुटक्या_JJ इंग्लीशमध्ये_N_NN त्याने_PR_PRP वाळुत_N_NN लिहीले_V_VM होते_V_VAUX</s>
+<s>"k_RD_RDF", दिपकने_N_NNP कडेला_RB लिहीले_V_VM"when?_RD_RDF", पुन्हा_RB दिपकने_N_NNP लिहीले_V_VM"३_QT_QTC +_RD_RDF ३_QT_QTC", त्या_DM_DMD कैद्याने_N_NN लिहीले_V_VMआणि_CC लगेच_RB ते_PR_PRP पुसुन_V_VM तो_PR_PRP तेथुन_DM_DMD निघुन_V_VM गेला_V_VM</s>
+<s>प्रथम_RB त्याचा_PR_PRP अर्थ_N_NN दिपकला_N_NNP उमगलाच_V_VMनाही_V_VM</s>
+<s> दिपक_N_NNP बर्‍याच_JJ वेळ_N_NN त्याचा_PR_PRP विचार_N_NN करत_V_VM बसला_V_VMआणि_CC मग_CC_CCS त्याच्या_PR_PRP लक्षात_N_NN आले_V_VM की_CC_CCD पुढच्या_RB येईल_V_VM</s>
+<s>पण_CC_CCD तेंव्हा_PR_PRL काय_PR_PRQ?…. तेंव्हा_PR_PRL काय_PR_PRQ???????????????????</s>
+<s>दिपक_N_NNP आपल्या_PR_PRP कोठडीत_N_NN परतला_V_VMखरा_N_NN, पण_CC_CCD तो_PR_PRP विचार_N_NN त्याच्या_PR_PRP डोक्यातून_N_NN काही_QT_QTF केल्या_V_VM जात_V_VM नव्हता_V_VM</s>
+<s>काय_PR_PRQ आहे_V_VAUX ६_QT_QTC दिवसांनी_V_VM? कोण_PR_PRQ आहे_V_VAUX तो_PR_PRP कैदी_N_NN? तो_PR_PRP आपल्याला_PR_PRP का_PR_PRQ मदत_N_NN करत_V_VM आहे_V_VAUX? ह्यात_RB काही_QT_QTF काळ-बेर_N_NN तर_CC_CCS नसेल ना_RP_INJ? कश्यावरून_WP हा_DM पोलिसांचाच_N_NN एखादा_QT_QTC डाव_N_NN नसेल_V_VM? कश्यावरून_WP मला_PR_PRP इथून_RB पळून_V_VM जायला_V_VM भाग_N_NN पाडतील_V_VM आणि_CC_CCD मग_CC_CCS पळून_V_VM जात_V_VM होता_V_VM म्हणून_CC_CCD जाताना_V_VM गोळ्या_N_NN घालतील_V_VM? चार_QT_QTC दिवसांच्या_N_NN ओळखीवर_N_NN ह्या_DM_DMD कैद्यावर_N_NN भरवसा_N_NN ठेवावा_V_VM का_PR_PRQ?</s>
+<s>अनेक_QT_QTF प्रश्न_N_NN दिपकच्या_N_NNP डोक्यात_N_NN जमा_V_VM झाले_V_VM होते_V_VAUX</s>
+<s> पण_CC_CCD त्यामुळे_WP निदान_RB त्याला_PR_PRP काही_QT_QTF काळापुरता_RB का_PR_PRQ होईना_V_VM जुन्या_JJ दुःखद_JJ गोष्टींचा_N_NN विसर_N_NN पडला_V_VM होता_V_VAUX</s>
+<s> सुस्त_JJ झालेला_V_VM त्याचा_PR_PRP मेंदु_N_NN विचार_N_NN करु_V_VM लागला_V_VM होता_V_VM आणि_CC_CCD नकळतच_RB ‘ह्या_DM_DMD कैद्याच्या_N_NN साथीने_N_NN इथुन_DM_DMD पळुन_V_VM जाता_V_VM आले_V_VM तर_CC_CCS?</s>
+<s>’ असा_CC_CCS_UT विचार_N_NN डोक्यात_N_NN येऊ_V_VM लागला_V_VM होता_V_VM</s>
+<s>दिपक_N_NNP उठुन_V_VM खोलीत_N_NN येरझार्‍या_N_NN घालु_V_VM लागला_V_VM</s>
+<s> दिपक_N_NNP मधला_N_NST हरवत_RB चाललेला_JJ सैनिक_N_NN जागा_N_NN झाला_V_VM होता_V_VM</s>
+<s> पुर्वी_RB तासासारखे_N_NN वाटणारे_JJ मिनीट_N_NN अचानक_RB सेकंदाहुनही_N_NN कमी_QT_QTF वाटु_V_VM लागले_V_VM होते_V_VAUX</s>
+<s> वेळ_N_NN कसा_WP भराभर_RB निघुन_V_VM चालला_V_VM होता_V_VM</s>
+<s> ह्या_DM_DMD काळात_N_NN दिपक_N_NNP जेलच्या_N_NN अंतरंगाचा_N_NN विचार_N_NN करत_V_VM होता_V_VM परंतु_CC_CCD अधीक_JJ विचार_N_NN करता_V_VM त्याच्या_PR_PRP लक्षात_N_NN येउ_V_VM लागले_V_VM की_CC_CCD त्याने_PR_PRP फारसे_RB आजुबाजुला_N_NST पाहीलेच_V_VM नव्हते_V_VM</s>
+<s> जेल_N_NN किती_PR_PRQ मोठ्ठ_JJ आहे_V_VAUX, सेक्युरीटी_RD_RDF किती_PR_PRQ आहे_V_VAUX? लुप-होल्स_RD_RDF काय_PR_PRQ आहेत_V_VAUX</s>
+<s> काही_QT_QTF म्हणजे_WP काहीच_QT_QTF माहीती_N_NN नव्हते_V_VM</s>
+<s>दिपकला_N_NNP स्वतःचाच_PRP अतीशय_RP_INTF राग_N_NN आला_V_VM.</s>
+<s>पुढचे_N_NST दोन_QT_QTC दिवस_N_NN पट्कन_RB गेले_V_VM</s>
+<s> दिवस_N_NN रात्र_N_NN केवळ_RB एकच_JJ विचार_N_NN दिपकच्या_N_NNP डोक्यात_N_NN घोळत_V_VM होता_V_VM…</s>
+<s>तिन_QT_QTC दिवसांनी_N_NN दिपक_N_NNP बाहेर_N_NST आला_V_VM तेंव्हा_PR_PRL व्हरांड्याच्या_N_NN दुसर्‍या_QT_QTO कोपर्‍यात_N_NST कैद्यांची_N_NN रांग_N_NN लागलेली_V_VM होती_V_VAUX</s>
+<s> दिपकची_N_NNP नजर_N_NN ‘त्या_DM_DMD’ कैद्याला_N_NN शोधत_V_VM होती_V_VAUX</s>
+<s> त्याच्या_PR_PRP कोठडीबाहेरील_N_NN खांबाला_N_NN टेकुन_V_VM ‘तो_PR_PRP’ उभा_V_VM होता_V_VAUX</s>
+<s> दिपकला_N_NNP पहाताच_V_VM तो_PR_PRP दिपकच्या_N_NNP दिशेने_N_NN चालत_V_VM आला_V_VM</s>
+<s> दिपककडे_N_NNP बघुन_V_VM त्याने_PR_PRP एक_QT_QTC सुचक_JJ खुण_N_NN केली_V_VM आणि_CC_CCD तो_PR_PRP कैद्यांच्या_N_NN त्या_DM_DMD रांगेच्या_N_NN दिशेने_N_NN जाऊ_V_VM लागला_V_VM</s>
+<s>दिपकसुध्दा_N_NNP काहीही_WP न_RP_NEG बोलता_V_VM त्याच्या_PR_PRP मागोमाग_N_NST गेला_V_VM.</s>
+<s> रांगेच्या_N_NN शेवटी एक_QT_QTC पोलिस_N_NN टेबल_RD_RDF टाकुन_V_VM बसला_V_VM होता_V_VM</s>
+<s> प्रत्येक_QT_QTF कैदी_N_NN टेबलावरील_N_NN कागदावर_N_NN काहीतरी_RB खुण_N_NN करत_V_VM होता_V_VAUX</s>
+<s> रांग_N_NN हळु_RB हळु_RB पुढे_N_NST सरकत_N_NN होती_V_VAUX</s>
+<s>थोड्यावेळाने_RB त्या_DM_DMD कैद्याचा_N_NN नंबर_RD_RDF आला_V_VM</s>
+<s> त्याने_PR_PRP त्याच्या_PR_PRP नावापुढे_N_NN असलेल्या_V_VM अनेक_N_NN चौकोनांपैकी_N_NN एका_QT_QTC चौकोनात_N_NN खुण_N_NN केली_V_VM</s>
+<s> दिपक_N_NNP त्याच्या_PR_PRP खांद्यावरुन_N_NN तो_PR_PRP कुठे_PR_PRQ खुण_N_NN करतो_V_VM आहे_V_VAUX ते_PR_PRP पहात_V_VM होता_V_VAUX</s>
+<s> त्या_DM_DMD कैद्याने_N_NN खुण_N_NN करुन_V_VMझाल्यावर_V_VM एकवार_RB पुन्हा_RB दिपककडे_N_NNP काही_QT_QTF क्षण_N_NN पाहीले_V_VM आणि_CC_CCD तो_PR_PRP निघुन_V_VM गेला_V_VM</s>
+<s>दिपक_N_NNP त्या_DM_DMD कागदाकडे_N_NN बघत_V_VM होता_V_VAUX</s>
+<s> एका_QT_QTC बाजुला_N_NST कैद्यांचे_N_NN नाव-नंबर_N_NN होते_V_VAUX तर_CC_CCS दुसर्‍या_QT_QTO बाजुल_N_NST काही_QT_QTF कॉलम_RD_RDF होते_V_AUXआणि_CC त्याच्या_PR_PRP खाली_N_NST खुण_N_NN करण्यासाठी_V_VM चौकोन_N_NN बनवलेले_V_VM होते_V_VAUX</s>
+<s>तो_PR_PRP कागद_N_NN जेलमध्ये_N_NN करावयाच्या_V_VM कामांचा_N_NN चार्ट_N_NN होता_V_VAUX</s>
+<s> प्रत्येक_QT_QTF कैदी_N_NN आपल्या_PR_PRP आवडीप्रमाणे_N_NN काम_N_NN निवडत_V_VM होता_V_VAUX</s>
+<s> दिपकने_N_NNP त्या_DM_DMD कैद्याने_N_NN कुठे_PR_PRQ खुण_N_NN केली_V_VM आहे_V_VM ते_PR_PRP पाहीले_V_VM</s>
+<s> त्याने_PR_PRP ‘गटार_N_NN स्वच्छता_N_NN’ निवडली_V_VM होती_V_VAUX</s>
+<s> आपण_PR_PRF कुठे_PR_PRQ खुण_N_NN करावी_V_VM ह्याचा_PR_PRP विचार_N_NN तो_PR_PRP करु_V_VM लागला_V_VM</s>
+<s> ‘त्या_DM_DMD’ कैद्याने_N_NN सुचकपणे_RB दिपकला_N_NNP सुध्दा_RB तेथेच_RB खुण_N_NN करायला_V_VM सुचवले_V_VM होते_V_AUX, परंतु_CC गटार_N_NN स्वच्छता_N_NN दिपकला_N_NNP खचीतच_RB आवडणारे_V_VM नव्हते_V_VM</s>
+<s> तो_PR_PRP इतर_JJ कामं_N_NN कोणती_WP आहेत_V_VAUX ते_PR_PRP पाहु_V_VM लागला_V_VM</s>
+<s>दिपकने_N_NNP एकवार_RB मागे_N_NST वळुन_V_VM पाहीले_V_VM</s>
+<s> दुर_RB अंतरावरुन_N_NN ‘तो_PR_PRP’ कैदी_N_NN दिपककडे_N_NNP बघत_V_VM होता_V_VAUX</s>
+<s> दिपकने_N_NNP शेवटी_N_NN ‘गटार_N_NN स्वच्छता_N_NN’ समोर_N_NN खुण_N_NN केली_V_VM आणि_CC_CCD तो_PR_PRP रांगेतुन_N_NN बाहेर_N_NST पडला_V_VM</s>
+<s>काही_QT_QTF वेळातच_N_NN सर्वांना_PR_PRP आवश्यक_JJ असणारी_V_VM साधन-सामग्री_N_NN पुरवण्यात_V_VM आली_V_VM</s>
+<s> ‘गटार_N_NN स्वच्छता_N_NN’ विभागात_N_NN फक्त_RB दिपक_N_NNP आणि_CC_CCD तो_PR_PRP कैदी_N_NN दोघंच_PRP होते_V_VAUX</s>
+<s> बाकी_RB कोणीच_WP ते_PR_PRP काम_N_NN पत्करले_V_VM नव्हते_V_VMआणि_CC त्याचे_PR_PRP कारण_CC_CCS दिपकला_N_NNP लगेचच_RB समजले_V_VM</s>
+<s>दिपक_N_NNP आणि_CC_CCD त्या_DM_DMD कैद्याला_N_NN घेउन_V_VM दोन_QT_QTC पोलिस_N_NN जेलच्या_N_NN मागच्या_RB बाजुस_RB गेले_V_VM</s>
+<s> मागे_N_NST मोठ-मोठ्ठाल्ले_JJ पाईप्स_RD_RDF टाकले_V_VM होते_V_VAUX त्याच्या_PR_PRP आतुन_N_NST वाकत_RB थोडे_JJ अंतर_N_NN आत_N_NST गेल्यावर_V_VM घाणेरड्या_JJ वासाचा_N_NN भपकारा_N_NN आला_V_VM</s>
+<s> चौघांचेही_N_NN हात_N_NN नकळत_N_NN नाकावर_N_NN गेले_V_VM</s>
+<s>“थांबा.._V_VM” एक_QT_QTC पोलिस_N_NN मागुन_RB म्हणाला_V_VM..</s>
+<s>दिपक_N_NNP आणि_CC_CCD तो_PR_PRP कैदी_N_NN थांबुन_V_VM माघारी_RB वळले_V_VM</s>
+<s> ते_PR_PRP दोन्ही_PRP पोलिस_N_NN नाकावर_N_NN रुमाल_N_NN दाबुन_V_VM उभे_V_VM होते_V_VAUX</s>
+<s>“तुम्ही_PRP दोघं_PRP पुढे_N_NST जा_V_VM आणि_CC_CCD पटापट_RB कामं_N_NN उरका_V_VM</s>
+<s>त्या_DM_DMD कैद्याने_N_NN मानेनेच_N_NN होकारार्थी_JJ खुण_N_NN केली_V_VMआणि_CC काहीही_WP न_RP_NEG बोलता_V_VM तो_PR_PRP पुढे_N_NST निघुन_V_VM गेला_V_VM</s>
+<s> दिपक_N_NNP त्याच्या_PR_PRP मागोमाग_N_NST चालु_V_VM लागला_V_VM</s>
+<s> अजुन_RB पुढे_N_NST गेल्यावर_V_VM रस्ता_N_NN अरुंद_JJ होत_V_VMगेला_V_VM</s>
+<s> जमीन_N_NN ओलसर_JJ झाली_V_VMहोती_V_VAUX आणि_CC_CCD वातावरणातील_N_NN कुबट_JJ वास_N_NN अधीकच_RP_INTF वाढला_V_VM होता_V_VM</s>
+<s> त्या_DM_DMD कैद्याने_N_NN एक_QT_QTC कापड_N_NN खिश्यातुन_N_NN काढले_V_VM आणि_CC_CCD त्याचे_PR_PRP दोन_QT_QTC भाग_N_NN केले_V_VM</s>
+<s> एक_QT_QTC भाग_N_NN स्वतःच्या_PRP नाकाभोवती_N_NN गुंडाळला_V_VMआणि_CC दुसरा_QT_QTC दिपककडे_N_NNP दिला_V_VM</s>
+<s>एव्हाना_RB गटार_N_NN सुरु_N_NN झाले_V_VMहोते_V_AUX</s>
+<s> दोघांचेही_PRP पाय_N_NN गुडघ्याएवढ्या_JJ गटारात_N_NNP बुडले_V_VM होते_V_VAUX</s>
+<s> त्या_DM_DMD कैद्याने_N_NN हातानेच_N_NN दिपकला_N_NNP थांबायची_JJ खुण_N_NN केली_V_VM</s>
+<s> बर्‍याच_RB वेळ_N_NN तो_PR_PRP कानोसा_N_NN घेउन_V_VM त्या_DM_DMD पोलिसांची_N_NN काही_QT_QTF हालचाल_N_NN जाणवते_V_VM का_PR_PRQ ते_PR_PRP पहात_V_VM राहीला_V_VM</s>
+<s> थोड्यावेळाने_RB त्याच्या_PR_PRP चेहर्‍यावर_N_NN समाधान_N_NN पसरले_V_VM</s>
+<s>खांद्यावरचे_N_NN फावडे_N_NN काढुन_V_VM तो_PR_PRP गटारात_N_NNP साठलेला_JJ गाळ_N_NN बाजुला_N_NST काढु_V_VM लागला_V_VM</s>
+<s> दिपक_N_NNPनेही लगोलग_RB त्याचे_PR_PRP अनुकरण_N_NN चालु_V_VM केले_V_VM</s>
+<s> ‘त्या_DM_DMD’ कैद्याशी_N_NN बोलायची_V_VM दिपकची_N_NNP खुप_JJ इच्छा_N_NN होती_V_VAUX, पण_CC_CCD त्याला_PR_PRP खात्री_N_NN होती_V_VAUX की_CC_CCD योग्य_JJ वेळ_N_NN आली_V_VM की_CC_CCD तो_PR_PRP कैदी_N_NN स्वतःहुनच_PRP बोलले_V_VM</s>
+<s> शेवटी_RB त्याचीच_PRP इच्छा_N_NN होती_V_VAUX की_CC_CCD इथे_DM_DMD दिपकने_N_NNP त्याच्याबरोबर_RB यावे_V_VM</s>
+<s>थोडा_JJ वेळ_N_NN गेल्यावर_V_VM तो_PR_PRP कैदी_N_NN कुजबुजल्यासारखा_RB बोलला_V_VM, “मी_PR_PRP युसु्फ_N_NNP..”</s>
+<s>दिपकने_N_NNP त्याच्याकडे_RB पाहीले_V_VM, मात्र_CC_CCD तो_PR_PRP कुठेही_PR_PRQ न_RP_NEG बघता_V_VM आपलं_PRP काम_N_NN करण्यात_V_VM मग्न_JJ होता_V_VAUX</s>
+<s> आणि_CC_CCD तुझ्यावर_PRP झालेला_V_VMअन्याय_N_NN सुध्दा”, युसुफ_N_NNP</s>
+<s> ह्या_DM_DMD घाणीत_N_NN येण्याचे_V_VM कारण_CC_CCS?”“पोलिस_N_NN इथल्या_DM_DMD घाणीमुळे_N_NN जवळ_N_NN थांबत_V_VM नाहीत_V_VM</s>
+<s> शिवाय_CC_CCD हे_DM काम_N_NN सहसा_RB कोणी_DM_DMQ घेत_V_VM नाही_V_VM</s>
+<s>दिपकच्या_N_NNP चेहर्‍यावर_N_NN नकळत_JJ हास्य_N_NN पसरले.._V_VM“स्मार्ट.._RD_RDF”</s>
+<s>“ह्या_DM_DMD तुरुंगात_N_NNले माझे_PRP शेवटचे_JJ तिन_QT_QTC दिवस_N_NN..”, युसुफ_N_NNP</s>
+<s>युसुफच्या_N_NNP त्या_DM_DMD वाक्याने_N_NN दिपक_N_NNP दचकलाच_V_VM</s>
+<s> त्याने_PR_PRP चमकुन_RB युसुफ_N_NNP कडे_N_NN पाहीले_V_VM</s>
+<s> गेले_V_VMकाही_RB दिवस_N_NN त्याने_PR_PRP वेगळाच_JJ विचार_N_NN केला_V_VM होता_V_VM</s>
+<s> युसुफच्या_N_NNP रुपाने_N_NN त्याला_PR_PRP एक_QT_QTC साथीदार_N_NN मिळु_V_VM पहात_V_VM होता_V_VM आणि_CC_CCD म्हणुनच_CC_CCS_UT त्याला_PR_PRP थोडाफार_JJ आनंद_N_NN वाटत_V_VM होता_V_VAUX</s>
+<s> पण_CC_CCD युसुफच्या_N_NNP त्या_DM_DMD वाक्याने_N_NN त्याचे_PR_PRP सगळे_RB मनसुबे_N_NN गळुन_V_VM पडले_V_VM</s>
+<s> अभिनंदन_N_NN”, दिपक_N_NNP“माझा_PRP ह्या_DM_DMD तुरुंगातला_N_NN शेवटचा_JJ दिवस_N_NN</s>
+<s> माझी_PRP रवानगी_N_NN दुसर्‍या_QT_QTO तुरुंगात_N_NN होत_V_VM आहे_V_VM</s>
+<s>“पण_CC_CCD का_PR_PRQ?”“हे_DM लोकं_N_NN एकाच_QT_QTC तुरुंगात_N_NN सहा_N_NN महीन्यांपेक्षा_N_NN जास्त_RB ठेवत_V_VM नाहीत_V_VM</s>
+<s> खास_RB करुन_V_VMतुझ्या_PRP-माझ्या_PRPसारखे ‘गंभीर’_JJ गुन्ह्यात_N_NN अटक_N_NN झालेले_V_VM असतील_V_VM तर_CC_CCS</s>
+<s>“का_PR_PRQ?”, काहीच_QT_QTF न_RP_NEG समजल्याने_V_VM दिपक_N_NNP म्हणाला_V_VM</s>
+<s>“कदाचित_RB एकाच_RB जागेची_N_NN सवय_N_NN होऊ_V_VM नये_V_VM म्हणुन_CC_CCS_UT</s>
+<s> कदाचीत_RB पळुन_V_VM जाण्याचा_V_VM प्रयत्न_N_NN करु_V_VM नये_V_VM म्हणुन_CC_CCS_UT</s>
+<s> पण_CC_CCD ह्यावेळेस_RB मी_PR_PRP सावध_N_NN होतो_V_VM</s>
+<s> पहील्या_QT_QTC दिवसापासुनच_N_NN मी_PR_PRP तुरुंग_N_NN निरखुन_RB पहायला_V_VM सुरुवात_N_NN केली_V_VM</s>
+<s> प्रत्येक_QT_QTF गोष्ट_N_NN, प्रत्येक_QT_QTF जागा_N_NN माझ्या_PRP डोक्यात_N_NN फिक्स_RD_RDF आहे_V_VAUX</s>
+<s> ह्या_DM_DMD तुरुंगातील_N_NN प्रत्येक_QT_QTF विभागात_N_NN मी_PR_PRP काम_N_NN केले_V_VM आहे_V_VAUX</s>
+<s> किचेन_RD_RDF, प्लंबीग_RD_RDF, गटार_N_NN, बांधकाम_N_NN, साफ-सफाई_N_NN, वेल्डींग_RD_RDF सर्व_QT_QTF काही_QT_QTF</s>
+<s>“मला_PR_PRP चौथ्या_QT_QTC तुरुंगात_N_NN नाही_V_VM जायचे_V_VM आहे_V_VAUX दिपक_N_NNP</s>
+<s> मी_PR_PRP इथुन_DM_DMD पळुन_RB जायचा_V_VM विचार_N_NN करतोय_V_VM</s>
+<s> आणि_CC_CCD मला_PR_PRP तुझी_PRP मदत_N_NN हवी आहे_V_VAUX…”, युसुफने_N_NNP अचानक_RB बॉम्ब_RD_RDF टाकला_V_VM</s>
+<s>दिपकने_N_NNP मान_N_NN वर_N_NST करुन_V_VMपाहीले_V_VM. युसुफ_N_NNP त्याच्याकडेच_PRP बघत_V_VM होता_V_VAUX.</s>
+<s>“मला_PR_PRP नाही_V_VM पळुन_V_VM जायचे_V_VM आहे_V_VAUX</s>
+<s> मी_PR_PRP नाही_V_VM मदत_N_NN करु_V_VM शकत_V_VM तुझी_PR_PRP</s>
+<s>”, दिपकने_N_NNP सावधगीरीचे_JJ पावुल_N_NN टाकले_V_VM</s>
+<s> मला_PR_PRP चर्चा_N_NN करायला_V_VM वेळ_N_NN नाहीये_V_VM</s>
+<s> तुझा_PRP माझ्या_PRPवर विश्वास_N_NN नसेल_V_VM तर_CC_CCS तसे_PR_PRP सांग_V_VM</s>
+<s> तयार_N_NN असशील_V_VM तर_CC_CCS लवकर_RB सांग_V_VM म्हणजे_CC मला_PR_PRP प्लॅन_RD_RDF सांगायला_V_VM</s>
+<s>दिपकने_N_NNP साधारण_JJ अंदाज_N_NN केला_V_VMहोता_V_VMच</s>
+<s> परंतु_CC तरीही_CC त्याच्या_PR_PRP मनात_N_NN चलबिचल_V_VM सुरु_V_VM झाली_V_VM</s>
+<s> काय_PR_PRQ करावं?_V_VM विश्वास_N_NN ठेवावा_V_VM का_PR_PRQ ह्याच्यावर?_PR_PRP हा_DM कितपत_WP तयारीचा_N_NN आहे_V_VAUX? बाहेर_N_NST सुखरुप_JJ पडु_V_VM शकु_V_VM का_PR_PRQ? पकडलं_V_VM गेलो_V_VMतर_CC? आगीतुन_N_NN फुफाट्यात_N_NN पडल्यासारखं_V_VM होईल_V_VM</s>
+<s>“कसला_WP विचार_N_NN करतो_V_VM आहेस_V_VM दिपक_N_NNP? हे_DM बघ_V_VM रिस्क_RD_RDF आहेच_V_VAUX, पण_CC_CCD ती_PR_PRP घ्यायलाच_V_VM हवी_V_VM</s>
+<s> तुला_PR_PRP तुरुंगात_N_NN येउन_V_VM फार_RP_INTF तर_CC_CCS ३-४_QT_QTC महीने_N_NN झाले_V_VM असतील_V_VM</s>
+<s> मला_PR_PRP ५_QT_QTC वर्ष_N_NN झाली_V_VM आहेत_V_VM तर_CC_CCS असं_PR_PRP वाटतंय_V_VM ५०_QT_QTC वर्ष_N_NN उलटली_V_VM</s>
+<s> मला_PR_PRP नाही_V_VM वाटत_V_VM असल्याप्रकारे_RB कोणी_DM_DMQ १०_QT_QTC वर्षांपेक्षा_N_NN जास्ती_JJ कोणी_DM_DMQ जगु_V_VM शकेल_V_VM</s>
+<s> नंतर_RB कोणी_DM_DMQ भेटेल_V_VM की_CC_CCD नाही_V_VM</s>
+<s> उद्या_RB तु_PR_PRP सुध्दा_CC_CCD दुसर्‍या_QT_QTO तुरुंगात_N_NN जाशील_V_VM</s>
+<s> कदाचीत_RB तो_PR_PRP याहीपेक्षा_RB वाईट्ट_JJ असेल_V_VM</s>
+<s> दिपक_N_NNP स्वतःशीच_PR_PRF विचार_N_NN करत_V_VM होता_V_VAUX</s>
+<s> जेनीच्या_N_NNP जाण्यानंतर_V_VM तसेही_RB त्याच्या_PR_PRP आयुष्यात_N_NN काही_QT_QTF राहीले_V_VMनव्हते_V_VM</s>
+<s> सैन्यातील_N_NN नोकरी_N_NN गेलीच_V_VM होती_V_VAUX, आणि_CC_CCD असे_PRP इथुन_DM_DMD पळुन_V_VM गेल्यावर_V_VM बाहेर_N_NST नोकरी_N_NN मिळण्याची_V_VM शास्वतीही_N_NN जवळ_N_NN जवळ_N_NN नव्हतीच_V_VM</s>
+<s>इथे_DM_DMD तुरुंगात_N_NN राहुन_V_VM शिक्षा_N_NN पुर्ण_N_NN केल्यावर_V_VM कदाचीत_RB बाहेर_N_NST संधी_N_NN असु_V_VM शकत_V_VM होती_V_VAUX</s>
+<s> पण_CC_CCD कितपत?_WP तुरुंगातुन_N_NN बाहेर_N_NST पडलेल्या_JJ कैद्यावर_N_NN कोण_PR_PRQ आणि_CC_CCD किती_PR_PRQ विश्वास_N_NN ठेवणार_V_VM? तुरुंगातुन_N_NN बाहेर_N_NST पडल्यावर_V_VM निम्याहुन_RB जास्त_JJ आयुष्य_N_NN संपल्यातच_RB जमा_V_VM होते_V_VAUX… आणि_CC_CCD तो पर्यंत_RB तुरुंगात_N_NN काढलेले_V_VM हे_DM जिवघेणे_JJ हाल_N_NN????</s>
+<s>दिपकने_N_NNP स्वतःशीच_PR_PRF निश्चय_N_NN केला_V_VM आणि_CC_CCD तो_PR_PRP युसुफला_N_NNP म्हणाला_V_VM</s>
+<s> “मी_PR_PRP तयार_N_NN आहे_V_VAUX, काय_PR_PRQ प्लॅन_RD_RDF आहे_V_VAUX?”</s>
+<s>युसुफने_N_NNP एकवार_RB दिपकला_N_NNP निरखुन_RB पाहीले_V_VM आणि_CC_CCD मग_CC_CCS तो_PR_PRP हळु_JJ आवाजात_N_NN बोलु_V_VM लागला_V_VM.</s>
+<s>“आपण_PR_PRF जेथे_PR_PRL बंद_N_NN असतो_V_VM तो_PR_PRP तुरुंगाचा_N_NN मागचा_RB भाग_N_NN आहे_V_VAUX, इथुन_DM_DMD जी_PR_PRL लांब_JJ भिंत_N_NN दिसते_V_VM ती_PR_PRP नाही_V_VM म्हणलं_V_VM तरी_CC_CCD एक_QT_QTC किलोमीटर_N_NN अंतरावर_N_NN आहे_V_VAUX</s>
+<s> दिवसा_RB तर_CC_CCS इथुन_DM_DMD बाहेर_N_NST पडणं_V_VM केवळ_RB अशक्यच_JJ</s>
+<s> पण_CC_CCD रात्री_N_NN अगदी_RP_INTF धुसर_JJ संधी_N_NN आहे_V_VAUX</s>
+<s> हा_DM जो_PR_PRL जाड्या_JJ गिड्डा_JJ पोलिस_N_NN आहे_V_VAUX तो_PR_PRP इन्चार्ज_RD_RDF आहे_V_VAUX ह्या_DM_DMD तुरुंगाचा_N_NN</s>
+<s> दिवसा_N_NN आणि_CC_CCD रात्री_N_NN दोन्ही_JJ वेळच्या_N_NN सुरक्षेची_N_NN जबाबदारी_N_NN त्याचीच_PRP आहे_V_VAUX</s>
+<s>ह्या_DM_DMD ढोल्याला_JJ झोप_N_NN फार_RP_INTF प्रिय_JJ आहे_V_VAUX आणि_CC_CCD रात्र_N_NN झाली_V_VM की_CC_CCD हा_DM झोपुन_V_VM जातो_V_VM</s>
+<s> अर्थात_V_VM पोलिसांचा_V_VM इतरत्र_RB बंदोबस्त_N_NN असतोच_V_VM</s>
+<s> शिवाय_CC ह्याने_PRP काही_QT_QTF शिकारी_JJ कुत्री_N_NN पाळलेली_V_VM आहेत_V_VAUX</s>
+<s> ती_PR_PRP कुत्री_N_NN इतकी_RP_INTF भयंकर_JJ आहेत_V_VM की_CC_CCD अजुन_RB तो_PR_PRP सुध्दा_RB त्या_DM_DMD कुत्र्यांना_N_NN घाबरुन_V_VM असतो_V_VM</s>
+<s> दोन_QT_QTC फुट_RD_RDF लांब_JJ थांबुनच_V_VM रिमोटच्या_RD_RDF सहाय्याने_N_NN तो_PR_PRP कुत्र्यांच्या_N_NN पिंजर्‍याचे_N_NN दार_N_NN उघडतो_V_VM</s>
+<s>एकदा_RB का_PR_PRQ कुत्री_N_NN बाहेर_N_NST पडली_V_VMकी_CC मग_CC_CCS ड्युटीवर_RD_RDF असलेले_V_VM पोलिससुध्दा_N_NN इकडे_DM_DMD तिकडे_DM_DMD फिरत_V_VM नाहीत_VM</s>
+<s> भिंतीच्या_N_NN कोपर्‍यात_N_NST असलेल्या_V_VM उंच_JJ मनोर्‍यांवर_N_NN दोन_QT_QTC दिशांना_N_NN दोन_QT_QTC पोलिस_N_NN असतात_V_VM तेवढेच_RB</s>
+<s> सर्चलाईट_RD_RDF चालु_V_VM असतो_V_VM आणि_CC_CCD तुरुंगात_N_NN लावलेल्या_V_VM सि_RD_RDF</s>
+<s>व्ही_RD_RDF कॅमेर्‍यातुन_RD_RDF होणारे_JJ चित्रण_N_NN इमारतीच्या_N_NN पुढच्या_RB बाजुला_N_NST असलेल्या_JJ एका_QT_QTC खोलीतुन_N_NN नियंत्रण_N_NN केले_V_VMजाते_V_VM</s>
+<s>ह्या_DM_DMD कुत्र्यांना_N_NN चकवुन_RB जाणे_V_VM केवळ_RB अशक्य_JJ आहे_V_VAUX</s>
+<s> असं_WP ऐकुन_V_VM आहे_V_VAUX की_CC_CCD एक_QT_QTC-दोनदा_QT_QTC काही_QT_QTF कैद्यांनी_N_NN तसा_WP प्रयत्न_N_NNही केला_V_VMहोता_V_VM</s>
+<s> पण_CC_CCD त्या_DM_DMD कुत्र्यांच्या_N_NN तावडीत_N_NN सापडल्यावर_V_VM गस्तीवर_V_VM असलेल्या_JJ पोलिसांनीसुध्दा_N_NN मध्ये_N_NST पडुन_V_VM त्या_DM_DMD कुत्र्यांना_N_NN बाजुला_N_NST करण्याची_V_VM हिंमत_V_VM केली_V_VM नाही_V_VM</s>
+<s>त्या_DM_DMD कुत्र्यांनी_N_NN जागेवरच_N_NN म्हणे_V_VM त्या_DM_DMD कैद्यांना_N_NN फाडला_V_VM</s>
+<s> समजा_V_VM त्या_DM_DMD कुत्र्यांना_N_NN चकवुन_RB बाहेर_N_NST पडलो_V_VM तरी_CC सि_RD_RDF</s>
+<s> अनधिकृतपणे_JJ येथील_RB पोलिसांना_N_NN ‘शुट_RD_RDF अ‍ॅट_RD_RDF साईटच्या_RD_RDF’ ऑर्डर्स_RD_RDF आहेत_V_VM</s>
+<s> रात्री_N_NN कोणी_DM_DMQ पळुन_V_VM जायचा_V_VM प्रयत्न_N_NN केलाच_V_VM आणि_CC_CCD सर्चलाईटमध्ये_RD_RDF तो_PR_PRP दिसला_V_VMतर_CC मनोर्‍यावरील_N_NN पोलिसांच्या_N_NN गोळी_N_NNच्या टप्यात_N_NN नक्कीच_RB येईल_V_VM</s>
+<s>समजा_V_VM सर्चलाईटमधुन_RD_RDF कसेबसे_RB सुटलोच_V_VM तरी_CC ह्या_DM_DMD उंच_JJ भिंतीपार_N_NN करणे_V_VM अशक्य_JJ आहे_V_VAUX</s>
+<s> भिंत_N_NN कमी_RBतकमी_RB २५_QT_QTC फुटी_JJ तरी_CC_CCD असेल_V_VM त्यावरुन_RB चढुन_V_VM, मनोर्‍य़ावरील_N_NN पोलिसांच्या_N_NN नजरेतुन_N_NN सुटलोच_V_VM तर_CC_CCS पुढे_N_NST नदी_N_NN आहे_V_VAUX</s>
+<s>आणि_CC_CCD एक_QT_QTC छोटे_JJ जंगल_N_NN आहे_V_VAUX</s>
+<s> एकदा_RB का_PR_PRQ त्या_DM_DMD जंगला_N_NN घुसलो_V_VMकी_CC काही_QT_QTF दिवस_N_NN लपुन_V_VM रहाण्यास_V_VM वाव_N_NN आहे_V_VAUX</s>
+<s> तेथे_DM_DMD शोध_N_NN घेणं_V_VM पोलिसांच्या_N_NN दृष्टीने_N_NN कठीण_JJ काम_N_NN आहे_V_VAUX</s>
+<s> काही_QT_QTF दिवस_N_NN जंगलात_N_NN लपुन_V_VM राहुन_V_VM मग_CC_CCS बाहेर_N_NST पडलो_V_VMकी_CC हायवे_N_NN लागतो_V_VM</s>
+<s> तेथुनच_RB कायमचे_RB बाहेर_N_NST पडु_V_VM शकतो_V_VM</s>
+<s> पण_CC_CCD त्यापुर्वी_RB हे_DM मधले_JJ अडथळे_N_NN पार_V_VM करण्याचे_V_VM दिव्य_JJ कर्म_N_NN आहे_V_VAUX मित्रा…_N_NN</s>
+<s>युसुफ_N_NNP बोलताना_V_VM दिपकचा_N_NNP चेहरा_N_NN न्ह्याहाळत_V_VMहोता_V_VM</s>
+<s> पण_CC_CCD दिपकच्या_N_NNP चेहर्‍यावरील_N_NN भाव_N_NN यत्किंचीतही_RB बदलले_V_VMनाहीत_V_VM</s>
+<s> तो_PR_PRP शांतपणे,_N_NN लक्षपुर्वक_N_NN युसुफ_N_NNPचे बोलणे_V_VM ऐकत_V_VMहोता_V_VM</s>
+<s> इतके_WP सगळे_PR_PRP अडथळे_N_NN ऐकुन_V_VM विचार_N_NN बदलला_V_VM तर_CC_CCS नाही_V_VM?”, युसुफने_N_NNP विचारले_V_VM</s>
+<s>”, थोडावेळ_N_NN विचार_N_NN करुन_V_VMदिपक_N_NNP म्हणाला_V_VM, “ज्या_WP अर्थी_N_NN तुला_PR_PRP एव्हढी_WP सगळी_JJ माहीती_N_NN आहे_V_VAUX आणि_CC_CCD तरीही_RP_RPD तु_PR_PRP पळुन_V_VM जायचा_V_VM विचार_N_NN करत_V_VM आहेस_V_VM, त्या_DM_DMD अर्थी_JJ ह्या_DM_DMD सगळ्या_PRP गोष्टींचा_N_NN विचार_N_NN तु_PR_PRP केलेला_V_VM आहेस_V_VM आणि_CC_CCD त्यातुनच_CC तुला_PR_PRP सुटकेचा_N_NN मार्ग_N_NN दिसला_V_VMआहे_V_VM… नाही_V_VM का_PR_PRQ?”</s>
+<s>तो_PR_PRP पुढे_N_NST म्हणाला_V_VM, “ह्या_DM_DMD प्लॅनमध्ये_RD_RDF माझ्या_PRP आणि_CC_CCD तुझ्याशिवाय_PRP अजुन_RB एक_QT_QTC व्यक्ती_N_NN सहभागी_JJ आहे_V_VAUX</s>
+<s>दिपकचा_N_NNP सिक्स्थ_RD_RDF सेन्स_RD_RDF अचानक_RB जागा_N_NN झाला_V_VM. “तिघं_QT_QTC जणं_PRP? कोण_PR_PRQ आहे_V_VAUX तिसरा_QT_QTC?”</s>
+<s> यु_RD_RDF मीन_RD_RDF तो_PR_PRP माफीया_RD_RDF डॉन_RD_RDF शेख जिंदालचा_N_NNP छोटा_JJ भाऊ_N_NN?”“हम्म_RP_INJ तोच…_PRP”, युसुफ_N_NNP</s>
+<s> “त्याला_PR_PRP इथुन_DM_DMD पळुन_V_VM जायला_V_VM मी_PR_PRP मदत_N_NN करणार_V_VM नाही_V_VM</s>
+<s> तो_PR_PRP देशाचा_N_NN दुश्मन_N_NN आहे_V_VAUX, आणि_CC_CCD आपल्या_PR_PRP ह्या_DM_DMD प्लॅन_RD_RDFमुळे तो_PR_PRP इथुन_DM_DMD पळुन_V_VM जाऊ_V_VM शकला_V_VM तर_CC_CCS ती_PR_PRP माझ्या_PRP दृष्टीने_N_NN देशाशी_N_NN केलेली_V_VM गद्दारी_N_NN होईल_V_VM</s>
+<s>“कोणत्या_WP जमान्यात_N_NN रहातो_V_VM आहेस_V_VM तु_PR_PRP दिपक_N_NNP? अरे_RP_INJ देशाशी_N_NN गद्दारी_N_NN वगैरे_PRP असे_WP काही_QT_QTF नसते_V_VM</s>
+<s> आजकाल_N_NN जो_PR_PRL तो_PR_PRP स्वतःचा_PR_PRF स्वार्थ_N_NN बघतो_V_VM</s>
+<s> आपले_PR_PRPS नेते_N_NN मंडळी_N_NN काय_PR_PRQ करतात_V_VM? आणि_CC_CCD कोणत्या_WP देशाची_N_NN गोष्ट_N_NN करतोस_V_VM तु_PR_PRP? तुला_PR_PRP वाचवायला_V_VM आले_V_VMका_WP कोणी_DM_DMQ तुझ्या_PRP बाजुने_RB</s>
+<s> पडलासच_V_VM ना_RP_INJ इथे_DM_DMD येऊन_V_VM सामान्य_N_NN कैद्यांसारखा?_N_NN”, युसुफ_N_NNP</s>
+<s>“अरे_RP_INJ पण_CC_CCD…”, दिपक_N_NNP“हे_DM बघ_V_VM दिपक_N_NNP</s>
+<s> आत्ता_RB ह्या_DM_DMD क्षणाला_N_NN इथुन_DM_DMD बाहेर_N_NST जाणं_V_VM माझ्या_PRP दृष्टीने_N_NN अत्यंत_RP_INTF महत्वाच_JJ आहे_V_VAUX आणि_CC_CCD त्या_DM_DMD कामात_N_NN मला_PR_PRP कोणाची_WP मदत_N_NN होते_V_AUXय हे_DM माझ्या_PRP दृष्टीने_N_NN क्षुल्लक_JJ आहे_V_VAUX</s>
+<s>दिपक_N_NNP काहीही_WP न्_RP_NEG बोलता_V_VM गप्प_JJ राहीला_V_VM.</s>
+<s>“आज_RB आपण_PR_PRF कोठडीत_N_NN गेलो_V_VM की_CC_CCD पुन्हा_RB तिन_QT_QTC दिवसांशिवाय_N_NN बाहेर_N_NST येण्याची_V_VM शक्यता_N_NN नाहीच_V_VM</s>
+<s> आणि_CC_CCD तिन_QT_QTC दिवसांनं_N_NN तर_CC_CCS मला_PR_PRP इथुन_DM_DMD दुसर्‍या_QT_QTC तुरुंगात_N_NN न्हेतील_V_VM</s>
+<s> ते_PR_PRP कधी_RB न्हेतील…_V_VM सांगता_V_VM येत_V_VM नाही_V_VM</s>
+<s> त्यामुळे_CC जे_DM_DMR काही_QT_QTF करायचे_V_VM ते_PR_PRP आज_RB रात्रीच_N_NN</s>
+<s> “आता_RB माझा_PRP प्लॅन_RD_RDF निट_RB ऐक_V_VM</s>
+<s> युसुफने_N_NNP आपला_PR_PRP प्लॅन_RD_RDF सांगायला_V_VM सुरुवात_N_NN केली_V_VM</s>
+<s> काय_PR_PRQ होता_V_VAUX युसुफचा_N_NNP प्लॅन_RD_RDF, कोण_PR_PRQ होता_V_VM हा_PR_PRP अचानक_JJ उगवलेला_JJ तिसरा_QT_QTC कैदी_N_NN</s>
+<s> दिपकचा_N_NNP ह्या_DM_DMD प्लॅनमध्ये_RD_RDF काय_PR_PRQ सहभाग_N_NN होता_V_VAUX? दिपक_N_NNP तुरुंगातुन_N_NN सुटुन_V_VM जाऊ_V_VM शकेल_V_VM का_PR_PRQ?</s>
+<s>काय_PR_PRQ होईल_V_VM पुढे_N_NST? वाचत_V_VM रहा_V_B पाठलाग_N_NN भाग_N_NN-५ लवकरच…RB.</s>
+<s>“ठिक_JJ आहे_V_VAUX तर_CC_CCS, मी_PR_PRP सांगतो_V_VM तसं_WP कर_V_VM</s>
+<s> थोड्यावेळाने_RB मला_PR_PRP मारायला_V_VM सुरुवात_N_NN कर_V_VM</s>
+<s> इतकं_JJ मार_N_NN की_CC_CCD रक्त_N_NN निघालं_V_VM पाहीजे_V_VM</s>
+<s> अर्थात_N_NN तुलाही_PR_PRP थोडा_JJ मार_N_NN खावा_V_VM लागेलच_V_VM, पण_CC_CCD</s>
+<s>“अरे_RP_INJ पण_CC_CCD का_PR_PRQ? कश्यासाठी_WP”, दिपक_N_NNP मध्येच_RB म्हणाला_V_VM</s>
+<s> ते_PR_PRP एवढ्यासाठी_N_NN की_CC_CCD एकदा_RB का_PR_PRQ आपण_PR_PRF कोठडीत_N_NN गेलो_V_VM की_CC_CCD परत_RB बाहेर_N_NST येणं_V_VM शक्य_N_NN होणार_V_VM नाही_V_VM</s>
+<s>त्यामुळे_CC आपल्यापैकी_PRP कुणालातरी_PRP कोठडीच्या_N_NN बाहेर_N_NST रहाणे_V_VM आवश्यक_JJ आहे_V_VAUX</s>
+<s> तुरुंगाची_N_NN मला_PR_PRP जास्ती_JJ माहीती_N_NN आहे_V_VAUX त्यामुळे_CC मी_PR_PRP बाहेर_N_NST राहीलो_V_VM तर_CC_CCS तुमची_PR_PRP सुटका_N_NN करु_V_VM शकेन_V_VM</s>
+<s>आपल्या_PR_PRP मारामारीत_N_NN मी_PR_PRP जखमी_N_NN झाल्यावर_V_VM मला_PR_PRP येथीलच_V_VM एका_QT_QTC छोट्या_JJ दवाखान्यात_N_NN भरती_N_NN करतील_V_VM मलम-पट्टीसाठी_N_NN</s>
+<s> तेथुन_DM_DMD बाहेर_N_NST पडणे_V_VM ह्या_DM_DMD कोठडीपेक्षा_N_NN नक्कीच_RB सोपे_JJ आहे_V_VAUX</s>
+<s>तेथुन_DM_DMD बाहेर_N_NST पडलो_V_VM की_CC_CCD इथल्या_DM_DMD चाव्या_N_NN मी_PR_PRP मिळवेन_V_VM</s>
+<s> त्या_DM_DMD चाव्या_N_NN घेउन_V_VM मी_PR_PRP तुमची_PR_PRP सुटका_N_NN करु_V_VM शकेन_V_VM</s>
+<s>कोठडीतुन_N_NN बाहेर_N_NST पडलो_V_VM की_CC_CCD आपण_PR_PRF भटारखान्यात_N_NN पोहोचायचे_V_VM</s>
+<s> तेथुन_DM_DMD खाण्याचे_N_NN जेवढे_WP बरोबर_IN घेता_V_VM येईल_V_VM तेवढे_WP घ्यायचे_V_VM</s>
+<s> कारण_CC_CCS इथुन_DM_DMD बाहेर_N_NST पडल्यावर_V_VM मोठ्ठे_JJ जंगल_N_NN आहे_V_VAUX जेथे_PR_PRL आपल्याला_PR_PRP कित्तेक_RB दिवस_N_NN लपुन_V_VM रहावे_V_VM लागेल_V_VM</s>
+<s> शिवाय_CC आपल्याला_PR_PRP त्या_DM_DMD कुत्र्यांचा_N_NN बंदोबस्त_N_NN करायचा_V_VM आहेच_V_VAUX</s>
+<s>“तो_PR_PRP कसा_WP काय_PR_PRQ करणार_V_VM?”, दिपकने_N_NNP विचारले_V_VM.</s>
+<s>“गेल्या_RB काही_QT_QTF आठवड्यात_N_NN मी_PR_PRP जेलमध्ये_N_NN ठेवलेल्या_JJ रॅट-किलच्या_RD_RDF गोळ्या_N_NN जमा_V_VM करुन_V_VM ठेवलेल्या_V_VM आहेत_V_VAUX</s>
+<s> भटारखान्यातुन_N_NN आपण_PR_PRF जे_DM_DMR अन्न_N_NN घेउ_V_VM त्यामध्ये_WP रॅट-किलच्या_RD_RDF गोळ्या_N_NN आणि_CC_CCD फिनाईल_RD_RDF मिसळुन_V_VM त्या_DM_DMD कुत्र्यांना_N_NN खायला_V_VM फेकायचे</s>
+<s> ती_PR_PRP कुत्री_N_NN अलर्ट_RD_RDF आणि_CC_CCD आक्रमक_JJ रहावीत_V_VM म्हणुन_CC_CCS_UT त्यांना_PR_PRP २-२_QT_QTC दिवस_N_NN खायला_V_VM घालत_V_VM नाहीत_V_VM</s>
+<s> आपण_PR_PRF त्यांना_PRP खायला_V_VM फेकले_V_VMकी_CC क्षणाचाही_N_NN विलंब_N_NN न_RP_NEG करता_V_VM ते_PR_PRP खाऊन_V_VM टाकतील_V_VM आणि_CC_CCD १५-२०_QT_QTC मिनीटांत_N_NN ते_PR_PRP आपल्या_PR_PRP मार्गातुन_N_NN बाजुला_N_NST होतील_V_VAUX</s>
+<s>एकदा_RB कुत्री_N_NN बाजुला_N_NST झाली_V_VMकी_CC मग_CC_CCS तुझं_PR_PRP काम_N_NN सुरु_N_NN होतं_V_VAUX</s>
+<s> तेथुन_DM_DMD आपल्याला_PR_PRP लपत_RB छपत_RB, स्पॉटलाईट_RD_RDF चुकवत_V_VM जायचे_V_VM आहे_V_VAUX</s>
+<s> मला_PR_PRP माहीती_N_NN आहे_V_VAUX तुमच्या_PR_PRP आर्मी_RD_RDF ट्रेनींगमध्ये_RD_RDF अश्या_CC_CCS_UT गोष्टी_N_NN प्राधान्याने_RB शिकवल्या_V_VM जातात_V_VM</s>
+<s>दिपकने_N_NNP काही_QT_QTF न_RP_NEG बोलता_V_VM होकारार्थी_RB मान_N_NN डोलावली._V_VM</s>
+<s>फक्त_RB  ह्यात_PRP थोडं_JJ कष्टाचं_N_NN काम_N_NN आहे_V_VAUX</s>
+<s> आपल्याला_PR_PRP जाताना_V_VM ३_QT_QTC गॅस_RD_RDF सिलेंडर्स_RD_RDF घेऊन_V_VM जायचे_V_VM आहेत_V_VAUX</s>
+<s>“गॅस_RD_RDF सिलेंडर्स_RD_RDF? कश्यासाठी?”, दिपकने_N_NNP आश्चर्याने_RB विचारले_N_NN</s>
+<s>“एकदा_RB का_PR_PRQ आपण_PR_PRF भिंतीपाशी_N_NN पोहोचलो_V_VM की_CC_CCD पुढे_N_NST आपला_PR_PRP रस्ताच_N_NN खुंटतो_V_VM</s>
+<s> सपाट_JJ भिंत_N_NN असल्याने_V_VM भिंतीवर_N_NN चढणे_V_VM शक्य_N_NN नाही_V_VM</s>
+<s> आपल्याला_PR_PRP भिंतीमध्ये_N_NN खिंडारच_N_NN पाडावं_V_VM लागेल_V_VM</s>
+<s> आपण_PR_PRF गॅस_RD_RDF सिलेंडर्स_RD_RDF_RD_RDF भिंतीपाशी_N_NN स्फोट_N_NN केला_V_VMकी_CC भिंतीला_N_NN भगदाड_N_NN पडेल_V_VM त्यातुनच_PRP सुटकेचा_N_NN मार्ग_N_NN आहे_V_VAUX</s>
+<s> त्याचा_PR_PRP आवाज_N_NN होणार_V_VM नाही_V_VM का_PR_PRQ?”, दिपक_N_NNP“होईल, पण_CC_CCD काय_PR_PRQ झालं_V_VM आहे_V_VAUX हे_DM समजेपर्यंत_RB आपण_PR_PRF बाहेरच्या_N_NST जंगलात_N_NN शिरलो_V_VM असु</s>
+<s> ते_PR_PRP जंगल_N_NN इतके_RB दाट_JJ आहे_V_VAUX की_CC_CCD आपल्याला_PR_PRP न_RP_NEG पकडले_V_VMजाण्याचे_V_VM चान्सेस_RD_RDF ७०‍%_QT_QTC तरी_CC_CCD नक्कीच_N_NN आहेत_V_VAUX</s>
+<s> आधीच_RB तो_PR_PRP स्पॉटलाईट_RD_RDF चुकवत_V_VM भिंतीपर्यंत_N_NN जाणं_V_VM अवघड_JJ आहे_V_VAUX, आणि_CC_CCD त्यात_PR_PRP ते_PR_PRP अवजड_JJ सिलेंडर्स_RD_RDF घेउन_V_VM जायचे_V_VM म्हणजे_CC_CCS_UT”, दिपक_N_NNP</s>
+<s> आवाज_N_NN होऊ न_RP_NEG देता_V_VM आपल्याला_PR_PRP हे_DM काम_N_NN करायचं_V_VM आहे_V_VAUX</s>
+<s> इथं_DM_DMD सडत_RB मरण्यापेक्षा_V_VM पोलिसाच्या_N_NN गोळीने_N_NN मरणं_V_VM मंजुर_N_NN आहे_V_VAUX मला_PR_PRP…”, युसुफ_N_NNP</s>
+<s>बाहेरचा_RB उजेड_N_NN कमी_QT_QTF कमी_QT_QTF होत_V_VM चालला_V_VMहोता_V_VM..</s>
+<s> थोड्याच_RB वेळात_N_NN आपल्याला_PR_PRP परत_RB आपल्या_PR_PRP कोठडीकडे_N_NN न्हेतील_V_VM</s>
+<s> आणि_CC_CCD एकदा_RB का_PR_PRQ आपण_PR_PRF आत_N_NST गेलो_V_VMकी_CC मग_CC_CCS मात्र…_CC_CCD</s>
+<s> बोल_V_VM काय_PR_PRQ करु_V_VM?”, दिपक_N_NNP“काय_PR_PRQ करु_V_VM? चल_V_VM बघु_V_VM आज_RB तु_PR_PRP किती_RB मार_N_NN खातोस_V_VM माझ्या_PRP हाताचा_N_NN आणि_CC_CCD तु_PR_PRP मला_PR_PRP किती_RB तुडवतोस_V_VM</s>
+<s>”, असं_PR_PRP म्हणुन_CC_CCS_UT युसुफने_N_NNP हातातील_N_NN फावड्याच्या_N_NN मागील_JJ दांडका_N_NN दिपकच्या_N_NNP जबड्यावर_N_NN हाणला_V_VM</s>
+<s>दिपकच्या_N_NNP जबड्यावर_N_NN तो_PR_PRP दंडुका_N_NN असा_CC_CCS_UT काही_QT_QTF बसला_V_VMकी_CC त्याच्या_PR_PRP तोंडातुन_N_NN एक_QT_QTC रक्ताची_N_NN धार_N_NN बाहेर_N_NST आली_V_VM</s>
+<s>दिपक_N_NNP उठुन_V_VM बसेपर्यंत_V_VM युसुफ_N_NNP पुन्हा_RB त्याच्यावर_PR_PRP धावुन_V_VM आला_V_VM</s>
+<s> गटाराच्या_N_NN त्या_DM_DMD गाळातुन_N_NN उठुन_V_VM उभा_V_VM राहीपर्यंत_RB युसुफने_N_NNP रबरी_JJ बुटांची_N_NN एक_QT_QTC जोरदार_N_NN लाथ_N_NN दिपकच्या_N_NNP तोंडावर_N_NN मारली_V_VM</s>
+<s> दिपकने_N_NNP चुकवायचा_V_VM प्रयत्न_N_NN केला_V_VMपरंतु_CC बुटांचा_N_NN निसटता_V_VM फटका_N_NN दिपकच्या_N_NNP भुवईवर_N_NN बसला_V_VMआणि_CC तेथे_DM_DMD जोरात_RB खरचटले_V_VM गेले_V_VM</s>
+<s>दिपक_N_NNP एव्हाना_RB सावध_N_NN झाला_V_VM होता_V_VM</s>
+<s> खाली_N_NST वाकल्या_V_VMवाकल्या_V_VMत्याने_PRP त्याच्यावर_PR_PRP धावुन_RB आलेल्या_V_VM युसुफच्या_N_NNP हनुवटीवर_N_NN स्वतःचा_PR_PRF गुडघा_N_NN जोरदार_N_NN मारला_V_VM</s>
+<s> सैनिकी_JJ तालीमीत_N_NN तयार_N_NN झालेल्या_JJ दिपकचा_N_NNP प्रवाह_N_NN इतका_RP_INTF जोरदार_N_NN होता_V_VM की_CC_CCD युसुफ_N_NNPची हनुवटी_N_NN कट्कन_RB तुटल्याचा_V_VM आवाज_N_NN आला_V_VMआणि_CC रक्ताची_N_NN एक_QT_QTC चिळकांडी_N_NN बाहेर_N_NST उडली_V_VM</s>
+<s>एव्हाना_RB युसुफने_N_NNP स्वतःचा_PR_PRF जोर_N_NN कमी_QT_QTF केला_V_VM होता_V_VM</s>
+<s> दिपकला_N_NNP जेवढे_WP लागलेले_V_VM दिसणे_V_VM आवश्यक_JJ होते_V_VAUX तितके_PR_PRP झाले_V_VMहोते_V_AUX</s>
+<s> उगाच_RB त्या_DM_DMD नादात_N_NN दिपकला_N_NNP काही_QT_QTF गंभीर_JJ इजा_N_NN होणे_V_VM त्यांच्या_PR_PRP दृष्टीने_N_NN सोयीचे_N_NN नव्हते_V_VM</s>
+<s> दिपक_N_NNPही घाव_N_NN वर्मी_N_NN बसणार_V_VM नाही_V_VM ह्याची_PR_PRP काळजी_N_NN घेत_V_VM</s>
+<s> पण_CC_CCD त्याचबरोबर_RB जखम_N_NN दिसेल_V_VM अश्या_CC_CCS_UT हिशोबाने_N_NN युसुफला_N_NNP मारत_V_VM होता_V_VAUX</s>
+<s>दोघांच्या_PRP हाणामारीचा_N_NN आवाज_N_NN ऐकुन_V_VM बाहेरचे_N_NST ते_PR_PRP दोन_QT_QTC हवालदार_N_NN धावत_V_VM आत_N_NST आले_V_VM</s>
+<s> चरफडतच_RB ते_PR_PRP गटारात_N_NNP शिरले_V_VMआणि_CC दोघांना_PR_PRP धरुन_V_VM फरफटत_RB बाहेर_N_NST काढले_V_VM</s>
+<s> “काय_PR_PRQ झालं_V_VMशिंदे_N_NNP? काय_PR_PRQ प्रकार_N_NN आहे_V_VAUX हा_DM?”, तो_PR_PRP जाड्या_JJ पोलिस-इन-चार्ज_RD_RDF हवालदार_N_NNला_N_NN युसुफ_N_NNP आणि_CC_CCD दिपककडे_N_NNP पहात_V_VM विचार_N_NNत होता_V_VAUX</s>
+<s> ह्या_DM_DMD दोघांना_PR_PRP काय_PR_PRQ झालं_V_VM अचानक_RB</s>
+<s>”, युसुफकडे_N_NNP बोट_N_NN दाखवत_V_VM तो_PR_PRP म्हणाला_V_VM</s>
+<s>”बरं_RB झालं_V_VMदोघांनीच_PRP एकमेकांना_PR_PRC बडवले_V_VM, माझे_PR_PRP काम_N_NN कमी_QT_QTF झाले_V_VM</s>
+<s>सगळे_PR_PRP पोलिस_N_NN एकमेकांना_PR_PRC टाळ्या_N_NN देत_V_VM हसु_V_VM लागले_V_VM.</s>
+<s>” असेच_RB जणु_N_NN काही_QT_QTF त्याला_PR_PRP म्हणायचे_V_VM होते_V_AUX</s>
+<s> दिपक_N_NNP पुन्हा_RB कोठडीत_N_NN येउन_V_VM पडला_V_VM. त्याचं_PRP सर्वांग_N_NN ठणकत_V_VM होते_V_AUX.</s>
+<s>त्याच्या_PR_PRP जबड्यातुन_N_NN अजुनही_RB रक्त_N_NN ठिपकत_V_VM होतं_V_VM</s>
+<s> शर्टाच्या_N_NN बाहीने_N_NN त्याने_PR_PRP तोंड_N_NN पुसले_V_VM आणि_CC_CCD तो_PR_PRP भिंतीला_N_NN टेकुन_RB पडुन_V_VM राहीला_V_VM</s>
+<s> आधीच_RB त्या_DM_DMD गटारात_N_NNP केलेले_V_VMशारीरीक_JJ कष्ट_N_NN आणि_CC_CCD त्यानंतरची_RB ही_PR_PRP हाणामारी_N_NN ह्यामुळे_PR_PRP त्याला_PR_PRP थकवा_N_NN आला_V_VM होता_V_VM</s>
+<s>“प्लॅन_RD_RDFला सुरुवात_N_NN तर_CC_CCS झाली_V_VM होती_V_VAUX, पण_CC_CCD पुढे_N_NST सगळं_QT_QTF ठरल्याप्रमाणे_N_NN होईल_V_VM ना_RP_INJ??”, दिपकच्या_N_NNP मनात_N_NN विचार_N_NN चालु_V_VM होते_V_VAUX</s>
+<s>”युसुफ_N_NNP दवाखान्यातुन_N_NN बाहेर_N_NST पडुच_V_VM शकला_V_VM नाही_V_VM तर_CC_CCS?</s>
+<s> असं_WP कसं_CC_CCS_UT होईल_V_VM, त्याला_PR_PRP खात्री_N_NN असल्याशिवाय_RB त्याने_PR_PRP पुढचा_N_NST प्लॅन_RD_RDF आखलाच_V_VM नसता_V_VM</s>
+<s> पण_CC_CCD कश्यावरुन_RB तो_PR_PRP दिपकला_N_NNP सोडवायला_V_VM येइल_V_VM? कश्यावरुन_WP त्याने_PR_PRP दिपकचा_N_NNP दवाखान्यात_N_NN भरती_N_NN होण्यापुरत्या_V_VM कामासाठी_N_NN उपयोग_N_NN करुन_V_VMघेतला_V_VM नसेल_V_VM? आणि_CC_CCD समजा_V_VM नाहीच_V_VM आला_V_VMतो_PRP सोडवायला_V_VM, तर_CC_CCS दिपक_N_NNP त्याचं_PRP काय_PR_PRQ वाकडं_JJ करु_V_VM शकणार_V_VM होता_V_VAUX?”</s>
+<s> असंख्य_JJ विचार_N_NN दिपकच्या_N_NNP मनात_N_NN रुंजी_N_NN घालत_V_VM होते_V_AUX</s>
+<s> सध्यातरी_RB दिपकला_N_NNP युसुफ_N_NNPवर विश्वास_N_NN ठेवण्याव्यतीरीक्त_V_VM दुसरा_QT_QTC कोणताच_DM_DMQ मार्ग_N_NN दिसत_V_VM नव्हता_V_VM</s>
+<s> रात्र_N_NN फार_RP_INTF मोठ्ठी_JJ आणि_CC_CCD कष्टाची_N_NN होती_V_VAUX आणि_CC_CCD दिपकला_N_NNP थकुन_RB चालणार_V_VM नव्हते_V_VM</s>
+<s>दिपकने_N_NNP स्वतःला_PR_PRF त्या_DM_DMD थंडगार_JJ फर्शीवर_N_NN लोटुन_V_VM दिले_V_VM</s>
+<s> काही_QT_QTF क्षणातच_N_NN तो_PR_PRP निद्रेच्या_N_NN आहारी_RB गेला_V_VM</s>
+<s> किती_PR_PRQ वेळ_N_NN गेला_V_VM असेल_V_VM कुणास_WP ठाउक_N_NN</s>
+<s> दिपकला_N_NNP जाग_N_NN आली_V_VM तसा_PR_PRP तो_PR_PRP खडबडुन_RB जागा_V_VM झाला_V_VM</s>
+<s> आजुबाजुला_N_NST सर्वत्र_RB काळोख_N_NN पसरला_V_VMहोता_V_VM</s>
+<s>दिपक_N_NNP पटकन_RB कोठडीच्या_N_NN दरवाज्यापाशी_RB गेला_V_VMआणि_CC त्याने_PR_PRP दरवाज्याच्या_N_NN छोट्याश्या_JJ खिडकीतुन_N_NN बाहेर_N_NST डोकावुन_V_VM पाहीले_V_VM</s>
+<s> अजुनतरी_RB बाहेर_N_NST सामसुम_N_NN झालेली_V_VM नव्हती_V_VM</s>
+<s> व्हरांड्यातील_N_NN सर्व_QT_QTF दिवे_N_NN चालु_V_VM होते_V_VAUX</s>
+<s> दिपकचे_N_NNP रात्रीचे_N_NN जेवण_N_NN सुध्दा_CC_CCD अजुन_RB  आलेले_V_VM नव्हते_V_VM म्हणजे_CC_CCS_UT रात्र_N_NN उलटली_V_VM नव्हती_V_VM</s>
+<s> आणि_CC_CCD तो_PR_PRP पुन्हा_RB जागेवर_N_NN बसुन_V_VM बाहेरच्या_N_NST हालचालींचा_N_NN कानोसा_V_VM घेऊ_V_VM लागला_V_VM</s>
+<s> मनाचा_N_NN एक_QT_QTC कोपरा_N_NN बाहेरच्या_N_NST हालचाली_N_NN टिपत_V_VM असतानाच_V_VM दुसरा_QT_QTC कोपरा_N_NN मात्र_CC_CCD रात्रीच्या_N_NN घटनांचे_N_NN प्लॅनींग_RD_RDF करत_V_VM होते_V_VAUX</s>
+<s> युसुफने_N_NNP सांगीतलेल्या_V_VM प्रत्येक_QT_QTF गोष्टीचा_N_NN तो_PR_PRP बारकाईने_ विचार_N_NN करत_V_VM होता_V_VAUX</s>
+<s> त्यात_PR_PRP, काही_QT_QTF असतीलच_V_VM तर_CC_CCS त्रुटी_N_NN शोधण्याचा_V_VM प्रयत्न_N_NN करत_V_VM होता_V_VAUX</s>
+<s> एखादी_QT_QTC बारीकशी_JJ चुकही_N_NN सर्व_QT_QTF प्लॅन_RD_RDF उधळु_V_VM शकत_V_VM होती_V_VAUX</s>
+<s> परंतु_CC वरवरदर्शी_RB तरी_CC_CCD त्याला_PR_PRP तसं_WP काही_QT_QTF आढळलं_V_VM नाही_V_VM</s>
+<s>युसुफने_N_NNP सांगीतलेल्या_JJ घटना_N_NN योग्य_JJ रितीने_N_NN घडत_V_VMगेल्या_V_VMतर_CC काही_QT_QTF तासांतच_N_NN दिपकची_N_NNP ह्या_DM_DMD जाचातुन_N_NN सुटका_N_NN होणार_V_VM होती_V_VAUX</s>
+<s>दिपक_N_NNP स्वतःशीच_PR_PRF बाहेर_N_NST गेल्यावर_V_VM काय_PR_PRQ करायचं_V_VM ह्याची_PRP स्वप्न_N_NN पाहु_V_VM लागला_V_VM</s>
+<s> स्वतःला_PR_PRF अवगत_JJ असलेल्या_JJ कलांचा_N_NN वापर_N_NN करुन_V_VMकाय_WP करता_V_VM येऊ_V_VM शकेल_V_VM ह्याचे_PRP आडाखे_N_NN बांधुन_V_VM पाहु_V_VM लागला_V_VM</s>
+<s> नंतर_RB त्याने_PR_PRP ते_PR_PRP विचार_N_NN मनातुन_N_NN काढुन_V_VM टाकले_V_VMआणि_CC पुन्हा_RB एकदा_RB रात्री_N_NN काय_PR_PRQ काय_PR_PRQ करायचे_V_VM हे_DM ठरवण्यात_V_VM तो_PR_PRP मग्न_JJ होऊन_V_VM गेला_V_VM</s>
+<s>त्याची_PR_PRP तंद्री_N_NN भंगली_V_VM ती_PR_PRP दरवाज्याबाहेरच्या_N_NN हालचालीने_N_NN</s>
+<s> थोड्यावेळाने_RB त्याचा_PR_PRP दरवाजा_N_NN उघडला_V_VM गेला_V_VM, जेवणाची_N_NN एक_QT_QTC थाळी_N_NN आत_N_NST ढकलण्यात_V_VM आली_V_VM आणि_CC_CCD दरवाजा_N_NN पुन्हा_RB बंद_N_NN झाला_V_VM</s>
+<s>“रात्रीला_N_NN सुरुवात_N_NN झाली_V_VMतर_CC…”, दिपकने_N_NNP विचार_N_NN केला_V_VM</s>
+<s> ह्यावेळी_RB त्याने_PR_PRP कसलाही_PR_PRQ विचार_N_NN न_RP_NEG करता_V_VM ते_PR_PRP निरस_JJ, बेचव_JJ जेवण_N_NN समोर_N_NST ओढले_V_VM आणि_CC_CCD पटापट_RB खाऊन_V_VM टाकले_V_VM</s>
+<s> न_RP_NEG जाणो_V_VM पुढच्या_RB वेळी_N_NN काय_PR_PRQ आणि_CC_CCD कुठे_PR_PRQ खायला_V_VM मिळेल…_V_VM शेजारच्या_JJ माठातले_N_NN थंडगार_JJ पाणी_N_NN त्याने_PR_PRP घश्याखाली_RB ढकलले_V_VM आणि_CC_CCD उरलेले_JJ पाणी_N_NN चेहर्‍यावर_N_NN ओतुन_V_VM तो_PR_PRP फ्रेश_RD_RDF झाला_V_VM</s>
+<s>दुपारच्या_N_NN त्या_DM_DMD चांगल्या_JJ ३-४_QT_QTC तास_N_NN झोपेने_N_NN त्याला_PR_PRP आता_RB हुशारी_N_NN जाणवु_V_VM लागली_V_VM होती_V_VAUX</s>
+<s> अंग_N_NN ठणकणे_V_VM सुध्दा_CC_CCD जरा_QT_QTF कमी_QT_QTF झाले_V_VM होते_V_VAUX</s>
+<s> हात_N_NN पाय_N_NN ताणुन_V_VM त्याने_PR_PRP अंग_N_NN मोकळे_JJ केले_V_VM आणि_CC_CCD मग_CC_CCS तो_PR_PRP अंधारातच_N_NN येरझार्‍या_V_VM घालु_V_VM लागला_V_VM</s>
+<s> हळु_RB हळु_RB बाहेरचे_N_NST आवाज_N_NN कमी_QT_QTF कमी_QT_QTF होऊ_V_VM लागले_V_VM</s>
+<s> वेळ_N_NN अतीशय_RP_INTF हळुवारपणे_RB पुढे_N_NST सरकत_V_VM होता_V_VM</s>
+<s>दिपकची_N_NNP अस्वस्थता_N_NN वाढत_V_VM चालली_V_VM होती_V_VAUX</s>
+<s>अगदी_RP_INTF अंत_N_NN पाहील्यावर_V_VM एकदाचे_QT_QTC व्हरांड्यातील_N_NN दिवे_N_NN बंद_N_NN झाले_V_VM</s>
+<s>दिपकला_N_NNP खात्री_N_NN होती_V_VAUX की_CC_CCD युसुफ_N_NNP अजुन_RB एक_QT_QTC तास-दीड_QT_QTC तास_N_NN तरी_CC_CCD नक्कीच_RB काही_QT_QTF हालचाल_N_NN करणार_V_VM नाही_V_VM</s>
+<s> वाट_N_NN बघ_V_VMण्याशिवाय दुसरा_QT_QTC कोणताच_DM_DMQ पर्याय_N_NN दिपककडे_N_NNP नव्हता_V_VM</s>
+<s>बराच_RB वेळ_N_NN गेल्यावर_V_VM शेवटी_RB एकदाची_QT_QTC बाहेर_N_NST पुर्ण_N_NN सामसुम_N_NN पसरली_V_VMहोती_V_VAUX</s>
+<s> दुरवर_RB स्पॉटलाईटचे_RD_RDF हालणारे_JJ प्रकाशाचे_N_NN झोत_N_NN दिपकला_N_NNP दिसत_V_VM होते_V_VAUX</s>
+<s>दिपकने_N_NNP दिव्यांच्या_N_NN हालचालीची_N_NN वेळ_N_NN नोंदवायचे_V_VM ठरवले_V_VM</s>
+<s> एक_QT_QTC प्रकाशझोत_N_NN एका_QT_QTC दिशेने_N_NN दुसर्‍या_QT_QTO दिशेला_N_NN गेल्यावर_V_VM फक्त_RB काही_QT_QTF सेकंद_N_NN मध्ये_N_NST अंधार_N_NN होता_V_VAUX आणि_CC_CCD पुन्हा_RB दुसर्‍या_QT_QTO दिशेने_N_NN येणारा_V_VM प्रकाशाचा_N_NN झोत_N_NN तो_PR_PRP अंधारलेला_JJ भाग_N_NN उजळवुन_RB टाकत_V_VM होता_V_VAUX</s>
+<s> पाच_QT_QTC आणि_CC_CCD तो_PR_PRP अंधारलेला_JJ भाग_N_NN पुन्हा_RB प्रकाशमान_JJ होत_V_VM होता_V_VAUX</s>
+<s> कशी बशी_RD_ECH पाच_QT_QTC सेकंद_N_NN प्रत्येक_QT_QTF हालचालीला_N_NN मिळत_V_VM होती_V_VAUX</s>
+<s> त्या_DM_DMD वेळेत_N_NN एका_QT_QTC अंधारलेल्या_JJ भागातुन_N_NN दुसर्‍या_JJ अंधार्‍या_JJ भागात_N_NN जाणे_V_VM क्रमप्राप्त_JJ होते_V_VAUX</s>
+<s> आणि_CC_CCD ते_PR_PRP सुध्दा_CC_CCD भरलेले_V_VM ते_PR_PRP जड_JJ सिलेंडर्स_RD_RDF घेउन_V_VM…</s>
+<s>दिपक_N_NNP पुन्हा_RB पुन्हा_RB वेळेचा_N_NN अंदाज_N_NN घेत_V_VM होता_V_VAUX</s>
+<s> दिपकच्या_N_NNP अनुभवानुसार_N_NN ४-५_QT_QTC सेकंद_N_NN खुपच_RP_INTF कमी_QT_QTF वेळ_N_NN होती_V_VAUX</s>
+<s> इतक्या_WP कमी_QT_QTF वेळात_N_NN एका_QT_QTC सेक्शनमधुन_N_NN दुसर्‍या_PRP सेक्शनमध्ये_RD_RDF कुणाच्याही_PR_PRQ नजरेस न_RP_NEG पडता_V_VM जाणं_V_VM अशक्य_RB होतं_V_VAUX</s>
+<s>“शिट्ट…_RD_RDF थोडा_JJ अजुन_RB वेळ_N_NN मिळाला_V_VM असता_V_VM तरी_CC_CCD चाललं_V_VM असतं_V_VM</s>
+<s> किंवा_CC निदान_RB युसुफने_N_NNP त्याचा_PR_PRP प्लॅन_RD_RDF मागच्याच_RB आठवड्यात_N_NN सांगीतला_V_VM असता_V_VM तरी_CC_CCD दुसरं_PRP काही_QT_QTF प्लॅन_RD_RDF करता_V_VM आला_V_VM असता_V_VM… पण_CC_CCD आता_RB वेळ_N_NN निघुन_V_VM गेली_V_VM होती_V_VAUX</s>
+<s> एव्हाना_RB कदाचीत_RB युसुफ_N_NNP दवाखान्यातुन_N_NN बाहेर_N_NST पडला_V_VM असेल_V_VM आणि_CC_CCD कोठडीच्या_N_NN चाव्या_N_NN मिळवुन_V_VM तो_PR_PRP येतच_V_VM असेल_V_VM…”, दिपकचे_N_NNP विचार_N_NN चालु_V_VM होते_V_VAUX</s>
+<s> अपेक्षेपेक्षा_N_NN अधीक_JJ वेळ_N_NN उलटुन_V_VM गेला_V_VM होता_V_VAUX</s>
+<s> एव्हाना_RB युसुफला_N_NNP येणं_V_VM भाग_N_NN होतं_V_VMपण_CC अजुनतरी_RB कोणतीच_WP हालचाल_N_NN दिपकला_N_NNP बाहेर_N_NST जाणवत_V_VM नव्हती_V_VM</s>
+<s>“काय_PR_PRQ झालं_V_VM असेल_V_VM? युसुफला_N_NNP तेथुन_DM_DMD सुटताच_V_VM आलं_V_VM नसेल_V_VM? का_PR_PRQ सुटका_N_NN झाली_V_VM असेल_V_VM आणि_CC_CCD तो_PR_PRP आपल्याला_PR_PRP सोडुन_V_VM निघुन_V_VM गेला_V_VM असेल_V_VM?”</s>
+<s> दिपकच्या_N_NNP डोक्यात_N_NN संशयाचा_N_NN भुंगा_N_NN सतत_RB भुणभुणत_V_VM होता_V_VAUX</s>
+<s> काय_PR_PRQ होणार_V_VM पुढे_N_NST? दिपक_N_NNPप्रमाणेच हा_DM भुंगा_N_NN तुमच्याही_PR_PRP डोक्यात_N_NN भुणभुणत_RB असेलच_V_VM ना_RP_INJ? त्यांचा_PR_PRP हा_DM प्लॅन_RD_RDF यशस्वी_JJ होइल_V_VM का_PR_PRQ? का_PR_PRQ दिपकला_N_NNP धोका_N_NN होईल_V_VM? काहीच_QT_QTF सांगता_V_VM येत_V_VM नाहीये_V_VM ना_RP_INJ????</s>
+<s>मग_CC_CCS थोडा_JJ अजुन_RB धीर_N_NN धरा_V_VM</s>
+<s> त्या_DM_DMD रात्रीत_N_NN काय_PR_PRQ काय_PR_PRQ घडलं_V_VM ते_PRP ऐका_V_VM पुढच्या_RB अर्थात_N_NN भाग_N_NN-६_QT_QTC मध्ये_N_NST…</s>
+<s>सेकंदामागुन_N_NN सेकंद_N_NN, मिनीटा_N_NN मागुन_RB मिनीट_N_NN जात_V_VM होती_V_VAUX पण_CC_CCD युसुफचा_N_NNP काहीच_QT_QTF पत्ता_N_NN नव्हता_V_VM</s>
+<s> दिपकची_N_NNP चलबिचल_N_NN वाढत_RB चालली_V_VMहोती_V_VAUX</s>
+<s> इतकं_RB अस्वस्थ_JJ, इतकं_RB हतबल_JJ त्याला_PR_PRP यापुर्वी_RB कधीच_PR_PRQ वाटले_V_VM नव्हते_V_VM</s>
+<s>एखाद्या_QT_QTF हिंस्त्रपशुसारखा_N_NN तो_PR_PRP इकडुन_RB तिकडे_DM_DMD येरझार्‍या_N_NN घालत_V_VM होता_V_VAUX</s>
+<s> इतक्यात_RB त्याला_PR_PRP बाहेर_N_NST हालचाल_N_NN जाणवली_V_VM</s>
+<s> हळुवारपणे_RB त्याच्या_PR_PRP कोठडीच्या_N_NN कुलुपात_N_NN एक_QT_QTC किल्ली_N_NN सरकवली_V_VM गेली_V_VM होती_V_VAUX आणि_CC_CCD अत्यंत_RP_INTF सावकाशपणे_RB ती_PR_PRP किल्ली_N_NN फिरवुन_V_VM दरवाजा_N_NN उघडण्याचा_V_VM प्रयत्न_N_NN होत_V_VM होता_V_VM</s>
+<s>ते_PR_PRP दार_N_NN उघडले_V_VMगेले_V_VM. दारामध्ये_N_NN युसुफ_N_NNP उभा_V_VM होता_V_VAUX.</s>
+<s>युसुफला_N_NNP बघताच_V_VM दिपकचा_N_NNP जिव_N_NN भांड्यात_N_NN पडला_V_VM.</s>
+<s>क्षणाचाही_N_NN विलंब_N_NN न_RP_NEG करता_V_VM दिपक_N_NNP बाहेर_N_NST पडला_V_VM</s>
+<s> व्हरांड्यात_N_NN युसुफच्या_N_NNP मागे_N_NST अजुन_RB एक_QT_QTC कैदी_N_NN उभा_V_VM होता_V_VAUX</s>
+<s> तो_PR_PRP ‘इस्माईल_N_NNP शेख_NNP’ असावा_V_VM हे_DM दिपकने_N_NNP ताडले_V_VM</s>
+<s> त्याला_PR_PRP पहाताच_V_VMदिपक_N_NNPची मस्तकाची_N_NN शिर_N_NN ताणली_V_VM गेली_V_VM</s>
+<s> शेवटी_RB काही_QT_QTF झालं_V_VM तरीही_CC_CCD तो_PR_PRP एक_QT_QTC टेररीस्ट_RD_RDF होता_V_VAUX, एका_QT_QTC माफीयाचा_RD_RDF भाऊ_N_NN</s>
+<s>युसुफने_N_NNP दिपकच्या_N_NNP चेहर्‍यावरील_N_NN भाव_N_NN हेरले_V_VMतसा_PRP तो_PR_PRP म्हणाला_V_VM</s>
+<s> “चला_V_VM लवकर_RB चला_V_VM, आपल्याकडे_PRP फार_RP_INTF वेळ_N_NN नाहीये_V_VM</s>
+<s>पुढे_N_NST युसुफ_N_NNP, त्याच्यामागे_RB इस्माईल_N_NNP आणि_CC_CCD सगळ्यात_PRP शेवटी_RB दिपक_N_NNP</s>
+<s> व्हरांड्यातील_N_NN अंधाराचा_N_NN फायदा_N_NN घेउन_V_VM तिघं_QT_QTC जण_N_NN एका_QT_QTC मागोमाग_N_NST एक_QT_QTC जात_V_VM होते_V_AUX</s>
+<s> लपत_RB छपत_RB सर्वजण_PRP शेवटी_RB एकदाचे_QT_QTC सर्वजण_PRP भटारखान्यात_N_NN पोहोचले_V_VM</s>
+<s>युसुफने_N_NNP खिश्यातुन_N_NN रॅटकिलच्या_N_NN गोळ्या_N_NN आणि_CC_CCD एका_QT_QTC छोट्या_JJ बाटलीत_N_NN भरलेले_V_VM फिनाईल_RD_RDF काढले_V_VM</s>
+<s> इस्माईलने_N_NNP एव्हाना_RB चिकनचे_N_NN काही_QT_QTF पिसेस_RD_RDF पातेल्यात_N_NN काढुन_V_VM ठेवले_V_VM होते_V_VAUX</s>
+<s> युसुफने_N_NNP त्या_DM_DMD गोळ्या_N_NN बारीक_JJ बारीक_JJ करुन_V_VMत्या_PRP पिसेसवर_RD_RDF टाकल्या_V_VMआणि_CC त्यावर_PRP फिनाईल_RD_RDF होतले_V_VMव_CC ते_PR_PRP सर्व_QT_QTF मिश्रण_N_NN एकजिव_JJ केले_V_VM</s>
+<s> पण_CC_CCD हे_DM पिसेस_RD_RDF त्या_DM_DMD कुत्र्यांना_N_NN देणार_V_VM कसे…_WP आधीच_RB त्या_DM_DMD चिकनचा_N_NN वास_N_NN आणि_CC_CCD त्यात_PR_PRP आपला_PR_PRP अनोळखी_JJ वास_N_NN</s>
+<s> ती_PR_PRP कुत्री_N_NN सतर्क_N_NN होऊन_V_VM लगेच_RB आपल्याकडे_PRP धाव_N_NN घेतील…_V_VM”, दिपकने_N_NNP शंका_N_NN उपस्थीत_N_NN केली_V_VM</s>
+<s>“नाही_V_VM आपण_PR_PRF त्यांच्या_PR_PRP जवळ_RB नाही_V_VM जायचे_V_VM</s>
+<s> आपल्याला_PR_PRP अंधारातच_N_NN हे_DM खाद्य_N_NN फेकावे_V_VM लागेल_V_VM</s>
+<s> दुसरा_QT_QTC पर्याय_N_NN नाहीये_V_VM…”, युसुफ_N_NNP म्हणाला_V_VM</s>
+<s>तिघंही_QT_QTC जणं_PRP ते_PR_PRP पातेलं_N_NN घेउन_V_VM अंगणात_N_NN आले_V_VM</s>
+<s> दिपकला_N_NNP जणु_N_NN आपण_PR_PRF नग्न_JJ होऊन_V_VM चालले_V_VM आहोत_V_VM असंच_PRP वाटत_V_VMहोतं_V_VM</s>
+<s> सर्व_QT_QTF बाजुने_RB मोकळं_JJ पटांगण_N_NN होतं_V_VAUX</s>
+<s> कुणाचीही_PR_PRQ नजर_N_NN पडली_V_VM असती_V_VM तरी_CC_CCD त्यांना_PRP हे_DM तिघं_QT_QTC जण_N_NN सहज_RB दिसले_V_VMअसते_V_VM</s>
+<s>झपझप_RB चालत_V_VM तिघंही_QT_QTC कुत्र्यांच्या_N_NN पिंजर्‍याजवळ_N_NN पोहोचले_V_VM</s>
+<s> पिंजरा_N_NN रिकामाच_JJ होता_V_VMह्याचाच_PRP अर्थ_N_NN ती_PR_PRP कुत्री_N_NN त्यांच_PR_PRP काम_N_NN करत_V_VM होती_V_VAUX</s>
+<s> एक_QT_QTC कुत्र_N_NN आपल्या_PR_PRP तिघांना_QT_QTC भारी_RB पडेल…_V_VM</s>
+<s> मुझे_RD_RDF साला_RD_RDF ये_RD_RDF मामु_RD_RDF लोग_RD_RDF, और_RD_RDF कुत्ता_RD_RDF लोगोंसे_RD_RDF बहोत_RD_RDF डर_RD_RDF लगताय_RD_RDF</s>
+<s> त्याचा_PR_PRP आवाज_N_NN फार_RP_INTF जड_JJ होता_V_VMआणि_CC बोलताना_V_VM त्याला_PR_PRP धाप_N_NN लागत_V_VMहोती_V_VAUX</s>
+<s>युसुफने_N_NNP एकदा_RB मान_N_NN डोलावली_V_VMआणि_CC मग_CC_CCS एक_QT_QTC चिकन_RD_RDF पिस_RD_RDF घेऊन_V_VM जोरात_RB अंधारात_N_NN दुरवर_RB भिरकावला_V_VM</s>
+<s>दुरवर_RB कुठेतरी_RB धप्प_RB असा_CC_CCS_UT आवाज_N_NN आला_V_VM आणि_CC_CCD परत_RB शांतता…_N_NN</s>
+<s>युसुफने_N_NNP अजुन_RB एक_QT_QTC पिस_RD_RDF उचलला_V_VMआणि_CC आधी_RB फेकला_V_VM होता_V_VM त्याच्यापासुन_PR_PRP थोडा_JJ लांब_JJ अजुन_RB एक_QT_QTC पिस_RD_RDF भिरकावला_V_VM</s>
+<s> आणि_CC_CCD परत_RB अजुन_RB एक_QT_QTC करत_V_VM करत_V_VM साधारण_N_NN वेगवेगळ्या_RB दिशेने_N_NN ते_PR_PRP तुकडे_N_NN फेकुन_V_VM दिले_V_VM</s>
+<s> आता_RB वाट_N_NN बघ_V_VMण्याशिवाय त्यांच्या_PR_PRP हातात_N_NN काहीच_QT_QTF उरले_V_VM नव्हते_V_VM</s>
+<s>प्राण_N_NN कानात_N_NN आणुन_V_VM तिघेही_QT_QTC जण_N_NN हालचालींचा_N_NN अंदाज_N_NN घेऊ_V_VM लागले_V_VM.</s>
+<s>इस्माईल_N_NNP काहीतरी_RB बोलणार_V_VM एव्हढ्यात_RB दिपकने_N_NNP त्याला_PR_PRP खुणेनेच_N_NN शांत_N_NN केले_V_VM आणि_CC_CCD दुरवर_RB कुठेतरी_PR_PRQ तो_PR_PRP बोट_N_NN दाखवु_V_VM लागला_V_VM</s>
+<s>दुरवरुन_RB कुत्र्यांच्या_N_NN गुरगुरीचा_V_VM आवाज_N_NN ऐकु_V_VM येत_V_VM होता_V_VAUX</s>
+<s> मधुनच_RB चमकुन_RB जाणार्‍या_V_VM दिव्यांच्या_N_NN प्रकाशात_N_NN कुत्र्यांच्या_N_NN सावल्या_N_NN आणि_CC_CCD त्यांच्या_PR_PRP भांडणात_N_NN उडणारी_JJ धुळ_N_NN दिसत_V_VM होती_V_VAUX</s>
+<s> मच्चक्क_JJ आवाज_N_NN करत_V_VM ते_PR_PRP चिकनचे_RD_RDF तुकडे_N_NN गपागप_RB ओरबाडुन_V_VM खात_V_VM होते_V_AUX</s>
+<s>युसुफने_N_NNP आपले_PR_PRPS दोन्ही_RB हात_N_NN पुढे_N_NST केले_V_VMआणि_CC इस्माईल_N_NNP आणि_CC_CCD दिपकने_N_NNP हळुवारपणे_RB त्याला_PR_PRP एक_QT_QTC एक_QT_QTC टाळी_N_NN दिली_V_VM</s>
+<s>हळुहळु_RB कुत्र्यांच्या_N_NN गुरगुरीचा_N_NN आवाज_N_NN कमी_QT_QTF होत_V_VM गेला_V_VM आणि_CC_CCD काही_QT_QTF वेळाने_N_NN पुर्ण_JJ शांतता_N_NN झाली_V_VM</s>
+<s> परंतु_CC धोका_N_NN पत्करण्यात_V_VM अर्थ_N_NN नव्हता_V_VM</s>
+<s> तिघंही_QT_QTC जण_N_NN पुढची_RB १०_QT_QTC मिनीटं_N_NN कानोसा_N_NN घेत_V_VM बसुन_RB राहीले_V_VM परंतु_CC कुत्र्यांच्या_N_NN हालचालीचा_N_NN कोणताही_PR_PRQ आवाज_N_NN आला_V_VMनाही_V_VM</s>
+<s>“चलो…_RD_RDF शो_RD_RDF टाईम.._RD_RDF”, पुन्हा_RB माघारी_RB वळत_V_VM युसुफ_N_NNP म्हणाला_V_VM..</s>
+<s>तिघंही_QT_QTC सरपटत_RB पुन्हा_RB इमारतीत_N_NN आणि_CC_CCD तेथुन_DM_DMD भटारखान्यात_N_NN आले_V_VM</s>
+<s> पुढची_RB १०_QT_QTC मिनीटांत_N_NN तिघांनीही_QT_QTC मिळेल_V_VM ते_PR_PRP खाण्याचं_V_VM सामान_N_NN पिशव्यांमध्ये_N_NN भरुन_RB घेतले_V_VMआणि_CC मोर्चा_N_NN सिलेंडर्सकडे_RD_RDF वळवला_V_VM</s>
+<s>सिलेंडर्स_RD_RDF पुर्ण_JJ भरलेले_V_VM होते_V_VAUX त्यामुळे_CC ते_PR_PRP आवाज_N_NN न_RP_NEG करता_V_VM ओढत_RB न्हेण्याची_V_VM कसरतीत_N_NN काही_QT_QTF क्षणांतच_N_NN तिघांची_QT_QTC दमछाक_N_NN झाली_V_VM</s>
+<s> घामाने_N_NN निथळत_RB तिघंही_QT_QTC जण_N_NN पुन्हा_RB पुर्वीच्या_RB ठिकाणी_N_NN येऊन_V_VM पोहोचले_V_VM</s>
+<s> तेथुन_DM_DMD काही_QT_QTF पावलांवरुन_N_NN पुढे_N_NST स्पॉटलाईटच्या_RD_RDF प्रकाशाचा_N_NN झोत_N_NN येत_V_VM होता_V_VAUX</s>
+<s> मनोर्‍यांवर_N_NN बंदुक_N_NN घेऊन_V_VM उभे_V_VM असलेल्या_V_VM पोलिसांची_N_NN करडी_JJ नजर_N_NN त्या_DM_DMD उजळलेल्या_JJ प्रकाशातुन_N_NN फिरत_V_VM होती_V_VAUX</s>
+<s>”, दिपक_N_NNP हळु_JJ आवाजात_N_NN म्हणाला_V_VM</s>
+<s> “दोन_QT_QTC प्रकाशांमध्ये_N_NN फक्त_RB ५_QT_QTC सेकंदांचा_N_NN डिले_RD_RDF आहे_V_VM</s>
+<s> इतक्या_RP_INTF कमी_QT_QTF वेळात_N_NN एका_QT_QTC सेक्शन_RD_RDFमधुन दुसर्‍या_QT_QTO सेक्शन_RD_RDFमध्ये जायचे_V_VM</s>
+<s> तु_PR_PRP वेळ_N_NN नक्की_RB मोजली_V_VM आहेस_V_VM?”, युसुफ_N_NNP</s>
+<s>दिपक_N_NNP आणि_CC_CCD युसुफने_N_NNP पुन्हा_RB एकवार_RB वेळ_N_NN मोजली.._V_VM जेमतेम_RB ५_QT_QTC सेकंद_N_NN होत_V_VMहोते_V_AUX.</s>
+<s>“मला_PR_PRP वाटतं_V_VM, आपल्याला_PR_PRP सिलेंडर्समधला_RD_RDF गॅस_RD_RDF थोडा_JJ कमी_QT_QTF करावा_V_VM लागेल_V_VM</s>
+<s> पुर्ण_JJ भरलेले_V_VM असल्याने_V_VM हे_DM फारच_RB जड_JJ आहेत_V_VAUX</s>
+<s>“पण_CC_CCD गॅस_RD_RDF कमी_QT_QTF करुन_V_VM, आपल्याला_PR_PRP तो_PR_PRP कमी_QT_QTF पडला_V_VM तर_CC_CCS? भिंत_N_NN फुटलीच_V_VM नाही_V_VM तर_CC_CCS?”, युसुफ_N_NNP</s>
+<s>“पुढचं_RB पुढे_N_NST, पण_CC_CCD आत्ता_RB हे_DM नक्की_RB आहे_V_VAUX की_CC_CCD हे_DM जड_JJ सिलेंडर्स_RD_RDF आपण_PR_PRF तेथपर्यंत_RB न्हेऊ_V_VM शकणार_V_VM नाही_V_VM</s>
+<s>युसुफने_N_NNP काही_QT_QTF क्षण_N_NN तो_PR_PRP सिलेंडर_RD_RDF उचलुन_V_VM पाहीला_V_VM आणि_CC_CCD मग_CC_CCS त्याने_PR_PRP होकारार्थी_RB मान_N_NN डोलावली_V_VM</s>
+<s>तिघांनीही_QT_QTC सिलेंडर्सवरचा_RD_RDF नॉब_RD_RDF हलवुन_RB लुज_RD_RDF केला_V_VM आणि_CC_CCD त्यातुन_PR_PRP गॅस_RD_RDF बाहेर_N_NST जाऊ_V_VM लागला_V_VM.</s>
+<s>पाच-एक_QT_QTC मिनीटांनंतर_N_NN तिघांनीही_QT_QTC सिलेंडर्स_RD_RDF बंद_N_NN केले_V_VM</s>
+<s> दिपकने_N_NNP एकदा_RB सिलेंडर_RD_RDF उचलुन_V_VM बघीतला_V_VM आणि_CC_CCD मग_CC_CCS त्याने_PR_PRP समाधानदर्शक_JJ मान_N_NN डोलावली_V_VM</s>
+<s>“ऑन_RD_RDF अ_RD_RDF काऊंट_RD_RDF ऑफ़_RD_RDF फ़ाइव्ह…_RD_RDF. वन.._RD_RDF टु.._RD_RDF थ्री.._RD_RDF फ़ोर.._RD_RDF फाईव्ह.._RD_RDF गो.._RD_RDF”</s>
+<s>तिघांनीही_QT_QTC आपले_PR_PRPS सिलेंडर्स_RD_RDF उचलले_V_VMआणि_CC काही_QT_QTF काळापुरत्या_RB निर्माण_N_NN झालेल्या_JJ अंधारातुन_N_NN ते_PR_PRP पुढे_N_NST सरकले_V_VM</s>
+<s>“१.._QT_QTC२.._QT_QTC३.._QT_QTC४.._QT_QTC५.._QT_QTC स्टॉप.._RD_RDF”, दिपकने_N_NNP सगळ्यांना_PR_PRP थांबायला_V_VM सांगीतले_V_VM.</s>
+<s>प्रखर_JJ प्रकाशाचा_N_NN एक_QT_QTC झोत_N_NN तिघांच्या_QT_QTC अगदी_RP_INTF जवळुन_RB निघुन_V_VM गेला_V_VM</s>
+<s> तिघांनीही_QT_QTC पुन्हा_RB एक_QT_QTC दीर्घ_JJ श्वास_N_NN घेतला_V_VM आणि_CC_CCD सिलेंडर्स_RD_RDF उचलुन_V_VM पुढच्या_RB अंधार्‍या_JJ भागाकडे_N_NN धाव_N_NN घेतली_V_VM</s>
+<s> हळु_RB हळु_RB करत_V_VM तिघं_QT_QTC जण_N_NN पुढे_N_NST सरकत_V_VM होते_V_VAUX</s>
+<s> तिघांनाही_QT_QTC चांगलाच_N_NN दम_N_NN लागला_V_VMहोता_V_VM, पण_CC_CCD इस्माईल_N_NNP</s>
+<s> तो_PR_PRP तर_CC_CCS अक्षरशः_RB धापा_N_NN टाकत_V_VM होता_V_VAUX</s>
+<s>दिव्याचा_N_NN प्रखर_JJ प्रकाश_N_NN तिघांच्या_QT_QTC जवलुन_RB निघुन_V_VM गेला_V_VM</s>
+<s> त्या_DM_DMD मंद_JJ प्रकाशात_N_NN इस्माईलचा_N_NNP घामेजलेला_JJ चेहरा_N_NN दोघांनी_QT_QTC पाहीला_V_VM</s>
+<s> नाका-तोंडाने_N_NN तो_PR_PRP जोरजोरात_RB श्वाछोत्वास_N_NN करत_V_VM होता_V_VAUX</s>
+<s> मैने_RD_RDF इसे_RD_RDF और_RD_RDF उठाके_RD_RDF चला_RD_RDF तो_RD_RDF मेरा_RD_RDF दिल_RD_RDF फट_RD_RDF जायेगा_RD_RDF</s>
+<s> और_RD_RDF नही_RD_RDF चल_RD_RDF पाऊंगा_RD_RDF मै_RD_RDF</s>
+<s>”“अरे_RP_INJ पण_CC_CCD हे_DM आधी_RB सांगायचं_V_VM ना_RP_INJ… आपण_PR_PRF तुझा_PRP सिलेंडर_RD_RDF घेतला_V_VMनसता_V_VM आणि_CC_CCD आमचे_PR_PRP सिलेंडर्स_RD_RDF फुल्ल_RD_RDF ठेवले_V_VM असते_V_VM</s>
+<s> भिंत_N_NN फोडायला_V_VM हे_DM नक्कीच_RB खुप_RB कमी_JJ आहेत_V_VM</s>
+<s> आपल्या_PR_PRP दोघांनाच_QT_QTC त्याचा_PR_PRP सिलेंडर_RD_RDF न्हावा_V_VM लागेल_V_VM</s>
+<s>“पण_CC_CCD कसा?_WP आपली_PRP काय_PR_PRQ कमी_QT_QTF दमछाक_N_NN झाली_V_VM आहे_V_VM का_PR_PRQ? एक_QT_QTC न्हेतानाच_V_VM इतका_RP_INTF त्रास_N_NN, दोन_QT_QTC कसे_PR_PRQ न्हेऊ_V_VM शकु_V_VM?”, युसुफ_N_NNP</s>
+<s> आपण_PR_PRF त्याच्या_PR_PRP सिलेंडर_RD_RDF आत्ता_RB इथेच_DM_DMD ठेवुन_V_VM एक_QT_QTC सेक्शन_RD_RDF पुढे_N_NST जायचे_V_VM</s>
+<s> मग_CC_CCS आळीपाळीने_N_NN दोघांपैकी_QT_QTC एकाने_QT_QTC मागे_N_NST येऊन_V_VM त्याचा_PR_PRP सिलेंडर_RD_RDF घेऊन_V_VM परत_RB पुढे_N_NST यायचे_V_VM</s>
+<s> मग_CC_CCS परत_RB एक_QT_QTC सिलेंडर_RD_RDF मागे_N_NST ठेवुन_V_VM नेक्स्ट_RD_RDF सेक्शन_RD_RDF</s>
+<s> आपल्याला_PR_PRP उजाडायच्या_V_VM आतच_RB जंगलात_N_NN शिरावे_V_VM लागेल_V_VM</s>
+<s>“पर्याय_N_NN नाहीये_V_VM दुसरा_QT_QTC.. लेट्स_RD_RDF गो.._RD_RDF”, दिपक_N_NNP</s>
+<s>आणि_CC_CCD अश्या_CC_CCS_UT रीतीने_N_NN तिघं_QT_QTC जण_N_NN पुढं_N_NST मागं_N_NST</s>
+<s> पुढं_N_NST मागं_N_NST करत_V_VM करत_V_VM एक_QT_QTC एक_QT_QTC टप्पा_N_NN ओलांडत_V_VM जाऊ_V_VM लागले_V_VM</s>
+<s> मिट्ट_JJ काळोखात_N_NN पुढे_N_NST काय_PR_PRQ आहे_V_VAUX, भिंत_N_NN अजुन_RB किती_PR_PRQ दुर_JJ आहे_V_VAUX ह्याचा_PR_PRP काहीच_QT_QTF अंदाज_N_NN येत_V_VM नव्हता_V_VM</s>
+<s> क्षणभरासाठी_N_NN का_PR_PRQ होईना_V_VM प्रकाशझोत_N_NN जवळुन_RB गेला_V_VM की_CC_CCD छातील_N_NN चर्र_N_NN होत_V_VMअसे_V_VM</s>
+<s> कधी_RB कुठुन_PR_PRQ पोलिसाची_N_NN गोळी_N_NN येऊन_V_VM छातीचा_N_NN वेध_N_NN घेईल_V_VM हीच_PRP भिती_N_NN मनात_N_NN बाळगत_V_VM तिघांचा_QT_QTC प्रवास_N_NN सुरु_N_NN होता_V_VAUX</s>
+<s>अखेर_RB अथक_JJ प्रयत्नांनंतर_N_NN तिघंही_QT_QTC जण_N_NN भिंतीपाशी_N_NN येऊन_V_VM पोहोचले_V_VM</s>
+<s> सिलेंडर्स_RD_RDF खाली_N_NST ठेवुन_V_VM तिघही_QT_QTC जण_N_NN भिंतीच्या_N_NN कोपर्‍यात_N_NST मट्कन_RB बसले_V_VM</s>
+<s> शारीरीक_JJ आणि_CC_CCD मानसिक_JJ कसोटी_N_NN पहाणारा_JJ हा_DM तासाभराचा_JJ प्रवास_N_NN चांगलाच_JJ दमछाक_N_NN करणारा_JJ होता_V_VAUX</s>
+<s> विश्रांती_N_NN अत्यावश्यक_JJ होती_V_VAUX, परंतु_CC वेळ_N_NN जास्ती_JJ नव्हता_V_VM</s>
+<s>दम_N_NN खाता_V_VM खाताच_V_VM युसुफने_N_NNP खिश्यातुन_N_NN कपड्यांचे_N_NN एक_QT_QTC मोठ्ठे_JJ भेंडोळे_N_NN काढले_V_VM आणि_CC_CCD इस्माईल_N_NNPकडे दिले_V_VM</s>
+<s> बहुतांश_JJ कपडे_N_NN हे_DM कैद्यांचे_N_NN होते_V_VAUX तर_CC_CCS काही_QT_QTF सटर-फटर_RD_ECH फडकी_N_NN होती_V_VAUX</s>
+<s>तिघांमध्ये_QT_QTC इस्माईलच_N_NNP त्यातल्या_PR_PRP त्यात_PR_PRP कमी_QT_QTF दमलेला_V_VM होता_V_VAUX कारण_CC_CCS त्याच्याकडे_PR_PRP सिलेंडर_RD_RDF नव्हता_V_VM</s>
+<s> त्याने_PR_PRP ते_PR_PRP कपडे_N_NN एकमेकांमध्ये_PR_PRC गाठ_N_NN मारुन_V_VM बांधायला_V_VM सुरुवात_N_NN केली_V_VM</s>
+<s> थोड्याच_RB वेळात_N_NN त्याची_PR_PRP एक_QT_QTC मोठ्ठी_JJ लंबुळकी_N_NN शेपटासारखी_N_NN दोरी_N_NN तयार_N_NN झाली_V_VM</s>
+<s> त्याने_PR_PRP तिन्ही_QT_QTC सिलेंडर्स_RD_RDF एकत्र_N_NN ठेवले_V_VM, त्याच्या_PR_PRP टोकाला_N_NN ह्या_DM_DMD दोरीचे_N_NN एक_QT_QTC टोक_N_NN बांधले_V_VM आणि_CC_CCD युसुफकडे_N_NNP पाहुन_V_VM थम्ब्स_RD_RDF अप_RD_RDF केले_V_VM</s>
+<s>युसुफ_N_NNP आणि_CC_CCD दिपक_N_NNP लगेच_RB जागेवरुन_V_VM उठले_V_VM आणि_CC_CCD त्या_DM_DMD दोरीचे_N_NN दुसरे_RB टोक_N_NN घेउन_V_VM भिंतीच्या_N_NN आधाराने_N_NN लांब_JJ जाऊन_V_VM उभे_V_VM राहीले_V_VM</s>
+<s> मागोमाग_N_NST इस्माईलही_N_NNP त्यांच्याबरोबर_PRP जाऊन_V_VM थांबला_V_VM</s>
+<s>“धिस_RD_RDF इज_RD_RDF इट…_RD_RDF”, दिपक_N_NNP म्हणाला_V_VM</s>
+<s> तसे_PR_PRP युसुफने_N_NNP खिश्यातुन_N_NN काड्यापेटी_N_NN काढली_V_VM आणि_CC_CCD एक_QT_QTC काडी_N_NN पेटवुन_V_VM कपड्यांच्या_N_NN त्या_DM_DMD दोरीला_N_NN लावली_V_VM</s>
+<s>कपडे_N_NN पेटत_RB पेटत_RB पुढे_N_NST जाउ_V_VM लागले_V_VM तसे_PR_PRP तिघंही_QT_QTC अजुन_RB थोडे_JJ लांब_JJ सरक_V_VMआणि_CC कान_N_NN झाकुन_V_VM डोकं_N_NN गुडघ्यात_N_NN घालुन_V_VM बसुन_V_VVM राहीले_V_VM</s>
+<s> कपडे_N_NN पेटत_RB पेटत_RB सिलेंडर्सच्या_RD_RDF दिशेने_N_NN जात_V_VM होते_V_VAUX</s>
+<s> तिघांनीही_QT_QTC कान_N_NN घट्ट_RB झाकुन_V_VM घेतले_V_VM</s>
+<s>सुर्र’_RB आवाज_N_NN करत_V_VM आग_N_NN सिलेंडर्सच्या_RD_RDF जवळ_RB पोहोचली_V_VMआणि_CC काही_QT_QTF क्षणातच_N_NN ‘धडाम्म’_RB असा_CC_CCS_UT आवाज_N_NN आला_V_VM</s>
+<s> प्रकाशाचा_N_NN आणि_CC_CCD धुराचा_N_NN एक_QT_QTC लोळ_N_NN हवेत_N_NN उसळला_V_VM</s>
+<s> भिंतीचा_N_NN काही_QT_QTF भाग_N_NN नक्कीच_RB तुटला_V_VMहोता_V_VMकारण_N_NN सिमेंट_N_NN आणि_CC_CCD विटांचे_N_NN तुकडे_N_NN तिघांच्या_QT_QTC अंगावर_N_NN येउन_V_VM आदळले_V_VMहोते_V_AUX</s>
+<s>विजेच्या_N_NN वेगाने_RB तिघेही_QT_QTC जण_N_NN उठले_V_VMआणि_CC भिंतीकडे_N_NN धावले._V_VM</s>
+<s>त्या_DM_DMD मोठ्या_JJ धमाक्याने_N_NN सगळेच_PRP जागे_N_NN झाले_V_VMहोते_V_AUX</s>
+<s> पहीले_RB काही_QT_QTF क्षण_N_NN काय_PR_PRQ झाले_V_VMहे_PRP शोधण्यात_V_VM गेल्यानंतर_RB त्यांना_PRP कारण_CC_CCS उमगायला_V_VM वेळ_N_NN लागला_V_VM नाही_V_VM</s>
+<s> जेथे_RB विस्फोट_N_NN झाला_V_VM होता_V_VM त्या_PR_PRP दिशेने_N_NN अजुनही_RB धुर_N_NN निघत_V_VM होता_V_VAUX</s>
+<s> क्षणार्धात_RB धोक्याचे_N_NN सायरन_RD_RDF वाजु_V_VM लागले_V_VM</s>
+<s> शिट्या_N_NN वाजवत_V_VM पोलिसांनी_N_NN त्या_DM_DMD दिशेने_N_NN धाव_N_NN घेतली_V_VM</s>
+<s>तिघंही_QT_QTC जण्ं_RP एव्हाना_RP भिंतीजवळ_N_NN पोहोचले_V_VM होते_V_AUX</s>
+<s> तिघांनीही_QT_QTC भिंत_N_NN पाहीली_V_VM आणि_CC_CCD त्यांना_PRP एक_QT_QTC धक्का_N_NN बसला_V_VM</s>
+<s> त्यांच्या_PR_PRP दृष्टीने_N_NN भिंतीला_N_NN एखादे_RB खिंडार_N_NN पडलेले_V_VM असणे_V_VM अपेक्षीत_N_NN होते_V_VAUX, पण_CC_CCD वास्तवदर्शी_JJ भिंतीचा_N_NN वरवरचा_JJ थर_N_NN निघाला_V_VMहोता_V_VMआणि_CC आतील_RB विटा_N_NN दिसत_V_VM होत्या_V_VM</s>
+<s>तुरुंगाच्या_N_NN इमारतीत_N_NN होणारी_V_VM हालचाल_N_NN त्यांना_PR_PRP दिसत_V_VM होती_V_VAUX</s>
+<s> सायरनचा_RD_RDF आणि_CC_CCD शिट्यांचा आवाज_N_NN त्यांच्या_PR_PRP कानावर_N_NN येत_V_VM होता_V_VAUX</s>
+<s> हातावर_N_NN हात_N_NN धरुन_V_VM बसण्यात_V_VM अर्थ_N_NN नव्हता_V_VM</s>
+<s> तिघांनीही_QT_QTC तत्परतेने_RB लाथा_N_NN मारुन_V_VM उरलेली_JJ भिंत_N_NN पाडायला_V_VM सुरुवात_N_NN केली_V_VM</s>
+<s> पहीले_RB काही_QT_QTF आघात_N_NN सहन_N_NN केल्यावर_V_VM डचमळीत_JJ झालेली_JJ भिंत_N_NN पडायला_V_VM सुरुवात_N_NN झाली_V_VM</s>
+<s> परंतु_CC ह्यात_PR_PRP वेळ_N_NN जात_V_VM होता_V_VAUX</s>
+<s> धावत_V_VM येणार्‍या_V_VM पोलिसांनी_N_NN एव्हाना_RB गोळीबार_N_NN सुरु_V_VM केला_V_VMहोता_V_VM</s>
+<s> त्या_DM_DMD गोळ्या_N_NN त्यांच्यापासुन_PR_PRP काही_QT_QTF अंतरावर_N_NN येऊन_V_VM पडत_V_VM होत्या_V_VM</s>
+<s> काही_QT_QTF क्षणातच ते_PR_PRP पोलिस_N_NN जवळ_RB येतील_V_VM आणि_CC_CCD त्यांच्या_PR_PRP गोळ्या_N_NN तिघांपैकी_QT_QTC कुणाच्या_PR_PRQ अंगात_N_NN घुसण्याची_V_VM शक्यता_N_NN होती_V_VAUX</s>
+<s>तिघांनीही_QT_QTC आपला_PR_PRP जोर_N_NN आणि_CC_CCD वेग_N_NN वाढवला_V_VM</s>
+<s> भिंतीत_N_NN निर्माण_N_NN झालेल्या_JJ फटींमधुन_N_NN आता_RB तिघांनीही_QT_QTC विटा_N_NN ओढुन_V_VM काढायला_V_VM सुरुवात_N_NN केली_V_VM आणि_CC_CCD काही_QT_QTF क्षणातच_RB कसेबसे_RB जाता_V_VM येईल_V_VM इतपत_RB खिंडार_N_NN निर्माण_N_NN झाले_V_VM</s>
+<s> तिघंही_QT_QTC पट्कन_RB त्यात_PR_PRP घुसुन_V_VM बाहेर_N_NST पडले_V_VM आणि_CC_CCD त्यांनी_PR_PRP जंगलाच्या_N_NN दिशेने_N_NN धाव_N_NN घेतली_V_VM</s>
+<s> पोलिसांच्या_N_NN शिट्यांचा_N_NN आवाज_N_NN जवळ_RB जवळ_RB येत_V_VM चालला_V_VM होता_V_VAUX</s>
+<s> पोलिस_N_NN भिंतीतुन_N_NN बाहेर_N_NST पडायला_V_VM सुरुवात_N_NN झाली_V_VM तेंव्हा_PR_PRL तिघंजण_QT_QTC सुरुवातीच्या_N_NN विरळ_JJ जंगला_NN शिरले_V_VMहोते_V_AUX</s>
+<s>पहाट_N_NN व्हायला_V_VM सुरुवात_N_NN झाली_V_VM होती_V_VAUX आणि_CC_CCD वातावरणात_N_NN मंद_JJ प्रकाश_N_NN पसरला_V_VM होता_V_VAUX.</s>
+<s>“आपण_PR_PRF तिघंही_QT_QTC वेगवेगळ्या_RB दिश्यांनी_N_NN जाऊ_V_VM या,_V_VM त्यामुळे_CC एकाच_QT_QTC दिशेने_N_NN येण्याऐवजी_RB पोलिस_N_NN तिन_QT_QTC दिश्यांमध्ये_N_NN विभागले_V_VM जातील_V_VM”, दिपक_N_NNP म्हणाला_V_VM</s>
+<s>“नको_RP_NEG नको_RP_NEG.. आपण_PR_PRF एकत्रच_N_NN राहु.._V_VM पोलिसांचा_N_NN एकत्रीत_JJ मुकाबला_N_NN करता_V_VM येईल.._V_VM”, इस्माईल_N_NNP..</s>
+<s>“नाही_V_VM.. दिपक_N_NNP म्हणतो_V_VM ते_PR_PRP बरोबर_N_NN आहे_V_VAUX.. एकत्र_JJ रहाण्यात_V_VM धोका_N_NN आहे_V_VAUX..”, युसुफ_N_NNP</s>
+<s>इस्माईलने_N_NNP काहीश्या_QT_QTF नाराजीनेच_N_NN दोघांकडेच_PR_PRP बघीतले_V_VM</s>
+<s> इकटे_JJ रहाण्याच्या_V_VM विचारानेच_N_NN त्याला_PR_PRP घाम_N_NN फुटला_V_VM होता_V_VAUX पण_CC_CCD त्याच्याकडे_PR_PRP दुसरा_QT_QTC पर्याय_N_NN नव्हता_V_VM</s>
+<s>पोलिसांचा_N_NN आवाज_N_NN जवळ_RB जवळ_RB येत_V_VM होता_V_VAUX</s>
+<s> अंधारात_N_NN तिर_N_NN मारल्याप्रमाणे_V_VM ते_PR_PRP कुठेही_PR_PRQ बेछुट_JJ गोळीबार_N_NN करत_V_VM होते_V_VAUX</s>
+<s>दिपकने_N_NNP कुणाकडेही_PR_PRQ लक्ष_N_NN न_RP_NEG देता_V_VM अंधारात_N_NN धाव_N_NN घेतली_V_VM</s>
+<s> युसुफ_N_NNP आणि_CC_CCD इस्माईलही_N_NNP मिळेल_V_VM त्या_DM_DMD वाटेने_N_NN धावत_V_VM सुटले_V_VM</s>
+<s> तिघंही_QT_QTC वेगवेगळ्या_RB दिशेने_N_NN गेल्यामुळे_V_VM पोलिस_N_NN काही_QT_QTF क्षण_N_NN गोंधळले_V_VMआणि_CC मग_CC_CCS तिन_QT_QTC गट_N_NN करुन_V_VM तिघंही_QT_QTC त्यांच्या_PR_PRP मागे_N_NST धावले_V_VM</s>
+<s>दिपक_N_NNP वेडा-वाकडा_JJ कसाही_RB धावत_V_VM सुटला_V_VMहोता_V_VM</s>
+<s> परंतु_CC त्याला_PR_PRP फायदा_N_NN होता_V_VAUX त्याच्या_PR_PRP सैनिकी_JJ ट्रेनिंगचा_N_NN</s>
+<s> मोकळ्या_JJ जागा _N_NN शक्यतो_RB टाळत_V_VM तो_PR_PRP झुडपांच्या_N_NN आणि_CC_CCD दाट_JJ झाडीच्या_N_NN आधाराने_N_NN वेगाने_RB धावत_V_VM होता_V_VAUX</s>
+<s> परंतु_CC तेथे_DM_DMD तैनात_N_NN असलेले_V_VM पोलिससुध्दा_N_NN मुरलेले_V_VMहोते_V_AUX</s>
+<s> त्याच_PR_PRP भागातले_N_NN असल्याने_V_VM त्यांना_PRP तेथील_DM_DMD परीस्थीतीचा_N_NN अंदाज_N_NN होता_V_VAUX</s>
+<s> दिपक_N_NNP आणि_CC_CCD त्याच्या_PR_PRP मागे_N_NST असलेल्या_V_VM पोलिसांमधील_N_NN अंतर_N_NN वेगाने_RB कमी_QT_QTF होत_V_VMहोते_V_AUX</s>
+<s>दिपकने_N_NNP एका_QT_QTC घनदाट_JJ झाडीची_N_NN जागा_N_NN पाहुन_V_VM त्या_DM_DMD झुडुपात_N_NN उडी_N_NN घेतली_V_VM आणि_CC_CCD तेथेच_DM_DMD आडोश्याने_N_NN तो_PR_PRP लपुन_V_VM राहीला_V_VM</s>
+<s> त्याला_PR_PRP त्या_DM_DMD झुडुपांच्या_N_NN आडुन_V_VM दुर_N_NN अंतरावर_N_NN खाकी_JJ वर्दीतील_N_NN एक_QT_QTC पोलिस_N_NN दिसत_V_VM होता_V_VAUX</s>
+<s> दिपक_N_NNP त्याच्या_PR_PRP नजरेआड_RB झाला_V_VMतसा_RB त्याचा_PR_PRP धावण्याचा_JJ वेग_N_NN मंदावला_V_VM</s>
+<s> तो_PR_PRP आता_RB हळु_RB हळु_RB चालत_RB चालत_RB दिपक_N_NNP लपला_V_VMहोता_V_VMत्या_PRP दिशेने_N_NN येत_V_VM होता_V_VAUX</s>
+<s>दिपक_N_NNP श्वास_N_NN रोखुन_V_VM कसलीही_RB हालचाल_N_NN न_RP_NEG करता_V_VM गप्प_JJ बसुन_V_VM त्याची_PR_PRP हालचाल_N_NN टिपत_V_VM होता_V_VAUX</s>
+<s>तो_PR_PRP पोलिस_N_NN सावध_JJ पवित्र्यात_N_NN हातातील_N_NN बंदुक_N_NN रोखुन_V_VM धरत_V_VM पुढे_N_NST पुढे_N_NST सरकत_V_VM होता_V_VM.</s>
+<s>दिपकच्या_N_NNP कपाळावर_N_NN घर्मबिंदु_N_NN जमा_V_VM झाले_V_VM होते_V_VAUX</s>
+<s> त्या_DM_DMD पोलिसाला_N_NN जरा_QT_QTF जरी_RB संशय_N_NN आला_V_VM असता_V_VM तरी_RB अंदाजाने_N_NN का_PR_PRQ होईना_V_VM त्याने_PR_PRP दिपकच्या_N_NNP दिशेने_N_NN गोळीबार_N_NN करायला_V_VM मागे_N_NST पुढे_N_NST पाहीले_V_VM नसते_V_VM</s>
+<s>नुसते_RB बसुन_V_VM रहाणे_V_VM अशक्य_JJ होते_V_VAUX</s>
+<s> दिपकने_N_NNP त्या_DM_DMD पोलिसावर_N_NN हल्ला_N_NN चढवायचे_V_VM ठरवले_V_VM</s>
+<s> हलक्या_JJ हताने_N_NN जोर_N_NN देऊन_V_VM तो_PR_PRP तळव्यांवर_N_NN उठुन_V_VM बसला_V_VM</s>
+<s> तो_PR_PRP पोलिस_N_NN अजुन_RB जवळ_RB आला_V_VM की_CC_CCD त्याच्यावर_PR_PRP उडी_N_NN घ्यायची_V_VM ह्या_DM_DMD उद्देशाने_N_NN तो_PR_PRP तयारीत_N_NN होता_V_VAUX</s>
+<s> त्याची_PR_PRP नजर_N_NN त्या_DM_DMD पोलिसावर_N_NN रोखलेली_V_VMहोती_V_VAUX</s>
+<s> इतक्यात_RB त्या_DM_DMD पोलिसाच्या_N_NN मागे_N_NST झुडुपात_N_NN झालेली_V_VM हालचाल_N_NN त्याने_PR_PRP टिपली_V_VM</s>
+<s> पोलिसाच्या_N_NN मागुन_RB इस्माईल_N_NNP हळु_RB हळु_RB पुढे_N_NST सरकत_V_VM होता_V_VAUX</s>
+<s> त्याची_PR_PRP नजर_N_NN पोलिसाच्या_N_NN पाठीवर_N_NN होती_V_VAUX</s>
+<s> दिपकला_N_NNP त्याने_PR_PRP खचीतच_N_NN पाहीलेले_V_VM नव्हते_V_VM</s>
+<s>दिपक_N_NNP श्वास_N_NN रोखुन_V_VM दोघांच्या_QT_QTC हालचाली_N_NN पहात_V_VM होता_V_VM</s>
+<s> इस्माईल_N_NNP हळु_RB हळु_RB पोलिसाच्या_N_NN जवळ_RB आला_V_VM आणि_CC_CCD त्याने_PR_PRP अचानक_RB पोलिसावर_N_NN उडी_N_NN घेतली_V_VM</s>
+<s> इस्माईलच्या_N_NNP अनपेक्षीत_JJ हल्याने_N_NN तो_PR_PRP खाली_N_NST कोसळला_V_VM</s>
+<s> इस्माईलने_N_NNP दोन्ही_QT_QTC हातात_N_NN त्याची_PR_PRP मान_N_NN पकडली_V_VM आणि_CC_CCD पुर्ण_JJ जोर_N_NN देऊन_V_VM तो_PR_PRP पिरगळु_V_VM लागला_V_VM</s>
+<s>त्या_DM_DMD पोलिसाने_N_NN प्रतिकार_N_NN करण्याचा_V_VM प्रयत्न_N_NN केला_V_VM, पण_CC_CCD गळाच_N_NN आवळला_V_VM गेला_V_VM असल्याने_V_VM त्याची_PR_PRP शक्ती_N_NN कमी_QT_QTF कमी_QT_QTF होत_V_VM गेली_V_VMआणि_CC काही_QT_QTF वेळातच_N_NN तो_PR_PRP गतप्राण_N_NN होऊन_V_VM खाली_N_NST कोसळला_V_VM</s>
+<s>इस्माईलने_N_NNP इकडे_DM_DMD तिकडे_DM_DMD पाहीले_V_VM आणि_CC_CCD मग_CC_CCS खाली_N_NST उचलुन_V_VM त्या_DM_DMD पोलिसाची_N_NN बंदुक_N_NN उचलली_V_VM आणि_CC_CCD जाण्यासाठी_V_VM मागे_N_NST वळला_V_VM एवढ्यात_RB ‘धाड्ड’_RB असा_CC_CCS_UT आवाज_N_NN आला_V_VM</s>
+<s>कुठुन_PR_PRQ तरी_RB दुरुन_RB आलेल्या_V_VM पोलिसाच्या_N_NN एका_QT_QTC गोळीने_N_NN इस्माईलच्या_N_NNP डोक्याचा_N_NN वेध_N_NN घेतला_V_VM होता_V_VAUX</s>
+<s> त्याचे_PR_PRP डोके_N_NN फुटले_V_VM आणि_CC_CCD तो_PR_PRP दिपकच्या_N_NNP समोरच_N_NST कोसळला_V_VM</s>
+<s> गरम_JJ रक्ताचा_N_NN एक_QT_QTC शिडकावा_N_NN दिपकच्या_N_NNP अंगावर_N_NN उडाला_V_VM</s>
+<s> क्षणार्धात_RB घडलेल्या_JJ त्या_DM_DMD घटनेने_N_NN दिपक_N_NNP भांबावुन_RB गेला_V_VM</s>
+<s> क्षणभर_RB तो_PR_PRP जागेवरुन_N_NN उठणार_V_VM होताच_V_VM, पण_CC_CCD त्याने_PR_PRP स्वतःला_PR_PRF सावरले_V_VM आणि_CC_CCD तो_PR_PRP जागेवरच_N_NN बसुन_V_VM राहीला_V_VM</s>
+<s> पोलिसाची_N_NN ती_PR_PRP बंदुक_N_NN त्याच्या_PR_PRP समोरच_N_NST पडली_V_VM होती_V_VAUX</s>
+<s> सावकाशपणे_RB त्याने_PR_PRP ती_PR_PRP बंदुक_N_NN ओढुन_V_VM त्याब्यात_N_NN घेतली_V_VM आणि_CC_CCD ज्यादिशेने_RB इस्माईलवर_N_NNP गोळी_N_NN झाडण्यात_V_VM आली_V_VM होती_V_VAUX त्या_DM_DMD दिशेने_N_NN तो_PR_PRP पाहु_V_VM लागला_V_VM</s>
+<s>थोड्यावेळाने_RB तिकडुन_DM_DMD तो_PR_PRP जाड्या_JJ गिड्या_JJ पोलिस_N_NN लांब_JJ पल्ल्याचा_N_NN वेध_N_NN घेणारी_V_VM, दुर्बीण_JJ लावलेली_JJ बंदुक_N_NN घेऊन_V_VM सामोरा_N_NST आला_V_VM</s>
+<s> अंदाज_N_NN घेत_V_VM घेत_V_VM तो_PR_PRP पुढे_N_NST सरकत_V_VM होता_V_VAUX</s>
+<s>दिपकने_N_NNP हातातील_N_NN बंदुक_N_NN लोड_RD_RDF केली_V_VM आणि_CC_CCD त्या_DM_DMD पोलिसावर_N_NN नेम_N_NN धरला_V_VM</s>
+<s> त्याचे_PR_PRP डोके_N_NN दिपकच्या_N_NNP निशाण्यावर_N_NN होते_V_VAUX</s>
+<s> एकामागुन_RB एक_QT_QTC आठवणी_N_NN दिपकच्या_N_NNP मनात_N_NN जाग्या_V_VM झाल्या_V_VM</s>
+<s> आजवर_RB त्याने_PR_PRP कुत्र्यासारखा_N_NN मार_N_NN त्या_DM_DMD गिड्याकडुन_N_NN खाल्ला_V_VM होता_V_VAUX</s>
+<s> लाथा-बुक्या_N_NN त्याच्या_PR_PRP शरीरावर_N_NN दिवस_N_NN-रात्र_N_NN बरसल्या_V_VM होत्या_V_VM त्याची_PR_PRP भरपाई_N_NN करण्याची_V_VM वेळ_N_NN येऊन_V_VM ठेपली_V_VM होती_V_VAUX</s>
+<s> बस्स_RP_INJ एक_QT_QTC चाप_N_NN ओढायचा_V_VM आणि_CC_CCD तो_PR_PRP गिड्डा_JJ पोलिस_N_NN जमीनदोस्त_N_NN होणार_V_VM होता_V_VAUX</s>
+<s>“गुड_RD_RDF बाय_RD_RDF धोंड्या…_N_NNP” दिपक_N_NNP स्वतःशीच_PR_PRF पुटपुटला._V_VM</s>
+<s>मनगटावर_N_NN जोर_N_NN देऊन_V_VM त्याने_PR_PRP खांदा_N_NN वर_N_NST उचलला_V_VM आणि_CC_CCD बंदुकीची_N_NN नळी_N_NN बरोब्बर_JJ सेट_RD_RDFs केली_V_VM</s>
+<s> तो_PR_PRP कुठल्याही_DM_DMQ क्षणी_N_NN ट्रीगर_RD_RDF दाबणार_V_VM इतक्यात_RB त्याच्या_PR_PRP काहीतरी_PRP_PRQ लक्षात_N_NN आले_V_VM</s>
+<s> तो_PR_PRP परत_RB सावकाश_RB पहील्यासारखा_RB गवतात_N_NN खाली_N_NST झोपला_V_VM</s>
+<s> त्याने_PR_PRP बंदुक_N_NN आपल्या_PR_PRP कानाशी_N_NN आणली_V_VM आणि_CC_CCD हलकेच_RB हलवली_V_VM</s>
+<s> आतुन_N_NST बारीक_JJ किण-किण_RB आवाज_N_NN आला_V_VM</s>
+<s>इस्माईल_N_NNP खाली_N_NST कोसळला_V_VM तेंव्हा_PR_PRL त्याची_PR_PRP बंदुक_N_NN शेजारच्या_RB खडकावर_N_NN पडली_V_VM होती_V_VAUX आणि_CC_CCD त्यामुळे_CC बंदुकीच्या_N_NN आतील_RP स्प्रिंग_N_NN लुज_RD_RDF झाली_V_VM होती_V_VAUX</s>
+<s> दिपकने_N_NNP सैन्यात_N_NN असताना_V_VM अश्या_CC_CCS_UT कित्तेक_RB बंदुका_N_NN हाताळल्या_V_VM होत्या_V_VM आणि_CC_CCD असे_PRP अनेक_QT_QTF बारीक-सारीक_RB प्रॉब्लेम_RD_RDF त्याला_PR_PRP माहीत_N_NN झाले_V_VM होते_V_VAUX</s>
+<s>आत्ता_RB जर_RB त्याने_PR_PRP ट्रीगर_RD_RDF दाबले_V_VM असते_V_VM तर_CC_CCS गोळी_N_NN सुटली_V_VM नक्की_RB असती_V_VM, पण_CC_CCD तिने_PRP अपेक्षीत_JJ वेध_N_NN नक्कीच_RB घेतला_V_VM नसता_V_VM</s>
+<s> काही_QT_QTF मिटरपर्यंत_RD_RDF जाऊन_V_VM ती_PR_PRP गोळी_N_NN पडली_V_VM असती, परंतु_CC आवाजाने_N_NN दिपकचे_N_NNP लपण्याचे_V_VP ठिकाण_N_NN मात्र_CC त्या_DM_DMD गिड्याला_JJ कळले_V_VM असते_V_VM</s>
+<s> पुढे_N_NST त्याने_PR_PRP काय_PR_PRQ केले_V_VMअसते_V_VM हे_DM वेगळे_RB सांगण्याची_JJ आवश्यकता_N_NN नाहीच_V_VM</s>
+<s>दिपकने_N_NNP बंदुक_N_NN ठेवुन_V_VM दिली_V_VMआणि_CC तु_PR_PRP सरपटत_RB सरपटत_RB मागे_N_NST सरकला_V_VM</s>
+<s> काही_QT_QTF मिटर्स_RD_RDF तु_PR_PRP उलटा_RB कसलाही_PR_PRQ आवाज_N_NN न_RP_NEG करता_V_VM जात_V_VM राहीला_V_VMआणि_CC दाट_JJ झाडीत_N_NN शिर  ल्यावर_V_VM हळुच_RB उठुन_V_VM तो_PR_PRP धावत_V_VM सुटला_V_VM</s>
+<s> पु्ढील_RB कित्तेक_RB सेकंद_N_NN, मिनिट्स_RD_RDF, तास_N_NN दिपक_N_NNP वेड्यासारखा_JJ धावत_V_VM होता_V_VAUX</s>
+<s> जरा_QT_QTF कुठं_PR_PRQ खुट्ट_RB वाजलं_V_VM की_CC_CCD तो_PR_PRP सावध_N_NN होई_V_VM</s>
+<s> जवळपासच्या_RB झाडामागे_RB किंवा_CC गवतामध्ये_N_NN लपुन_V_VM परीस्थीतीचा_N_NN अंदाज_N_NN घेई_V_VM आणि_CC_CCD सर्व_QT_QTF काही_QT_QTF ठिक_N_NN आहे_V_VAUX ह्याची_PRP खात्री_N_NN पटल्यावर_V_VM दिशा_N_NN बदलुन_V_VM पुन्हा_RB धावत_V_VM सुटे_V_VM</s>
+<s> जेंव्हा_PR_PRL हे_DM जंगल_N_NN जगाच्या_N_NN अंतापर्यंतच_N_NN आहे_V_VAUX की_CC_CCD काय_PR_PRQ असे_PRP दिपकला_N_NNP वाटु_V_VM लागले_V_VM होते_V_VAUX</s>
+<s> तेंव्हा_PR_PRL त्याला_PR_PRP दुरुन_RB रहदारीचा_N_NN आवाज_N_NN येऊ_V_VM लागला_V_VMहोता_V_VM</s>
+<s>गाड्यांच्या_N_NN वेगावरुन_N_NN जवळपास_N_NST एखादा_QT_QTC हाय-वे_RD_RDF असावा_V_VM असा_V_VM दिपकने_N_NNP अंदाज_N_NN बांधला_V_VM.</s>
+<s>रस्ता_N_NN दिसु_V_VM लागला_V_VMतसा_PRP दिपक_N_NNP लपुन_V_VM पुन्हा_RB अंदाज_N_NN घेउ_V_VM लागला_V_VM</s>
+<s> १५-२०_QT_QTC मिनीटं_N_NN अंदाज_N_NN घेतल्यानंतर_RB दिपकला_N_NNP संशयास्पद_JJ असे_V_VM काही_QT_QTF आढळले_V_VMनाही_V_VM</s>
+<s> रस्त्यावरुन_N_NN नेहमीचीच_RB तुरळक_JJ वाहतुक_N_NN होते_V_VAUX</s>
+<s> माल_N_NN वाहुन_V_VM न्हेणारे_JJ ट्रक्स_RD_RDF, प्रवासी_JJ बसेस_N_NN आणि_CC_CCD कार्स_RD_RDF, क्वचीत_CC एखाद्या_QT_QTF जवळपासच्या_RB गावातील_N_NN मोटारसायकलवरुन_N_NN जाणारे_JJ रहीवासी_N_NN वगैरे_RB</s>
+<s>दिपकने_N_NNP मोकळा_JJ रस्ता_N_NN पाहुन_V_VM पटकन_RB ओलांडला_V_VM आणि_CC_CCD पलीकडच्या_N_NST विरळ_JJ झाडीत_N_NN शिरला_V_VM</s>
+<s> दुरवर_RB दिपकला_N_NNP एक_QT_QTC पत्र्याची_JJ शेड_N_NN आणि_CC_CCD एक_QT_QTC झोपडीवजा_JJ घर_N_NN दिसत_V_VM होते_V_VAUX</s>
+<s> दिपक_N_NNP दबकत-दबकत_RB त्या_DM_DMD शेडच्या_N_NN दिशेने_N_NN जाऊ_V_VM लागला_V_VM</s>
+<s>त्या_DM_DMD शेडमधुन_N_NN रेडीओवर_N_NN लागलेल्या_JJ जुन्या_JJ गाण्यांचे_N_NN आवाज_N_NN येत_V_VM होते_V_VAUX.</s>
+<s>दिपकने_N_NNP शेडच्या_N_NN खिडकीतुन_N_NNP आत_N_NST डोकावुन_RB पाहीले_V_VM आतमध्ये_N_NST कोणी_DM_DMQ दिसत_V_VM तरी_CC_CCD नव्हते_V_VM</s>
+<s> एकुण_RB परीस्थीतीवरुन_N_NN तरी_CC_CCD ते_PR_PRP एखाद्या_PRP मटण_N_NN विक्रेत्याचे_PRP घर_N_NN वाटत_V_VM होते_V_VAUX</s>
+<s> एक_QT_QTC टीपीकल_RD_RDF वास_N_NN वातावरणात_N_NN भरुन_V_VM राहीला_V_VM होता_V_VM</s>
+<s> आतमध्ये_N_NST सोललेले_JJ ४-५_QT_QTC बोकड_N_NN उलटे_JJ टांगले_V_VM होते_V_VAUX</s>
+<s>दिपक_N_NNP अर्धवट_JJ लोटलेले_JJ दार_N_NN उघडुन_V_VM आतमध्ये_N_NST शिरला_V_VM तसा_PR_PRP एक_QT_QTC उग्र_JJ दर्प_N_NN त्याच्या_PR_PRP नाकात_N_NN घुसला_V_VM</s>
+<s> दिपकने_N_NNP नाक_N_NN घट्ट_JJ दाबुन_V_VM धरले_V_VM</s>
+<s> जमीनीवर_N_NN ताज्या_JJ रक्ताचा_N_NN पाट_N_NN वाहात_V_VM होता_V_VAUX</s>
+<s> नुकतेच_RB हलाल_N_NN केलेले_V_VM एक_QT_QTC बोकड_N_NN तेथे_DM_DMD पाय_N_NN झाडत_RB तडफडत_RB प्राण_N_NN जाण्याची_JJ वाट_N_NN पहात_V_VM पडले_V_VM होते_V_VAUX</s>
+<s> बोकडाला_N_NN चिरून_V_VM हात-पाय_N_NN धुवायला_V_VM तेथील_DM_DMD माणुस_N_NN जवळपास_N_NST गेला_V_VM असावा_V_VM असा_CC_CCS_UT दिपकने_N_NNP अंदाज_N_NN बांधला_V_VM</s>
+<s> अर्थात_N_NN दिपकलाही_N_NNP तेथे_DM_DMD फार_RP_INTF वेळ_N_NN थांबण्याची_JJ इच्छा_N_NN नव्हती_V_VM</s>
+<s> सर्वात_RB प्रथम_N_NN आ्वश्यकता_N_NN होती_V_VAUX ती_PR_PRP कपड्यांची_N_NN</s>
+<s> तुरुंगातील_N_NN कैद्यांचे_N_NN कपडे_N_NN घालुन_V_VM दिपकला_N_NNP उघड्यावर_N_NN फिरणे_V_VM केवळ_RB अशक्य_JJ होते_V_AUXआणि_CC मिळालेच_V_VM तर_CC_CCS थोडेफार_QT_QTF पैसे_N_NN</s>
+<s>दिपक_N_NNP सर्वत्र_RB शोधाशोध_N_NN करु_V_VM लागला_V_VM</s>
+<s> इतक्यात_RB शेडचे_N_NN दार_N_NN उघडण्याचा_JJ आवाज_N_NN झाला_V_VM</s>
+<s> दिपक_N_NNP चपळाईने_RB शेजारील_RB एका_QT_QTC पिंपाच्या_N_NN मागे_N_NST दडून_RB बसला_V_VM</s>
+<s> सर्वत्र_RB माश्या_N_NN मोठ्या_JJ प्रमाणात_N_NN घोंगावत_V_VMहोत्या_V_VM</s>
+<s> जंगलातुन_N_NN पळताना_V_VM हाता-पायाला_N_NN खरचटण्याने_V_VM जखमा_N_NN झाल्या_V_VM होत्या_V_VM त्यावर_PR_PRP माश्या_N_NN येऊन_V_VM बसत_V_VM होत्या_V_VM</s>
+<s> आधीच_RB ठणकणारे_RB त्याचे_PR_PRP हात_N_NN पाय_N_NN, माश्यांमुळे_N_NN अजुनच_RB चुरचुरत_V_VM होते_V_VAUX</s>
+<s> दिपक_N_NNP शक्य_N_NN तितक्या_RB हळुवारपणे_RB माश्या_N_NN हकलावत_V_VM होता_V_VM, परंतु_CC त्या_DM_DMD माश्या_N_NN फिरुन-फिरुन_RB पुन्हा_RB त्याच्या_PR_PRP जखमांवर_N_NN येऊन_V_VM बसत_V_VMहोत्या_V_VM</s>
+<s> बाहर_RD_RDF आओ_RD_RDF नही_RD_RDF तो_RD_RDF मै_RD_RDF पोलिसको_RD_RDF फोन_RD_RDF करुंगा_RD_RDF</s>
+<s>”, अचानक_RB त्या_DM_DMD शेडमध्ये_N_NN आलेल्या_JJ व्यक्तीचा_N_NN दिपकला_N_NNP आवाज_N_NN ऐकु_V_VM आाला_V_VM</s>
+<s>उगाच_RB नशीबाची_N_NN परीक्षा_N_NN पहाण्यात_V_VM अर्थ_N_NN नव्हता_V_VM</s>
+<s> दिपक_N_NNP तेथे_DM_DMD लपुन_V_VM बसला_V_VM आहे_V_VM हे_DM त्या_DM_DMD व्यक्तीला_N_NN नक्कीच_RB कळाले_V_VM होते_V_VAUX</s>
+<s> उगाच_RB त्याने_PR_PRP पोलिसांना_N_NN फोन_RD_RDF केला_V_VM असता_V_VM तर_CC_CCS नसते_JJ संकट_N_NN ओढावले_V_VM असते_V_VM</s>
+<s> त्याच्या_PR_PRP समोर_N_NST एक_QT_QTC साठीतला_JJ हडकुळा_JJ बर्‍यापैकी_QT_QTF वृध्द_JJ गृहस्थ_N_NN उभा_V_VM होता_V_VAUX</s>
+<s> चौकटी-चौकटीची_JJ लुंगी_N_NN, अंगात_N_NN मळलेला_JJ बनीयन_N_NN, खुरटी_JJ दाढी_N_NN आणि_CC_CCD हातात_N_NN बोकड_N_NN कापायचा_V_VM मोठ्ठा_JJ सुरा_N_NN</s>
+<s>अर्थात_RB दिपकला_N_NNP त्याच्या_PR_PRP सुर्‍याचे_N_NN भय_N_NN नव्हते_V_VM</s>
